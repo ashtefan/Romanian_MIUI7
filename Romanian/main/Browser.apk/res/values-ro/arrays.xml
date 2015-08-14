@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="menu_theme_setting">
+        <item>Alb</item>
+        <item>Galben</item>
+        <item>Gri</item>
+        <item>Maro</item>
+        <item>Verde</item>
+        <item>Albastru</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Minuscul</item>
+        <item>Mic</item>
+        <item>Normal</item>
+        <item>Mare</item>
+        <item>Imens</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Pagina de pornire prestabilită</item>
+        <item>Personalizată</item>
+     </string-array>
+</resources>

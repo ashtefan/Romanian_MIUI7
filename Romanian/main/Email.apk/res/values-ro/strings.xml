@@ -259,7 +259,7 @@
     <string name="deleted">Ştearsă</string>
     <string name="device_activity_btn_str">Activare</string>
     <string name="device_activity_lint_str">Activați serviciile de e-mail și activaţi setările de securitate</string>
-    <string name="device_admin_description">Activează politicile de securitate specificate pentru server</string>
+    <string name="device_admin_description">Activați politicile de securitate specificate pentru server</string>
     <string name="device_admin_label">E-mail</string>
     <string name="device_not_activiey_lint1">Gestiunea dispozitivului nu este activată</string>
     <string name="device_not_activiey_lint2">Serviciile de e-mail nu funcționează cu Exchange</string>

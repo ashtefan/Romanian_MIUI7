@@ -273,8 +273,8 @@
     <string name="power_center_ontime_boot">Ora de pornire</string>
     <string name="power_center_ontime_shutdown">Ora de oprire</string>
     <string name="power_center_repeat">Repetare</string>
-    <string name="power_center_state_off">Oprită</string>
-    <string name="power_center_state_on">Pornită</string>
+    <string name="power_center_state_off">Dezactivat</string>
+    <string name="power_center_state_on">Activat</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
     <string name="power_center_title">Energie</string>

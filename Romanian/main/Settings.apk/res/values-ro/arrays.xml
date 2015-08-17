@@ -166,7 +166,7 @@
         <item>5 secunde</item>
         <item>10 secunde</item>
         <item>20 de secunde</item>
-        <item>Mereu</item>
+        <item>Mereu activat</item>
      </string-array>
      <string-array name="captioning_edge_type_selector_titles">
         <item>Niciunul</item>

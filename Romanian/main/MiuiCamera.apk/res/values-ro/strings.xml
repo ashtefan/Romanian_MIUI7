@@ -344,4 +344,8 @@
     <string name="confirm_recording_fail_calling_alert">Nu se poate înregistra în timpul apelului.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">O altă aplicație poate utiliza deja microfonul dispozitivului pentru a înregistra.</string>
     <string name="confirm_recording_fail_title">Nu se poate înregistra</string>
+    <string name="camera_snap_mode_title">Mod instantaneu</string>
+    <string name="camera_snap_mode_title_detail">Apăsați pentru a vizualiza detaliile</string>
+    <string name="pref_camera_snap_enable_summary">Atunci când ecranul este oprit, apăsați și țineți apăsat butonul Volum ▼ pentru a intra în modul instantaneu. Apăsați-l din nou pentru a face o fotografie.</string>
+    <string name="pref_camera_snap_enable_title">Mod instantaneu</string>
 </resources>

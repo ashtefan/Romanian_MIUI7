@@ -241,9 +241,9 @@ o conexiune de date mobilă"</string>
     <string name="pref_whitelist_setting">Gestionare excepţii</string>
     <string name="privacy_declare_dialog_message">Prin utilizarea acestui serviciu, sunteti de acord cu &lt;a href=%s&gt; Condițiile de utilizare&lt;/a&gt; Opera."</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>
-    <string name="privacy_prompt_tc_sms_report_message">Numărul dvs. de telefon și detaliile operatorului vor fi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor.</string>
-    <string name="privacy_prompt_traffic_adjust_message">Această caracteristică necesită trimiterea numărului IMEI, numărului de telefon şi a informaţiilor operatorului pe serverele Mi, cu scopul de a obține statistici de utilizare a datelor de la operatorul dvs..</string>
-    <string name="privacy_prompt_traffic_purchase_message">Numărul dvs. de telefon și detaliile operatorului vor fi încărcate pe serverele Mi, pentru a obține mai multe informații despre opțiunile de achiziție a datelor.</string>
+    <string name="privacy_prompt_tc_sms_report_message">Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor.</string>
+    <string name="privacy_prompt_traffic_adjust_message">Această caracteristică necesită criptarea şi trimiterea IMEI-ului, numărului de telefon şi a informaţiilor operatorului pe serverele Mi, cu scopul de a obține statistici de utilizare a datelor de la operatorul dvs..</string>
+    <string name="privacy_prompt_traffic_purchase_message">Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, pentru a obține mai multe informații despre opțiunile de achiziție a datelor.</string>
     <string name="privacy_prompt_upload">Încărcare</string>
     <string name="reach_daily_limit_value_body">Reduceți utilizarea datelor mobile.</string>
     <string name="reach_daily_limit_value_title">Limita de date zilnică a fost atinsă</string>
@@ -557,4 +557,9 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="traffic_saving_can_optimized">Optimizaţi</string>
     <string name="pref_title_diagnostics_show_float_notification">Notificări plutitoare</string>
     <string name="traffic_setting_fragment_area_dual">%s Local</string>
+    <string name="restrictbackground_conflict_saving_msg">Nu se poate utiliza economisirea datelor atunci când datele de fundal sunt restricționate. Dezactivaţi economisirea datelor şi restricţionaţi datele de fundal?</string>
+    <string name="saving_conflict_dialog_cancel">Anulaţi</string>
+    <string name="saving_conflict_dialog_ok">OK</string>
+    <string name="saving_conflict_dialog_title">Atenţie</string>
+    <string name="saving_conflict_restrictbackground_msg">Nu se poate utiliza economisirea datelor atunci când datele de fundal este restricționat. Permiteți datele de fundal și activaţi economisirea datelor?</string>
 </resources>

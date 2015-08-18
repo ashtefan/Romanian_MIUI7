@@ -586,4 +586,5 @@
     <string name="pref_show_sms_template_in_summary">Detectare automată a OTP în SMS</string>
     <string name="pref_time_auto_group_disabled_summary">Nu este acceptat în dimensiunea actuală fontului</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru OTP</string>
+    <string name="exceed_message_text_limitation">Limita de text a mesajului a fost atinsă.</string>
 </resources>

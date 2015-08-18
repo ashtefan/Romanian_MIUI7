@@ -96,7 +96,7 @@ Pentru a activa contul, urmați
     <string name="passport_user_agreement_p4">Politica de confidențialitate</string>
     <string name="passport_privacy_policy">Politica de confidențialitate</string>
     <string name="passport_user_agreement">Acordul de utilizare</string>
-    <string name="passport_loading">Încărcare…</string>
+    <string name="passport_loading">Doar o secundă…</string>
     <string name="passport_license_host_unreachable">Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s.</string>
     <string name="passport_skip_setup_account_title">Omiteţi configurarea</string>
     <string name="passport_skip_setup_account_msg">Puteți configura un cont Mi mai târziu în Setări.</string>
@@ -245,7 +245,7 @@ Pentru a activa contul, urmați
     <string name="account_user_gender_male">Masculin</string>
     <string name="account_user_birthday">Zi de naştere</string>
     <string name="account_user_id">ID cont Mi</string>
-    <string name="account_user_details">Informaţii utilizator</string>
+    <string name="account_user_details">Informaţii personale</string>
     <string name="account_user_name_dialog_title">Introduceţi numele de utilizator</string>
     <string name="account_user_using_weibo_avatar">Utilizați imaginea profilului Sina Weibo</string>
     <string name="account_user_using_qq_avatar">Utilizați imaginea profilului QQ</string>
@@ -320,9 +320,9 @@ Pentru a activa contul, urmați
     <string name="account_bind_secure_phone_title">Adăugaţi un telefon pentru recuperare</string>
     <string name="account_none_binded_info">Niciunul</string>
     <string name="account_none_binded_secure_phone">Niciun telefon pentru recuperare</string>
-    <string name="account_user_base_info">Informaţii utilizator</string>
+    <string name="account_user_base_info">Informaţii personale</string>
     <string name="account_user_recovery_phone">Telefon pentru recuperare</string>
-    <string name="account_user_secure_info">Informaţii de securitate</string>
+    <string name="account_user_secure_info">Telefon şi e-mail</string>
     <string name="change_email_address">Schimbaţi adresa de e-mail</string>
     <string name="change_phone_number">Schimbaţi numărul de telefon</string>
     <string name="checking_phone_num_availible">Verificare telefon…</string>
@@ -355,4 +355,6 @@ Introduceti codul de verificare în e-mail"</string>
     <string name="account_vip_level">Cont</string>
     <string name="account_vip_task">Progres</string>
     <string name="vip_level_value">Nivel %d</string>
+    <string name="passport_account_identity_title">Verificaţi identitatea dvs.</string>
+    <string name="passport_send_too_many_code">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
 </resources>

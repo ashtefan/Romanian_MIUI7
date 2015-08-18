@@ -3037,7 +3037,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="deny_sms_message">Nu permiteți aplicațiilor instalate să trimită SMS-uri</string>
     <string name="deny_sms_title">Blocare SMS</string>
     <string name="dndm_vip_call_setting_detal">Se acceptă întotdeauna apeluri de la excepții</string>
-    <string name="dndm_wristband">Brățară inteligentă</string>
+    <string name="dndm_wristband">Mi Band</string>
     <string name="dndm_wristband_detailed">Se activează Nu deranjați, dacă Mi Band detectează că dormiţi cu o oră înainte de ora de începere programată</string>
     <string name="dndm_wristband_detailed2">Se dezactivează Nu deranjați, dacă Mi Band detectează că v-aţi trezit cu o oră înainte de sfârșitul orei programate</string>
     <string name="every_day">În fiecare zi</string>

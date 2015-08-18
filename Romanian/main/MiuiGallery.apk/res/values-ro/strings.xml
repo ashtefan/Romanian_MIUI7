@@ -279,7 +279,7 @@
     <string name="item_not_sync_for_origin_video">Imposibil de descărcat videoclipurile care nu au fost sicronizate cu Mi Cloud.</string>
     <string name="item_not_sync_for_refocus_data">Imposibil de obţinut datele de focusare pentru fotografiile care nu au fost sicronizate cu Mi Cloud.</string>
     <string name="kick_owner_user_positive_button_text">Eliminaţi</string>
-    <string name="kick_owner_user_title">Eliminați acest membru?</string>
+    <string name="kick_owner_user_title">Eliminați această persoană?</string>
     <string name="kick_sharer">Eliminaţi un destinatar</string>
     <string name="kick_sharer_failed">Eliminare eşuată</string>
     <string name="kick_sharer_successfully">Eliminare reuşită</string>
@@ -376,7 +376,7 @@
     <string name="original">Original</string>
     <string name="original_scale">Original</string>
     <string name="other_category">Setări adiţionale</string>
-    <string name="owner_album_subtitle">Partajat cu %1$s utilizatori</string>
+    <string name="owner_album_subtitle">Partajat cu %1$s persoane</string>
     <string name="paint_cancel_context">Renunțaţi la modificările efectuate la această imagine?</string>
     <string name="paint_cancel_title">Renunțaţi la modificări</string>
     <string name="paint_crop_cancel_context">Salvaţi imaginea decupată?</string>
@@ -487,7 +487,7 @@
     <string name="share_by_email_successfully">Partajat %1$s</string>
     <string name="share_current_album">Partajaţi albumul curent</string>
     <string name="share_public_url_text">Am partajat albumul %1$s. Îl poţi vedea la %2$s</string>
-    <string name="sharer_quota_fulfiled">Aţi partajat deja acest album unui număr maxim de utilizatori.</string>
+    <string name="sharer_quota_fulfiled">Aţi partajat deja acest album unui număr maxim de persoane.</string>
     <string name="sharpen">Accentuare</string>
     <string name="show_all">Imagini şi videoclipuri</string>
     <string name="show_hidden_album">Afişarea albumelor ascunse</string>

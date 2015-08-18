@@ -487,7 +487,7 @@
     <string name="outbox_alert_description_auth_error">Eroare de autorizare pe server în timpul sincronizării mesajelor trimise.</string>
     <string name="outbox_alert_description_http_error">Eroare HTTP în timpul sincronizării mesajelor trimise.</string>
     <string name="outbox_alert_description_provision_error">Eroare de furnizare server în timpul sincronizării mesajelor trimise.</string>
-    <string name="outbox_alert_description_sent_failed">Dimensiunea ataşamentului depășește limita permisă de către destinatar.</string>
+    <string name="outbox_alert_description_sent_failed">Dimensiunea ataşamentului depășește limita server-ului.</string>
     <string name="outbox_alert_duplicate_click">Sincronizare…</string>
     <string name="outbox_alert_edit_resend">Editaţi şi retrimiteţi</string>
     <string name="outbox_alert_failed_edit_resend">Nu s-a putut trimite. Editați și încercați din nou.</string>
@@ -782,4 +782,7 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="contextmenu_edit">Editaţi contactul</string>
     <string name="get_database_exception">Bază de date anormală, eliminaţi datele în informaţiile aplicaţiei E-mail</string>
     <string name="share_choose">Selectaţi</string>
+    <string name="account_setup_failed_too_many_partnerships">Conectare eşuată, numărul maxim de conexiuni pe server a fost atins.</string>
+    <string name="outbox_alert_description_email_size_error">Dimesiunea maximă a aplicaţiei E-mail a fost astinsă.</string>
++  <string name="outbox_alert_description_fail_authentication">Nume de utilizator sau parolă greşite.</string>
 </resources>

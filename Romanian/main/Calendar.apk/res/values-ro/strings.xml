@@ -221,7 +221,7 @@
     <string name="preferences_home_tz_title">Fus orar de acasă</string>
     <string name="preferences_reminder_title">Notificare și mementouri</string>
     <string name="preferences_show_week_num_title">Afişaţi numărul săptămânii</string>
-    <string name="preferences_title">Setări</string>
+    <string name="preferences_title">Calendar</string>
     <string name="preferences_use_home_tz_descrip">Calend. şi orele even. în fusul orar de acasă când călăt.</string>
     <string name="preferences_use_home_tz_title">Fusul orar acasă</string>
     <string name="preferences_week_start_day_default">-1</string>
@@ -360,4 +360,6 @@
     <string name="travel_seat_number_text">Loc</string>
     <string name="travel_train_number_text">Tren</string>
     <string name="travel_train_station">Gară</string>
+    <string name="alert_reminder_divider">|</string>
+    <string name="alert_reminder_expired">Expirat</string>
 </resources>

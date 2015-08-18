@@ -552,8 +552,8 @@ necondiţionat activată"</string>
     <string name="msim_default_setting">Setări prestabilite</string>
     <string name="msim_enable_sim">Activaţi</string>
     <string name="msim_general_setting">Setări</string>
-    <string name="msim_info_editor_name">Editaţi numele cartelei SIM</string>
-    <string name="msim_info_editor_number">Editaţi numărul cartelei SIM</string>
+    <string name="msim_info_editor_name">Numele cartelei SIM</string>
+    <string name="msim_info_editor_number">Numărul cartelei SIM</string>
     <string name="msim_info_editor_set_name_error">Imposibil de salvat numele</string>
     <string name="msim_mode_progress_activating_message">Activare</string>
     <string name="msim_mode_progress_deactivating_message">Dezactivare</string>

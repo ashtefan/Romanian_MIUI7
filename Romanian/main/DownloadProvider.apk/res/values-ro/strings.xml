@@ -66,4 +66,12 @@ Atingeţi %s  pentru a începe această descărcare data viitoare când vă cone
     <string name="notification_download_success_more">Au fost descărcate %1$d fişiere</string>
     <string name="enter_garbage_clean">Curăţare stocare internă.</string>
     <string name="insufficient_space">Nu este suficient spațiu în memoria internă a dispozitivului</string>
+    <string name="button_download_now">Descărcaţi acum</string>
+    <string name="button_wait_for_wifi">Aşteptaţi</string>
+    <string name="recommended_file_more_in_mobile" formatted="false">Utilizarea conexiunii de date mobile pentru a descărca aceste %s fişiere (%s ) va crește utilizarea datelor mobile.</string>
+    <string name="recommended_file_one_in_mobile">Utilizarea conexiunii de date mobile pentru a descărca acest fişier (%s ) va crește utilizarea datelor mobile.</string>
+    <string name="recommended_file_size_download_in_mobile" formatted="false">"Nu sunteţi conectat la Wi-Fi în acest moment. %s
+
+Nu se poate obține informaţia despre dimensiunea fișierului. Pentru a utiliza conexiunea de date mobile pentru a descărca acest fișier, apăsaţi %s. Pentru a aștepta și descărca acest fișier atunci când vă conectaţi la Wi-Fi, apăsați %s."</string>
+    <string name="recommended_no_file_size_download_in_mobile" formatted="false">Nu se poate obține informaţia despre dimensiunea fișierului. Pentru a utiliza conexiunea de date mobile pentru a descărca acest fișier, apăsaţi %s. Pentru a aștepta și descărca acest fișier atunci când vă conectaţi la Wi-Fi, apăsați %s.</string>
 </resources>

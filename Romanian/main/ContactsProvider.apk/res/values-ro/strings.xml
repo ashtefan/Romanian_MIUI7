@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_label">Stocarea datelor din Agendă</string>
-     <string name="call_log_provider_label">Jurnal apeluri</string>
+     <string name="call_log_provider_label">Istoric apeluri</string>
      <string name="create_contact">Contact nou</string>
      <string name="debug_dump_database_message">Sunteţi pe cale: 1) să faceţi o copie a bazei de date ce cuprinde toate informațiile asociate contactelor și toate jurnalele apelurilor în memoria internă; 2) să o trimiteţi prin e-mail. Amintiți-vă să ștergeţi copia de îndată ce a fost copiată cu succes de pe dispozitiv sau dacă e-mail-ul a fost primit.</string>
      <string name="debug_dump_delete_button">Ştergeţi acum</string>

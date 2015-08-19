@@ -587,4 +587,10 @@
     <string name="pref_time_auto_group_disabled_summary">Nu este acceptat în dimensiunea actuală fontului</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru OTP</string>
     <string name="exceed_message_text_limitation">Limita de text a mesajului a fost atinsă.</string>
+    <string name="mx_and_voip_enable">Mesaje şi Voce Mi</string>
+    <string name="mx_and_voip_enable_popup_msg">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori MIUI fără a suporta cheltuieli de la operatorul dvs.. VoIP este susţinută de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
+    <string name="mx_and_voip_enable_popup_msg2">Politica de confidențialitate</string>
+    <string name="voip_enable">Mesaje şi Voce Mi</string>
+    <string name="voip_enable_popup_msg">Efectuaţi apeluri către alți utilizatori MIUI fără a suporta cheltuieli de la operatorul dvs.. VoIP este susţinută de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
+    <string name="voip_enable_popup_msg2">Politica de confidențialitate</string>
 </resources>

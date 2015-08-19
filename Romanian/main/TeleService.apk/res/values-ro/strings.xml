@@ -240,7 +240,7 @@
     <string name="contactdeleteSuccess">Contact şters de pe SIM</string>
     <string name="cursorError">Eroare cursor</string>
     <string name="data_enable_summary">Activaţi accesul de date prin reţeaua mobilă</string>
-    <string name="data_enabled">Date activate</string>
+    <string name="data_enabled">Date mobile</string>
     <string name="deactivate_all">Revocare totală</string>
     <string name="default_preference_summary">&lt;Nesetat></string>
     <string name="delete">Ştergeţi</string>

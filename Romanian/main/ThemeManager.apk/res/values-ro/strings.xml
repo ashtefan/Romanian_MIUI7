@@ -38,7 +38,7 @@
     <string name="download_success">Descărcare finalizată</string>
     <string name="fail_to_add_account">Nu s-a putut adăuga contul</string>
     <string name="favorite_list">Favorite</string>
-    <string name="favorite_list_format">Favorite %1$s</string>
+    <string name="favorite_list_format">Favorit %1$s</string>
     <string name="gift_anonymous">Anonim</string>
     <string name="gift_count_format">%1$s+</string>
     <string name="gift_operation_fail_dlg_abandon">Anulaţi</string>
@@ -329,7 +329,7 @@
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
-    <string name="wallpaper_loading_text">Încărcare…</string>
+    <string name="wallpaper_loading_text">Doar o secundă…</string>
     <string name="wallpaper_set_as_both">Setaţi pt. ambele</string>
     <string name="wallpaper_set_as_destop">Setaţi ca imagine de fundal</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal blocare ecran</string>
@@ -362,10 +362,10 @@
     <string name="present_local_themes">Descărcate</string>
     <string name="present_online_themes">On-line</string>
     <string name="lockscreen_magazine_subscribe">%1$s fani</string>
-    <string name="lockscreen_magazine_summary">Obţineţi noi imagini de fundal livrate direct pe ecranul de blocare</string>
-    <string name="lockscreen_magazine_system_subscribe">%1$s selectate</string>
+    <string name="lockscreen_magazine_summary">Obţineţi imagini de fundal livrate direct pe ecranul de blocare în fiecare zi</string>
+    <string name="lockscreen_magazine_system_subscribe">%1$s imagini de fundal</string>
     <string name="lockscreen_magazine_system_title">Prestabilit</string>
-    <string name="lockscreen_magazine_title">Ecrane de blocare întreținute</string>
+    <string name="lockscreen_magazine_title">Ecrane de blocare zilnice</string>
     <string name="theme_apply_failured">Nu se poate aplica fundalul ecranului de blocare</string>
     <string name="theme_apply_success">Fundal aplicat</string>
     <string name="theme_applying">Aplicare…</string>

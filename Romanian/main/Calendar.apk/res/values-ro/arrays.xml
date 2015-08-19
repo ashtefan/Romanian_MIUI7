@@ -244,4 +244,16 @@
         <item>6 ore</item>
         <item>1 zi</item>
     </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Niciunul</item>
+        <item>0 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>30 de minute</item>
+        <item>1 oră</item>
+        <item>1 zi</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </string-array>
 </resources>

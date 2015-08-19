@@ -232,11 +232,11 @@
         <item>Nativ</item>
      </string-array>
      <string-array name="entries_font_size">
-        <item>Normal</item>
-        <item>Mediu</item>
-        <item>Mare</item>
-        <item>Enorm</item>
-        <item>Godzilla</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5 inchi</item>
@@ -713,8 +713,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Se afişează animaţiile de sistem</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>Pentru a accelera performanța dispozitivului, ascundeţi animațiile de sistem</item>
-        <item>Animațiile de sistem pot reduce performanțele dispozitivului</item>
+        <item>Se accelerează performanța dispozitivului</item>
+        <item>Se pot reduce performanțele dispozitivului</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reporniți dispozitivul pentru a aplica această setare?</item>

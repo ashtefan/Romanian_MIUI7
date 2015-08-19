@@ -3,6 +3,6 @@
     <string name="app_label">Stocare telefon/mesaje</string>
     <string name="mms_provider_label">MMS</string>
     <string name="mms_sms_provider_label">Mesagerie</string>
-    <string name="sms_provider_label">SMS</string>
+    <string name="sms_provider_label">Mesaje</string>
     <string name="siminfo_default_name">SIM%d</string>
 </resources>

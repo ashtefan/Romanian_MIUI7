@@ -29,10 +29,10 @@
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Repornire</string>
     <string name="provision_inputmethod_policy_description">"
-Vizualizaţi "</string>
-    <string name="provision_inputmethod_policy_description1">Politica de confidențialitate a tastaturii selectate</string>
+Vizualizaţi Politica de confidențialitate a tastaturii selectate"</string>
+    <string name="provision_inputmethod_policy_description1">Politica de confidențialitate</string>
     <string name="setting_locale">Setare localizare…</string>
-    <string name="shut_down">Oprire</string>
+    <string name="shut_down">Închidere</string>
     <string name="sim_card_detecting">Verificare cartelă SIM…</string>
     <string name="sim_card_detection">Introduceţi o cartelă SIM</string>
     <string name="sim_card_detection_info"></string>

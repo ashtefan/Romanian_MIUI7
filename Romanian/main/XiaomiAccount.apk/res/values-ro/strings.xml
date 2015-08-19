@@ -357,4 +357,20 @@ Introduceti codul de verificare în e-mail"</string>
     <string name="vip_level_value">Nivel %d</string>
     <string name="passport_account_identity_title">Verificaţi identitatea dvs.</string>
     <string name="passport_send_too_many_code">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
+    <string name="passport_change_phone_number">Comutare numere</string>
+    <string name="passport_confirm_recycle_account">Da</string>
+    <string name="passport_identitfication_expired">Codul de verificare a expirat, porniţi de la început</string>
+    <string name="passport_input_password_for_login">Acest număr este asociat cu un cont existent, introduceți parola dvs.</string>
+    <string name="passport_recycle_account_prompt">Este acesta contul dvs. Mi?</string>
+    <string name="passport_register_restricted">Prea multe conturi au fost asociate cu acest număr, încercați altul</string>
+    <string name="passport_register_restricted_title">Nu se poate utiliza acest număr de telefon</string>
+    <string name="passport_reject_recycle_account">Nu</string>
+    <string name="passport_reset_fail_title">Nu a putut fi resetat</string>
+    <string name="passport_reset_password_prompt">Parola este incorectă</string>
+    <string name="passport_reset_password_title">Resetaţi parola</string>
+    <string name="passport_restart">Porniţi de la început</string>
+    <string name="passport_restart_register_prompt">Un alt mesaj de verificare poate fi necesar pentru a crea un cont.</string>
+    <string name="passport_restart_register_title">Creaţi un cont Mi</string>
+    <string name="passport_wait_for_sms_prompt">Porniţi de la început acum? Livrarea mesajelor de verificare poate dura până la 10 minute, atunci când telefonul se află în raza rețelei de operatorului dvs..</string>
+    <string name="passport_wrong_password">Parola este incorectă</string>
 </resources>

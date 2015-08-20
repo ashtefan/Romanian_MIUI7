@@ -284,7 +284,7 @@
     <string name="dialerIconLabel">Recente</string>
     <string name="dialerKeyboardHintText">Utilizaţi tastatura pentru a forma</string>
     <string name="dialer_addAnotherCall">Adăugaţi un apel</string>
-    <string name="dialer_empty_text_loading">Încărcare…</string>
+    <string name="dialer_empty_text_loading">Doar o secundă…</string>
     <string name="dialer_empty_text_no_call_log">Nicio persoană contactată recent</string>
     <string name="dialer_empty_text_no_search_result">Nu a fost găsit niciun contact</string>
     <string name="dialer_returnToInCallScreen">Reveniţi la apelul în curs</string>
@@ -957,8 +957,8 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="websiteLabelsGroup">Site web</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ştergeţi datele</string>
-    <string name="yellowPageNavigationIconLabel">Registru de adrese</string>
-    <string name="yellowPageNavigationLabel">Registru de adrese</string>
+    <string name="yellowPageNavigationIconLabel">Pagini aurii</string>
+    <string name="yellowPageNavigationLabel">Pagini aurii</string>
     <string name="yellowpage_navigation_clear_search_history">Goliţi istoricul</string>
     <string name="yellowpage_navigation_more_items">Mai multe</string>
     <string name="yellowpage_navigation_more_items_title">Mai multe servicii</string>

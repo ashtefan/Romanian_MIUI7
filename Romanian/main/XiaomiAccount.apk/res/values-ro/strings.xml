@@ -239,7 +239,7 @@ Pentru a activa contul, urmați
     <string name="account_user_email">E-mail</string>
     <string name="account_user_phone">Număr de telefon</string>
     <string name="account_user_name">Nume</string>
-    <string name="account_user_avatar">Imaginea de profil</string>
+    <string name="account_user_avatar">Fotografie de profil</string>
     <string name="account_user_gender">Sex</string>
     <string name="account_user_gender_female">Feminin</string>
     <string name="account_user_gender_male">Masculin</string>
@@ -247,9 +247,9 @@ Pentru a activa contul, urmați
     <string name="account_user_id">ID cont Mi</string>
     <string name="account_user_details">Informaţii personale</string>
     <string name="account_user_name_dialog_title">Introduceţi numele de utilizator</string>
-    <string name="account_user_using_weibo_avatar">Utilizați imaginea profilului Sina Weibo</string>
-    <string name="account_user_using_qq_avatar">Utilizați imaginea profilului QQ</string>
-    <string name="account_user_using_facebook_avatar">Utilizați imaginea profilului Facebook</string>
+    <string name="account_user_using_weibo_avatar">Utilizați fotografia profilului Sina Weibo</string>
+    <string name="account_user_using_qq_avatar">Utilizați fotografia profilului QQ</string>
+    <string name="account_user_using_facebook_avatar">Utilizați fotografia profilului Facebook</string>
     <string name="account_user_avatar_from_camera">Faceţi o fotografie</string>
     <string name="account_user_avatar_from_album">Selectaţi o fotografie</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
@@ -278,7 +278,7 @@ Pentru a activa contul, urmați
     <string name="micloud_sync_state_stop">Oprit</string>
     <string name="micloud_sync_state_need_wifi">Utilizaţi Wi-Fi pentru sincronizare</string>
     <string name="micloud_space_info">Disponibil: %s</string>
-    <string name="loading_micloud_sync_data">Încărcare…</string>
+    <string name="loading_micloud_sync_data">Doar o secundă…</string>
     <string name="account_learn_more_title">Creaţi un cont Mi gratuit</string>
     <string name="cloud_service_dspt">Sincronizaţi fotografiile, contactele, notele, aplicațiile și altele între toate dispozitivele.</string>
     <string name="theme_store">Magazin Teme MIUI</string>
@@ -316,10 +316,10 @@ Pentru a activa contul, urmați
     <string name="micloud_sync_state_pending">În aşteptare</string>
     <string name="account_bind_new_phone">Adăugaţi un telefon nou</string>
     <string name="account_bind_phone_notice">Utilizați acest număr de telefon pentru a vă conecta la contul dvs., pentru a reseta parola, sau pentru a modifica setările de securitate.</string>
-    <string name="account_bind_secure_email_title">Adăugaţi un e-mail pentru recuperare</string>
-    <string name="account_bind_secure_phone_title">Adăugaţi un telefon pentru recuperare</string>
+    <string name="account_bind_secure_email_title">Adăugaţi un e-mail</string>
+    <string name="account_bind_secure_phone_title">Adăugaţi un număr de telefon</string>
     <string name="account_none_binded_info">Niciunul</string>
-    <string name="account_none_binded_secure_phone">Niciun telefon pentru recuperare</string>
+    <string name="account_none_binded_secure_phone">Niciun număr de telefon</string>
     <string name="account_user_base_info">Informaţii personale</string>
     <string name="account_user_recovery_phone">Telefon pentru recuperare</string>
     <string name="account_user_secure_info">Telefon şi e-mail</string>

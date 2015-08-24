@@ -17,7 +17,7 @@
     <string name="password_error">Introduceţi parola corectă.</string>
     <string name="password_empty_error">Introduceţi parola.</string>
     <string name="name_empty_error">Introduceţi un nume.</string>
-    <string name="name_char_error">Introduceţi un nume care conţine doar litere şi numere.</string>
+    <string name="name_char_error">Introduceţi un nume care conţine doar litere şi cifre.</string>
     <string name="storage_error">Nu se poate salva certificatul. Atingeţi OK pentru a încerca din nou.</string>
     <string name="unable_to_save_cert">Nu se poate salva certificatul. Spaţiul de stocare a certificatelor nu este activat sau nu este corect iniţializat.</string>
     <string name="cert_not_saved">Certificatul nu este instalat.</string>

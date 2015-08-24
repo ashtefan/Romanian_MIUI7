@@ -42,10 +42,10 @@
     <string name="add_to_quicklink">Pagina de pornire</string>
     <string name="added_to_bookmarks">Marcaje</string>
     <string name="adjust_text_zoom_toast">Modificarea dimensiunii textului poate provoca afișarea incorectă a unor site-uri</string>
-    <string name="alert_tips">Acest site poate fi un risc de securitate</string>
+    <string name="alert_tips">Acest site poate prezenta un risc de securitate</string>
     <string name="allow">Permiteţi</string>
     <string name="app_new_version">Descărcare finalizată. Cea mai recentă versiune a aplicației este instalată deja</string>
-    <string name="app_update_install">Descărcare finalizată! Gata pentru instalarea versiunii actualizate</string>
+    <string name="app_update_install">Descărcare finalizată! Pregătit pentru instalarea versiunii actualizate</string>
     <string name="application_name">Browser</string>
     <string name="autologin_bar_error">Imposibil de conectat</string>
     <string name="autologin_bar_hide_text">Ascundeţi</string>
@@ -61,7 +61,7 @@
     <string name="bookmark_cannot_save_url">Această adresă URL nu poate fi marcată</string>
     <string name="bookmark_folder_needs_title">Introduceţi numele grupului</string>
     <string name="bookmark_group_lable">Grup</string>
-    <string name="bookmark_needs_title">Marcajul trebuie să fie denumit</string>
+    <string name="bookmark_needs_title">Marcajul trebuie să poarte un nume</string>
     <string name="bookmark_needs_url">Marcajul trebuie să aibă o locaţie</string>
     <string name="bookmark_not_saved">Marcajul nu a putut fi salvat</string>
     <string name="bookmark_rename_group">Redenumiţi grupul</string>
@@ -95,12 +95,12 @@
     <string name="close_ads_title">Blocaţi conținutul?</string>
     <string name="close_all_tab_alert_message">Închideţi toate filele?</string>
     <string name="close_all_tab_alert_title">Închideţi toate filele</string>
-    <string name="close_cloud_tab_tip">Închideți filele nor din %s?</string>
+    <string name="close_cloud_tab_tip">Închideți filele Cloud din %s?</string>
     <string name="cloud_loading_tips">Glisați în jos pentru a sincroniza</string>
     <string name="cloud_no_new_data_toast">Totul este la zi</string>
-    <string name="cloud_sync_closed_toast">Nu se poate actualiza din cauză că sincronizarea este dezactivată</string>
+    <string name="cloud_sync_closed_toast">Nu se poate actualiza deoarece sincronizarea este dezactivată</string>
     <string name="cloud_sync_failed_toast">Nu se poate actualiza</string>
-    <string name="cloud_tab">File din nor</string>
+    <string name="cloud_tab">File din Cloud</string>
     <string name="cloud_time_tips">Ultima sincronizare</string>
     <string name="cloud_up_to_loading_tips">Eliberați pentru sincronizare</string>
     <string name="color_picker_button_black">Negru</string>
@@ -176,7 +176,7 @@
     <string name="edit_bookmark">Modificaţi marcajul</string>
     <string name="edit_quicklink">Editaţi</string>
     <string name="empty_bookmark">Gol</string>
-    <string name="empty_history_hint">Isotric gol</string>
+    <string name="empty_history_hint">Istoric gol</string>
     <string name="enter_developer_mode">Intraţi în modul dezvoltator</string>
     <string name="enter_incongnito_mode">Intraţi în modul incognito</string>
     <string name="error_console_eval_button_text">Evaluaţi</string>
@@ -206,7 +206,7 @@
     <string name="geolocation_permissions_prompt_toast_allowed">Acest site poate accesa locaţia dvs. Puteţi modifica acest lucru în ecranul Setări > Avansate > Site web.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Acest site nu poate accesa locaţia dvs.</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Anulaţi</string>
-    <string name="geolocation_settings_page_dialog_message">Ştergeţi accesul la locaţie al acestui site web?</string>
+    <string name="geolocation_settings_page_dialog_message">Blocaţi accesul la locaţie al acestui site web?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
     <string name="geolocation_settings_page_summary_allowed">Acest site poate accesa locația dvs.</string>
     <string name="geolocation_settings_page_summary_not_allowed">Acest site nu poate accesa locaţia dvs.</string>
@@ -215,7 +215,7 @@
     <string name="have_sent_bookmark_to_home_screen">Plasat pe ecranul de pornire</string>
     <string name="history_saved_webpage">Salvaţi pagina</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-    <string name="in_incognito">"Sunteţi incognito! Paginile web pe care le deschideţi în această filă nu vor apărea în istoricul browserului dvs.."</string>
+    <string name="in_incognito">"Sunteţi incognito! Paginile web pe care le deschideţi în această filă nu vor apărea în istoricul browserului."</string>
     <string name="is_first_history_item">Acesta este primul element din istoric</string>
     <string name="is_first_tab">Aceasta este prima filă</string>
     <string name="is_last_history_item">Acesta este ultimul element din istoric</string>
@@ -225,8 +225,8 @@
     <string name="js_dialog_before_unload">"%s
 
 Părăsiţi această pagină?"</string>
-    <string name="js_dialog_before_unload_negative_button">Rămâneți</string>
-    <string name="js_dialog_before_unload_positive_button">Părăsiţi</string>
+    <string name="js_dialog_before_unload_negative_button">Rămâneți pe pagină</string>
+    <string name="js_dialog_before_unload_positive_button">Părăsiţi pagina</string>
     <string name="js_dialog_before_unload_title">Confirmaţi navigarea</string>
     <string name="js_dialog_title">Pagina de la \" %s \" zice:</string>
     <string name="js_dialog_title_default">JavaScript</string>
@@ -235,7 +235,7 @@ Părăsiţi această pagină?"</string>
     <string name="last_month">Ultima lună</string>
     <string name="loading_tips">Glisați în jos pentru a actualiza</string>
     <string name="local_bookmarks">Mi</string>
-    <string name="low_memory_error">Imposibil de a finaliza operaţiunea anterioară din cauza memoriei insuficiente</string>
+    <string name="low_memory_error">Imposibil de finalizat operaţiunea anterioară din cauza memoriei insuficiente</string>
     <string name="max_tabs_warning">Limită de file atinsă</string>
     <string name="maximum_input_alert">Nu se pot introduce mai mult de 2048 de caractere</string>
     <string name="media_error_action_refresh">Reîmprospătaţi</string>
@@ -277,7 +277,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_mobile">Reţea mobilă</string>
     <string name="miuichromium_error_page_reason_network">Nu se poate conecta la reţea</string>
     <string name="miuichromium_error_page_reason_server">Nu se poate încărca această pagină</string>
-    <string name="miuichromium_error_page_reload">Reîncărcaţi</string>
+    <string name="miuichromium_error_page_reload">Reîncărcaţi pagina</string>
     <string name="miuichromium_error_page_title">Nu se poate găsi această pagină</string>
     <string name="miuichromium_error_page_url">Nu se poate conecta la reţea</string>
     <string name="miuichromium_error_page_wlan">Setări Wi-Fi</string>
@@ -326,7 +326,7 @@ Părăsiţi această pagină?"</string>
     <string name="pref_extras_reset_default_title">Altele</string>
     <string name="pref_extras_title">Avansat</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Salvați fișierele în locația prestabilită a browser-ului</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">Restabiliţi locaţia prestabilită</string>
+    <string name="pref_file_downlaod_save_reset_default_settings">Restabiliţi locaţia implicită</string>
     <string name="pref_file_download_default_path_prefix">Locaţie prestabilită: %s</string>
     <string name="pref_file_download_save_modify_default_path">Locaţie de descărcare</string>
     <string name="pref_file_download_save_title">Descărcări</string>
@@ -348,7 +348,7 @@ Părăsiţi această pagină?"</string>
     <string name="pref_privacy_clear_form_data_dlg">Ştergeţi toate datele salvate în formular?</string>
     <string name="pref_privacy_clear_form_data_summary">Ştergeţi toate datele salvate în formular</string>
     <string name="pref_privacy_clear_geolocation_access">Opriţi accesul la locaţie</string>
-    <string name="pref_privacy_clear_geolocation_access_dlg">Ştergeţi accesul la locaţie al site-ului web?</string>
+    <string name="pref_privacy_clear_geolocation_access_dlg">Blocaţi accesul la locaţie al site-ului web?</string>
     <string name="pref_privacy_clear_geolocation_access_summary">Opriţi accesul tuturor site-urilor web la locaţia dvs.</string>
     <string name="pref_privacy_clear_history">Ştergeţi istoricul</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Ştergeţi istoricul de navigare?</string>
@@ -377,12 +377,12 @@ Părăsiţi această pagină?"</string>
     <string name="pref_setting_title">Setări pagină</string>
     <string name="pref_ua_string">Agent utilizator</string>
     <string name="pref_volume_key_action">Derulare cu ajutorul butoanelor de volum</string>
-    <string name="private_browsing_warning">Această funcționalitate nu este susţinută în această versiune Android.</string>
+    <string name="private_browsing_warning">Această funcționalitate nu este disponibilă în versiunea Android curentă.</string>
     <string name="profiler_error_toast">Nu se poate porni Profiler</string>
-    <string name="profiler_no_storage_toast">Nu se poate porni Profiler deoarece stocarea externă nu este gata</string>
+    <string name="profiler_no_storage_toast">Nu se poate porni Profiler deoarece stocarea externă nu este pregătită</string>
     <string name="profiler_started_toast">Profiler pornit</string>
     <string name="profiler_stopped_toast">Profiler finalizat. Rezultatele sunt în %1$s.</string>
-    <string name="progress_dialog_setting_wallpaper">Se setează imaginea de fundal…</string>
+    <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
     <string name="qr_code_title">Cod QR</string>
     <string name="quicklink_bookmark_save">Salvaţi această pagină</string>
     <string name="quicklink_not_saved">Nu s-a putut adăuga la pagina de start</string>
@@ -500,7 +500,7 @@ Părăsiţi această pagină?"</string>
     <string name="time_picker_dialog_title">Setaţi ora</string>
     <string name="title_bar_loading">Se încarcă…</string>
     <string name="too_many_windows_dialog_message">Browser-ul nu poate deschide o filă nouă până când nu închideţi alta.</string>
-    <string name="too_many_windows_dialog_title">A fost atinsă limita pentru numărul de file</string>
+    <string name="too_many_windows_dialog_title">A fost atinsă limita pentru numărul de file deschise</string>
     <string name="up_to_loading_tips">Eliberați pentru a actualiza</string>
     <string name="uploads_disabled">Încărcarea fişierelor este dezactivată</string>
     <string name="url_copy_done">URL copiat în clipboard</string>
@@ -533,7 +533,7 @@ Părăsiţi această pagină?"</string>
     <string name="video_group_noupdates_list">Nicio actualizare disponibilă</string>
     <string name="video_group_updates_list">Actualizări</string>
     <string name="video_project_button">Opriţi</string>
-    <string name="video_project_msg">Video este proiectat pe %s</string>
+    <string name="video_project_msg">Videoclipul este proiectat pe %s</string>
     <string name="video_project_title">Proiectare video</string>
     <string name="video_push_multi_message">%1$d actualizări disponibile.</string>
     <string name="video_push_multi_title">Actualizări disponibile</string>
@@ -549,7 +549,7 @@ Părăsiţi această pagină?"</string>
     <string name="webpage_history_title">Istoric</string>
     <string name="webpage_title">Marcaje şi istoric</string>
     <string name="webview_find_on_page">Găsiți pe pagină</string>
-    <string name="webviewchromium_private_browsing_warning">Această funcţionalitate nu este susţinută în această versiune Android.</string>
+    <string name="webviewchromium_private_browsing_warning">Această funcţionalitate nu este disponibilă în versiunea Android curentă.</string>
     <string name="week_picker_dialog_title">Setaţi săptămâna</string>
     <string name="action_menu_text_fullscreen">Ecran complet</string>
     <string name="sub_sync_item_browser_title_useful">Sincronizarea paginii de pornire</string>
@@ -564,7 +564,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuishare_account_login_confirmation">Conectarea este necesară</string>
     <string name="miuishare_account_login_ok">Conectare</string>
     <string name="miuishare_account_need_activate">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, care nu este activat în prezent. Activaţi contul dvs.?</string>
-    <string name="miuishare_account_need_login">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, , care este conectat în prezent. Vă conectați pentru a partaja acum?</string>
+    <string name="miuishare_account_need_login">Partajarea Weibo necesită ca contul dvs. Weibo să fie asociat cu contul Xiaomi, care este conectat în prezent. Vă conectați pentru a partaja acum?</string>
     <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_no_network">Nicio reţea pentru partajare</string>
     <string name="miuishare_publish">Trimiteţi</string>
@@ -576,7 +576,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="abc_action_bar_home_description">Navigaţi acasă</string>
     <string name="abc_action_bar_up_description">Navigaţi în sus</string>
-    <string name="abc_action_menu_overflow_description">MAi multe</string>
+    <string name="abc_action_menu_overflow_description">Mai multe</string>
     <string name="abc_action_mode_done">Finalizat</string>
     <string name="action_menu_text_add_bookmark">Adăugaţi un marcaj</string>
     <string name="action_menu_text_bookmark_added">Marcaj adăugat</string>
@@ -584,13 +584,13 @@ Părăsiţi această pagină?"</string>
     <string name="action_menu_text_create_qr_code">Cod QR</string>
     <string name="action_menu_text_find_in_page">Găsiţi în pagină</string>
     <string name="action_menu_text_refresh">Reîmprospătaţi</string>
-    <string name="dont_remind_again">Se memorizează această alegere</string>
+    <string name="dont_remind_again">Se memorează această alegere</string>
     <string name="find_new_version">Actualizări disponibile</string>
     <string name="license_activity_title">Licenţe WebView de sistem</string>
     <string name="next_button_label">Înainte</string>
     <string name="pref_auto_update_under_wifi">Actualizare automată în Wi-Fi</string>
     <string name="pref_extras_title_version">Versiune</string>
-    <string name="pref_version_info">Informaţi versiune</string>
+    <string name="pref_version_info">Informaţii versiune</string>
     <string name="save_page_capture_tip">Deschideţi panoul notificărilor pentru a vizualiza captura de ecran.</string>
     <string name="save_page_capture_to_camera">Captură de ecran salvată</string>
     <string name="secure_download_in_xiaomi_market">Descărcaţi în Magazin Aplicaţii</string>

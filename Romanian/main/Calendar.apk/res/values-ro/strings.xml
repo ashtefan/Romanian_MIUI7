@@ -9,11 +9,11 @@
     <string name="accessibility_pick_start_time">De la</string>
     <string name="accessibility_pick_time_zone">Fus orar</string>
     <string name="accessibility_reminder_privacy">Confidenţialitate</string>
-    <string name="accessibility_reminder_showmeas">Doresc să fiu afişat(ă) ca</string>
+    <string name="accessibility_reminder_showmeas">Doresc să fiu afişat ca</string>
     <string name="accessibility_reminder_time">Timp pentru memento</string>
     <string name="accessibility_reminder_type">Tip memento</string>
     <string name="accessibility_remove_attendee">Eliminaţi participantul</string>
-    <string name="accessibility_remove_reminder">Eliminaţi mementoul</string>
+    <string name="accessibility_remove_reminder">Eliminaţi memento-ul</string>
     <string name="accessibility_repeats">Repetare</string>
     <string name="accessibility_sync_cal">Sincronizaţi calendarul</string>
     <string name="account_and_calendar">Cont şi calendar</string>
@@ -47,7 +47,7 @@
     <string name="birthday_metric" />
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_text_three_days_later">3 zile până la %3$s (%4$s)</string>
-    <string name="birthday_notification_text_today">Nu uitaţi să spuneţi La Mulţi Ani!</string>
+    <string name="birthday_notification_text_today">Nu uitaţi să-i spuneţi "La Mulţi Ani!"</string>
     <string name="birthday_notification_title_three_days_later">Se apropie %2$s lui %1$s</string>
     <string name="birthday_notification_title_today">%1$s sărbătoreşte %3$s</string>
     <string name="birthday_notification_type_term_lunar" />
@@ -76,7 +76,7 @@
     <string name="creating_event">Eveniment creat</string>
     <string name="creating_event_with_guest">Invitaţiile vor fi trimise</string>
     <string name="cta_notice_checkbox">Nu se afişează din nou</string>
-    <string name="cta_notice_message">\"Notificarea despre data naşterii\" în Calendar vă va reaminti despre ziua de naștere a contactelor înainte de timp, însă va accesa contactele dvs. Sunteţi de acord?</string>
+    <string name="cta_notice_message">\"Notificarea despre data naşterii\" în Calendar vă va reaminti despre ziua de naștere a contactelor, însă va accesa contactele dvs. Sunteţi de acord?</string>
     <string name="cta_notice_ok">De accord</string>
     <string name="cta_notice_title">Notificare</string>
     <string name="cta_notify_settings">Se notifică la accesarea contactelor</string>
@@ -115,7 +115,7 @@
     <string name="email_guests_label">Trimiteţi e-mailuri invitaţilor</string>
     <string name="email_picker_label">E-mail cu</string>
     <string name="email_subject_prefix">"Re: "</string>
-    <string name="empty_event">Evenimentul gol nu s-a creat</string>
+    <string name="empty_event">Evenimentul gol nu a fost creat</string>
     <string name="enter_calendar">În calendar</string>
     <string name="event_account">Cont</string>
     <string name="event_action_delete">Ştergeţi</string>
@@ -141,7 +141,7 @@
     <string name="event_view">Vizualizaţi evenimentul</string>
     <string name="every_weekday">În fiecare zi lucrătoare (Luni – Vineri)</string>
     <string name="exist_calendar">Abonat</string>
-    <string name="from_google_group_calendar">Google calendar</string>
+    <string name="from_google_group_calendar">calendar Google</string>
     <string name="gadget_no_events">Niciun eveniment viitor în calendar</string>
     <string name="gadget_title">Calendar</string>
     <string name="goto_today">Azi</string>
@@ -176,14 +176,14 @@
     <string name="month_medium_january">Ian.</string>
     <string name="month_medium_july">Iul.</string>
     <string name="month_medium_june">Iun.</string>
-    <string name="month_medium_march">Mart.</string>
+    <string name="month_medium_march">Mar.</string>
     <string name="month_medium_may">Mai</string>
     <string name="month_medium_november">Noi.</string>
     <string name="month_medium_october">Oct.</string>
     <string name="month_medium_september">Sept.</string>
     <string name="month_view">Lună</string>
     <string name="monthly">Lunar</string>
-    <string name="monthly_on_day">Lunar (aceeași zi)</string>
+    <string name="monthly_on_day">Lunar (în aceeași zi)</string>
     <string name="monthly_on_day_count">Lunar (%1$s %2$s)</string>
     <string name="more_string">+%1$s</string>
     <string name="movable_list_header_label">Scurtă introducere</string>
@@ -194,7 +194,7 @@
     <string name="no_network">Nicio rețea, încercați să reîmprospătați din nou rețeaua</string>
     <string name="no_syncable_calendars">Niciun calendar</string>
     <string name="no_title_label">(Fără titlu)</string>
-    <string name="not_exist_topic_list">Imposibil de a obține o listă de calendar subscris</string>
+    <string name="not_exist_topic_list">Nu se poate obține o listă de calendar subscris</string>
     <string name="not_synced">nesincronizat</string>
     <string name="online_calendar_activity_label">Abonare la calendar</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrare</string>
@@ -234,7 +234,7 @@
     <string name="quick_response_email_failed">Nu s-a găsit o aplicaţie pentru e-mail</string>
     <string name="quick_response_settings">Răspunsuri rapide</string>
     <string name="quick_response_settings_edit_title">Răspuns rapid</string>
-    <string name="quick_response_settings_summary">Editaţi răspuns prestab. e-mailuri invitaţi</string>
+    <string name="quick_response_settings_summary">Editaţi textul prestabilit al e-mailurilor către invitaţi</string>
     <string name="quick_response_settings_title">Editaţi răsp. rapide</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="reminders_label">Adăugaţi memento</string>
@@ -302,7 +302,7 @@
     <string name="topic_list_header_label">Lista de abonamente</string>
     <string name="user_notice_online_ok">Acceptați și continuați</string>
     <string name="user_notice_online_title">Termeni și condiții</string>
-    <string name="view_all_matches">View all Fixtures</string>
+    <string name="view_all_matches">Vizualizaţi toate potrivirile</string>
     <string name="view_event_calendar_label">Calendar:</string>
     <string name="view_event_organizer_label">Organizator:</string>
     <string name="view_event_response_label">Participaţi?</string>
@@ -350,8 +350,8 @@
     <string name="travel_item_reminder_overdue">Atenție</string>
     <string name="travel_item_trafic">Trafic</string>
     <string name="travel_item_virtual_sim">SIM Virtual Mi</string>
-    <string name="travel_item_weather_forecast">Prognoza destinație</string>
-    <string name="travel_item_weather_now">Vremea destinație</string>
+    <string name="travel_item_weather_forecast">Prognoza  ladestinație</string>
+    <string name="travel_item_weather_now">Vremea la destinație</string>
     <string name="travel_load_failed">Nu s-a putut încărca</string>
     <string name="travel_loaded">Susţinut de Veryzhun</string>
     <string name="travel_loading">Doar o secundă…</string>

@@ -5,7 +5,7 @@
         <item quantity="one">1 aplicaţie recentă</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
-        <item quantity="other">Blocare %d aplicaţii</item>
-        <item quantity="one">Blocare %d aplicaţie</item>
+        <item quantity="other">Ascundeţi notificările a %d aplicaţii?</item>
+        <item quantity="one">Ascundeţi notificările acestei aplicaţii?</item>
     </plurals>
 </resources>

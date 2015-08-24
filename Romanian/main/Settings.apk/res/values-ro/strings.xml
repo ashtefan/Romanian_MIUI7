@@ -3030,8 +3030,8 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="cancel_action">Anulaţi</string>
     <string name="children_mode_enable_title">Modul Copil</string>
     <string name="children_mode_set_apps_title">Aplicaţii accessibile</string>
-    <string name="children_mode_tips_off">După activarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal</string>
-    <string name="children_mode_tips_on">După dezactivarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal</string>
+    <string name="children_mode_tips_off">După activarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal.</string>
+    <string name="children_mode_tips_on">După dezactivarea Modului Copil, apăsați butonul Acasă pentru a reveni la ecranul principal.</string>
     <string name="children_mode_title">Modul Copil</string>
     <string name="confirm_action">OK</string>
     <string name="deny_sms_message">Nu permiteți aplicațiilor instalate să trimită SMS-uri</string>
@@ -3049,12 +3049,12 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="never">Niciodată</string>
     <string name="repeat">Repetare</string>
     <string name="set_password_action">Setaţi parola</string>
-    <string name="set_password_message">Setați o parolă pentru a dezactiva Modul Copil, precum și pentru a debloca acest dispozitiv</string>
+    <string name="set_password_message">Setați o parolă pentru a dezactiva Modul Copil, precum și pentru a debloca acest dispozitiv.</string>
     <string name="set_password_title">Setaţi parola</string>
     <string name="status_bar_settings_notification_priority">Prioritate</string>
     <string name="status_bar_settings_notification_priority_summary">Se afişează notificările la începutul listei</string>
     <string name="theme_settings_title">Teme</string>
     <string name="advanced_text_layout">Activați aspectele de text avansate</string>
     <string name="experience_optimization_category">Optimizare</string>
-    <string name="pref_edge_handgrip">Edge handgrip</string>
+    <string name="pref_edge_handgrip">Controlale de margini</string>
 </resources>

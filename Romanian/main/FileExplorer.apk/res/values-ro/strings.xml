@@ -11,7 +11,7 @@
     <string name="bind_account_summary">Sincronizaţi contul KuaiPan existent cu contul dvs. Mi</string>
     <string name="binded_accout_description">Contul dvs. Mi a fost sincronizat cu KuaiPan. Acum puteți folosi contul dvs. Mi pentru a accesa datele pe care le-ați stocat în KuaiPan.</string>
     <string name="binded_accout_title">Conturi sincronizate</string>
-    <string name="byteShort">B</string>
+    <string name="byteShort">O</string>
     <string name="cancel">Anulaţi</string>
     <string name="category">Categorii</string>
     <string name="category_all">Toate</string>
@@ -60,6 +60,7 @@
     <string name="delete_dialog_button">Ştergere</string>
     <string name="delete_failed">Ştergere eşuată</string>
     <string name="delete_file">Ştergeţi acest fişier?</string>
+    <string name="delete_file_error">Nu se poate şterge fişierul</string>
     <string name="delete_files">Ştergeţi %1$d fişiere?</string>
     <string name="delete_folder">Ştergeţi acest dosar?</string>
     <string name="delete_folders">Ştergeţi %1$d dosare?</string>
@@ -188,6 +189,7 @@
     <string name="no_wifi_hint">Nicio conexiune</string>
     <string name="notif_server_starting">Pornire server FTP…</string>
     <string name="notif_title">Serverul FTP rulează</string>
+    <string name="online_not_support">Nu se poate vizualiza acest fișier on-line în acest moment.</string>
     <string name="open_changed_file_message">"Fișierul pe care încercați să-l deschideți a fost modificat. Vă rugăm să:
 1. Descărcați din nou fișierul pentru a-l actualiza.
 2. Îl încărcaţi în contul dvs. KuaiPan."</string>
@@ -257,6 +259,7 @@
     <string name="signin_error">Conectarea la server a eşuat. Verificați conexiunea la rețea.</string>
     <string name="signin_success">"Bine aţi venit!
 Spațiu liber adăugat %1$s"</string>
+    <string name="smb_loading">Doar o secundă…</string>
     <string name="space_info">KuaiPan: %1$s disponibili, %2$s în total</string>
     <string name="space_usage">Spaţiu utilizat</string>
     <string name="start_server">Porniţi serverul</string>

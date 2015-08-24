@@ -44,6 +44,8 @@
     <string name="accessibility_wimax_signal_full">WiMAX semnal complet.</string>
     <string name="accessibility_wimax_three_bars">WiMAX trei bare.</string>
     <string name="accessibility_wimax_two_bars">WiMAX două bare.</string>
+    <string name="activate_usb_message">Pentru a activa această caracteristică, introduceţi cartela SIM</string>
+    <string name="activate_usb_title">Activare USB</string>
     <string name="always_use_accessory">Utiliz. în mod prestabilit pt. acest accesoriu USB</string>
     <string name="always_use_device">Utilizaţi în mod prestabilit pt. acest dispoz. USB</string>
     <string name="app_label">UI sistem</string>
@@ -53,6 +55,9 @@
     <string name="battery_low_percent_format">Rămas: %d%%</string>
     <string name="battery_low_title">Conectaţi încărcătorul</string>
     <string name="battery_profiles">Utilizaţi profiluri acumulator</string>
+    <string name="block_record_notification_more_text">Se ascund notificările de la %1$s şi %2$d aplicaţii.</string>
+    <string name="block_record_notification_text">Se ascund notificările de la %1$s.</string>
+    <string name="block_record_notification_title">Notificări ascunse</string>
     <string name="bluetooth_tethered">Conectat prin tethering Bluetooth</string>
     <string name="call_status_dialing">Apelare</string>
     <string name="call_status_ringing">Sunet</string>
@@ -68,9 +73,7 @@
     <string name="camera_key_action_shortcut_wake">Blocaţi/Deblocaţi dispozitivul</string>
     <string name="camera_key_action_toggle_title">Declanşare comutator</string>
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
-    <string name="data_usage_disabled_dialog">"Aţi atins limita specificată pentru utilizarea datelor.
-
-Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
+    <string name="data_usage_disabled_dialog">Aţi atins limita specificată pentru utilizarea datelor.\n\nDacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="data_usage_disabled_dialog_3g_title">Datele 2G-3G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_4g_title">Datele 4G au fost dezactivate</string>
     <string name="data_usage_disabled_dialog_enable">Reactivaţi datele</string>
@@ -79,12 +82,16 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="description_direction_left">Glisaţi în stânga pt. %s</string>
     <string name="description_direction_up">Glisaţi în sus pt. %s</string>
     <string name="description_target_search">Căutaţi</string>
+    <string name="disable_notification_summary">Se ascund notificările aplicaţiei</string>
+    <string name="disable_notification_title">Ascundere notificări</string>
     <string name="dismount_storage">Nu</string>
     <string name="dlg_confirm_kill_storage_users_text">Dacă activaţi stocarea USB, unele aplicaţii pe care le utilizaţi se vor opri şi pot fi inaccesibile până când nu veţi dezactiva stocarea USB.</string>
     <string name="dlg_confirm_kill_storage_users_title">Activaţi stocarea USB</string>
     <string name="dlg_error_title">Operaţiune USB nereuşită</string>
     <string name="dlg_ok">OK</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>
+    <string name="expanded_confirm_disable_notification">Ascundeţi</string>
+    <string name="expanded_notification_manager">Gestionare notificări</string>
     <string name="ext_media_badremoval_notification_message">Demontaţi cardul SD înainte de eliminare pentru a evita pierderea datelor.</string>
     <string name="ext_media_badremoval_notification_title">Cardul SD a fost eliminat în mod neaşteptat</string>
     <string name="ext_media_checking_notification_message">Verificare erori</string>
@@ -106,8 +113,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="headset_info">Personalizaţi funcţiile butonului</string>
     <string name="headset_settings">Căşti conectate</string>
     <string name="hint_for_long_press_app_switch_key">Apăsați și țineți apăsat pentru meniu</string>
-    <string name="invalid_charger">"Încărcarea USB nu este acceptată.
-Utilizați doar încărcătorul furnizat de producător."</string>
+    <string name="invalid_charger">Încărcarea USB nu este acceptată.\nUtilizați doar încărcătorul furnizat de producător.</string>
+    <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Afişaţi</string>
     <string name="lockscreen_carrier_default">Niciun serviciu</string>
     <string name="mdb_entering">Pornire…</string>
@@ -117,7 +124,12 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="mdb_restore_label">Restabilire Mdb</string>
     <string name="mdb_restore_mode">Mod restabilire</string>
     <string name="mdb_usb_disconnection_exit">USB deconectat</string>
+    <string name="media_projection_action_text">Porniţi</string>
+    <string name="media_projection_dialog_text">%s va începe captarea a tot ce este afișat pe ecran.</string>
+    <string name="media_projection_remember_text">Nu se afişează din nou</string>
+    <string name="megabyte_per_second">M/s</string>
     <string name="mount_storage">Da</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_notification_tips">Nicio notificare</string>
     <string name="notification_otg_gamestick_in">Controller jocuri conectat</string>
     <string name="notification_otg_gamestick_out">Controller jocuri deconectat</string>
@@ -135,12 +147,15 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="notification_otg_trackball_out">Trackball deconnectat</string>
     <string name="notification_otg_unknow_in">Dispozitiv OTG conectat</string>
     <string name="notification_otg_unknow_out">Dispozitiv OTG deconectat</string>
+    <string name="notification_template_text">" are o notificare. Atingeți pentru a vizualiza."</string>
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">În apel</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="reject_call">Respingere apel</string>
     <string name="return_to_incall_screen">Reveniţi la apel</string>
+    <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
+    <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
     <string name="screenshot_failed_text">Captura de ecran nu a putut fi salvată. Este posibil să fie utilizată stocarea.</string>
     <string name="screenshot_saved_text">Atingeţi pentru a vedea captura de ecran.</string>
     <string name="screenshot_saved_title">Captură de ecran realizată</string>
@@ -184,11 +199,11 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="usb_accessory_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze accesoriul USB?</string>
     <string name="usb_accessory_uri_prompt">Aplic. instal. nu funcţ. cu acest acces. USB. Aflaţi despre acest accesoriu la %1$s</string>
     <string name="usb_debugging_always">Permiteţi întotdeauna de la acest computer</string>
-    <string name="usb_debugging_message">"Cheia amprentă RSA a computerului este:
-%1$s"</string>
+    <string name="usb_debugging_message">Cheia amprentă RSA a computerului este:\n%1$s</string>
     <string name="usb_debugging_title">Permiteţi depanarea USB?</string>
     <string name="usb_device_confirm_prompt">Deschideţi %1$s la conectarea acestui dispozitiv USB?</string>
     <string name="usb_device_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>
+    <string name="usb_function_charging_text">Conectat în modul încărcare</string>
     <string name="usb_mode_dont_ask">Memorează această alegere</string>
     <string name="usb_mode_mount_storage_title">Activaţi stocarea USB?</string>
     <string name="usb_mode_notification">Stocare USB</string>
@@ -213,23 +228,4 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="user_guide_for_notification">Glisaţi în jos cu un deget pentru a deschide panoul notificărilor</string>
     <string name="user_guide_for_toggle">Lista comutatoarelor poate fi derulată orizontal</string>
     <string name="user_guide_for_toggle_list">Gestionaţi comutatoarele</string>
-    <string name="media_projection_dialog_text">%s va începe captarea a tot ce este afișat pe ecran.</string>
-    <string name="media_projection_remember_text">Nu se afişează din nou</string>
-    <string name="media_projection_action_text">Porniţi</string>
-    <string name="disable_notification_summary">Se ascund notificările aplicaţiei</string>
-    <string name="disable_notification_title">Blocare notificări</string>
-    <string name="expanded_notification_manager">Gestionare notificări</string>
-    <string name="notification_template_text">" are o notificare. Atingeți pentru a vizualiza."</string>
-    <string name="activate_usb_message">Pentru a activa această caracteristică, introduceţi cartela SIM</string>
-    <string name="activate_usb_title">Activare USB</string>
-    <string name="usb_function_charging_text">Conectat în modul încărcare</string>
-    <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
-    <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
-    <string name="block_record_notification_more_text">%1$s %2$d aplicaţii. Atingeţi pentru a vizualiza</string>
-    <string name="block_record_notification_text">%1$s. Atingeţi pentru a vizualiza</string>
-    <string name="block_record_notification_title">Blocare înregistrare</string>
-    <string name="expanded_confirm_disable_notification">Confirmaţi</string>
-    <string name="kilobyte_per_second">K/s</string>
-    <string name="megabyte_per_second">M/s</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
 </resources>

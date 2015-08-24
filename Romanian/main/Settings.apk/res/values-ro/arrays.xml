@@ -380,6 +380,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Galerie</item>
         <item>Muzică</item>
         <item>E-mail</item>
+        <item>Video</item>
      </string-array>
      <string-array name="priority_storage_entries">
         <item>Stocare internă</item>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_not_found">Aplicaţia nu este instalată</string>
+    <string name="app_already_exist">Aplicaţia există deja</string>
     <string name="app_being_backup_message">Aplicația este în curs de rezervare</string>
+    <string name="app_being_restored_message">Aplicaţia este în curs de restabilire</string>
     <string name="app_category_books">Cărți</string>
     <string name="app_category_education">Educație</string>
     <string name="app_category_entertainment">Divertisment</string>
@@ -37,8 +39,13 @@
     <string name="cant_remove_folder">Nu se poate elimina dosarul</string>
     <string name="cant_remove_retained_app">Nu a putut fi eliminată această aplicație</string>
     <string name="cant_remove_system_app">Nu se poate elimina o aplicație de sistem</string>
+    <string name="children_folder_title">Copii</string>
+    <string name="children_mode_exit">Ieşire</string>
+    <string name="children_mode_tips">Întoarceți-vă la Setări și pentru a gestiona accesul la aplicații.</string>
     <string name="choose_wallpaper">Selectaţi imaginea de fundal</string>
     <string name="chooser_wallpaper">Selectaţi imaginea de fundal din</string>
+    <string name="cloud_app_restore_title">În așteptare</string>
+    <string name="configure_wallpaper">Setări</string>
     <string name="confirm_btn_label">OK</string>
     <string name="current_preview">Previzualizare</string>
     <string name="current_wallpaper">Actuală</string>
@@ -50,7 +57,9 @@
     <string name="delete">Ştergeţi</string>
     <string name="delete_wallpaper_message">Ştergeţi %1$d imagine de fundal?</string>
     <string name="delete_wallpapers_message">Ştergeţi %1$d imagini de fundal?</string>
+    <string name="deselect_all">Deselectaţi tot</string>
     <string name="disable_wallpaper_scroll">Dezactivare derulare fundal</string>
+    <string name="download_action">Descărcare</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -69,6 +78,7 @@
     <string name="failed_to_drop">Mutare eşuată</string>
     <string name="failed_to_drop_widget_invalid">Obiect widget nevalid</string>
     <string name="failed_to_drop_widget_nospace">Nu mai este loc pe acest ecran</string>
+    <string name="failed_to_load_image">Nu se poate încărca imaginea</string>
     <string name="folder_name">Dosar</string>
     <string name="frame_load_failed">Încărcarea cadrului a eşuat</string>
     <string name="free_style_apps_title">Selectaţi aplicaţia</string>
@@ -101,6 +111,7 @@
     <string name="gadget_photo_24_label">Imagine 4x2</string>
     <string name="gadget_photo_44_label">Imagine 4x4</string>
     <string name="gadget_photo_label">Imagine</string>
+    <string name="gadget_power_clear_button_label">Curăţare profundă</string>
     <string name="gadget_search_label">Căutare</string>
     <string name="gadget_weather_app_not_installed">Atingeţi pentru a descărca aplicaţia Meteo de la MIUI</string>
     <string name="gadget_weather_aqi_title">"Calitate aer: "</string>
@@ -128,6 +139,7 @@
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">Nu se pot șterge resurse de sistem</string>
     <string name="loading_desktop">Doar o secundă…</string>
+    <string name="loading_wallpaper">Doar o secundă…</string>
     <string name="local_wallpaper">Descărcate</string>
     <string name="lock_screen_failed_message">Aplicare eşuată</string>
     <string name="lock_screen_success_message">Aplicată</string>
@@ -146,6 +158,7 @@
     <string name="menu_wallpaper">Imagini de fundal</string>
     <string name="menu_workspace_preview">Previzualizare</string>
     <string name="mi_wallpaper">Magazin Teme MIUI</string>
+    <string name="mtzgadget_missing_text">Obiectul widget nu este disponibil</string>
     <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma ei</string>
     <string name="online_wallpaper">On-line</string>
     <string name="out_of_space">Nu mai este loc pe acest ecran</string>
@@ -178,8 +191,14 @@
     <string name="preferences_general_title">Setări adiţionale</string>
     <string name="preferences_title">Setări lansator sistem</string>
     <string name="process" />
+    <string name="recommend_apps_default_title">Gol</string>
+    <string name="recommend_apps_notice">Aplicaţii recomandate</string>
+    <string name="recommend_apps_switch_summary">Se afişează aplicațiile recomandate în partea de jos a ecranului.</string>
+    <string name="recommend_apps_switch_title">Aplicaţii recomandate</string>
+    <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar.</string>
     <string name="reset_scene_prompt">Ecranul va fi resetat la aspectul prestabilit.</string>
     <string name="scroll_tip_format_when_announce_accessibility">pagina %1$d, %2$d aplicaţii</string>
+    <string name="select_all">Selectaţi tot</string>
     <string name="select_frame">Cadru</string>
     <string name="select_photo">Fotografie</string>
     <string name="setting_wallpaper_tip">Ciupiți sau glisaţi pentru a ajusta</string>
@@ -220,7 +239,9 @@
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar fără nume</string>
     <string name="wallpaper">Imagine de fundal</string>
+    <string name="wallpaper_auto_change_title">Blocare ecran</string>
     <string name="wallpaper_failed_message">Nu se poate aplica imaginea de fundal</string>
+    <string name="wallpaper_scaling_message">Extindere la dimensiunea fixă</string>
     <string name="wallpaper_settings">Imagine de fundal</string>
     <string name="wallpaper_success_message">Imagine de fundal aplicată</string>
     <string name="widget_favorite_contacts_edit">Editare</string>
@@ -228,23 +249,4 @@
     <string name="widget_favorite_contacts_style">Schimbaţi dimensiunea</string>
     <string name="widget_gadget_player">Muzică</string>
     <string name="widget_global_search">Căutare</string>
-    <string name="cloud_app_restore_title">În așteptare</string>
-    <string name="failed_to_load_image">Nu se poate încărca imaginea</string>
-    <string name="mtzgadget_missing_text">Obiectul widget nu este disponibil</string>
-    <string name="configure_wallpaper">Setări</string>
-    <string name="download_action">Descărcare</string>
-    <string name="loading_wallpaper">Doar o secundă…</string>
-    <string name="app_being_restored_message">Aplicaţia este în curs de restabilire</string>
-    <string name="deselect_all">Deselectaţi tot</string>
-    <string name="select_all">Selectaţi tot</string>
-    <string name="app_already_exist">Aplicaţia există deja</string>
-    <string name="gadget_power_clear_button_label">Curăţare profundă</string>
-    <string name="recommend_apps_default_title">Gol</string>
-    <string name="recommend_apps_notice">Aplicaţii recomandate</string>
-    <string name="recommend_apps_switch_summary">Se afişează aplicațiile recomandate în partea de jos a ecranului.</string>
-    <string name="recommend_apps_switch_title">Aplicaţii recomandate</string>
-    <string name="recommend_apps_tips">Această caracteristică trebuie să se conecteze la internet pentru a funcţiona în mod normal. Pentru a dezactiva opţiunea, atingeți numele acestui dosar.</string>
-    <string name="choose_theme">Temă</string>
-    <string name="default_theme_name">Prestabilită</string>
-    <string name="wallpaper_settings_for_pad">Imagine de fundal</string>
 </resources>

@@ -59,12 +59,10 @@
     <string name="datausage_purchase_pay_confirm">Obţineţi</string>
     <string name="datausage_purchase_pay_hint">Pentru a anula, apelaţi %s</string>
     <string name="datausage_purchase_pkglist_networkerror">Imposibil de conectat la reţea. Verificați conexiunea de date și încercați din nou.</string>
-    <string name="datausage_purchase_pkglist_nodata">"Există un conflict între abonamentul de date curent și abonamentul de date pe care încercați să-l procuraţi.
- Contactaţi operatorul dvs. pentru mai multe informații."</string>
+    <string name="datausage_purchase_pkglist_nodata">Există un conflict între abonamentul de date curent și abonamentul de date pe care încercați să-l procuraţi.\nContactaţi operatorul dvs. pentru mai multe informații.</string>
     <string name="datausage_purchase_pkglist_servererror">Hopa! Ceva nu a mers bine cu serverul nostru.</string>
     <string name="datausage_purchase_result_failed">Imposibil de procurat date. Contactaţi operatorul dvs. pentru mai multe informații despre problemă.</string>
-    <string name="datausage_purchase_result_ok">"Aţi obţinut %s.
-Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de servicii"</string>
+    <string name="datausage_purchase_result_ok">Aţi obţinut %s.\nPentru mai multe informaţii verificaţi mesajul primit de la furnizorul de servicii</string>
     <string name="datausage_purchase_time_in">" în "</string>
     <string name="datausage_purchase_title_confirm">Detalii despre ahiziţionare</string>
     <string name="datausage_purchase_title_order">Suplinire</string>
@@ -111,8 +109,7 @@ Pentru mai multe informaţii verificaţi mesajul primit de la furnizorul de serv
     <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
     <string name="main_alert_message_no_imsi">Nicio cartelă SIM detectată</string>
     <string name="main_alert_message_no_mobile_package">Limita datelor mobile nu a fost setată</string>
-    <string name="main_alert_message_slot_no_data_connection">"Slotul cardului SIM nu susţine
-o conexiune de date mobilă"</string>
+    <string name="main_alert_message_slot_no_data_connection">Slotul cardului SIM nu susţine o conexiune de date mobile</string>
     <string name="main_button_idel_traffic">În afara orelor de vârf</string>
     <string name="main_button_normal_traffic">În orele de vârf</string>
     <string name="main_button_usage_adjust">Sincronizaţi utilizarea datelor mobile</string>
@@ -128,10 +125,8 @@ o conexiune de date mobilă"</string>
     <string name="main_primary_message_traffic_overlimit_purchase">Este necesar să supliniţi</string>
     <string name="main_primary_message_traffic_purchase">Este necesar să supliniţi</string>
     <string name="main_primary_message_traffic_warning">Aproape de limita de utilizare a datelor</string>
-    <string name="main_secondary_message_traffic_detail_leisure">"
-În afara orelor de vârf: %1$s | utilizat %2$s"</string>
-    <string name="main_secondary_message_traffic_detail_normal">"
-În orele de vârf: %1$s%2$s | utilizat %3$s"</string>
+    <string name="main_secondary_message_traffic_detail_leisure">\nÎn afara orelor de vârf: %1$s | utilizat %2$s</string>
+    <string name="main_secondary_message_traffic_detail_normal">\nÎn orele de vârf: %1$s%2$s | utilizat %3$s</string>
     <string name="main_secondary_message_traffic_over">"peste "</string>
     <string name="main_secondary_message_traffic_remain">"rămas "</string>
     <string name="main_secondary_message_traffic_used_leisure">Date utilizate în afara orelor de vârf: %s</string>
@@ -306,17 +301,12 @@ o conexiune de date mobilă"</string>
     <string name="tips_dialog_title">Nu cunoaşteţi limita</string>
     <string name="tips_message">Pentru a vizualiza detalii ale planului de date, apelaţi %2$s (%1$s).</string>
     <string name="title_limit_traffic_per_day">Limita de utilizare zilnică a datelor</string>
-    <string name="traffic_config_alert_body">"Contabilizarea operatorului dvs. arată că aţi utilizat %s
-Actualizați informațiile de utilizare a datelor?"</string>
-    <string name="traffic_config_alert_body_extra">"
-Ați procurat %1$s date suplimentare în această lună. Aceasta este diferit de %2$s pe care i-aţi adăugat manual."</string>
-    <string name="traffic_config_alert_body_extra_notset">"
-Ați procurat %s date suplimentare în această lună. Acest lucru nu se reflectă în datele lunare limită setate manual."</string>
-    <string name="traffic_config_alert_body_leisure">"Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
-    <string name="traffic_config_alert_body_leisure_notset">"
-Contabilizarea operatorului dvs. arată că aveţi %s din datele orelor de vârf. Nu aţi setat o limită pentru datele în afara orelor de vârf."</string>
-    <string name="traffic_config_alert_body_normal">"
-Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual."</string>
+    <string name="traffic_config_alert_body">Contabilizarea operatorului dvs. arată că aţi utilizat %s.\nActualizați informațiile de utilizare a datelor?</string>
+    <string name="traffic_config_alert_body_extra">\nAți procurat %1$s date suplimentare în această lună. Aceasta este diferit de %2$s pe care i-aţi adăugat manual.</string>
+    <string name="traffic_config_alert_body_extra_notset">\nAți procurat %s date suplimentare în această lună. Acest lucru nu se reflectă în datele lunare limită setate manual.</string>
+    <string name="traffic_config_alert_body_leisure">Contabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual.</string>
+    <string name="traffic_config_alert_body_leisure_notset">\nContabilizarea operatorului dvs. arată că aveţi %s din datele orelor de vârf. Nu aţi setat o limită pentru datele în afara orelor de vârf.</string>
+    <string name="traffic_config_alert_body_normal">\nContabilizarea operatorului dvs. arată că aţi utilizat %1$s din datele orelor de vârf în această lună, ceea ce diferă de %2$s setaţi manual.</string>
     <string name="traffic_config_alert_cancel">Anulaţi</string>
     <string name="traffic_config_alert_nomore">Nu afişa din nou</string>
     <string name="traffic_config_alert_ok">OK</string>

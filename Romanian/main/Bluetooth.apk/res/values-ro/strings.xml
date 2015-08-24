@@ -41,7 +41,7 @@
     <string name="unknown_device">Dispozitiv necunoscut</string>
     <string name="unknownNumber">Necunoscut</string>
     <string name="airplane_error_title">Mod Avion</string>
-    <string name="airplane_error_msg">Nu puteţi utiliza Bluetooth în modul Avion.</string>
+    <string name="airplane_error_msg">Nu puteţi utiliza Bluetooth-ul în modul Avion.</string>
     <string name="bt_enable_title" />
     <string name="bt_enable_line1">Pentru a putea utiliza serviciile Bluetooth, trebuie mai întâi să le activaţi.</string>
     <string name="bt_enable_line2">Activaţi acum Bluetooth?</string>
@@ -111,7 +111,7 @@
     <string name="status_running">Transferul fişierului este în curs de desfăşurare.</string>
     <string name="status_success">Transferul fişierului s-a încheiat.</string>
     <string name="status_not_accept">Conţinutul nu este acceptat.</string>
-    <string name="status_forbidden">Transfer interzis de dispozitivul de destinaţie.</string>
+    <string name="status_forbidden">Transfer interzis de dispozitivul destinatar.</string>
     <string name="status_canceled">Transfer anulat de către utilizator.</string>
     <string name="status_file_error">Problemă de stocare.</string>
     <string name="status_no_sd_card">Nu există card SD. Introduceţi un card SD pentru a salva fişierele transferate.</string>
@@ -121,8 +121,8 @@
     <string name="btopp_live_folder">Bluetooth recepţionat</string>
     <string name="download_success">Primire finalizată: %1$s.</string>
     <string name="upload_success">Trimitere finalizată: %1$s.</string>
-    <string name="inbound_history_title">Transferuri de intrare</string>
-    <string name="outbound_history_title">Transferuri de ieşire</string>
+    <string name="inbound_history_title">Transferuri primite</string>
+    <string name="outbound_history_title">Transferuri expediate</string>
     <string name="no_transfers">Istoricul de transferuri este gol.</string>
     <string name="transfer_clear_dlg_msg">Toate elementele din listă vor fi eliminate.</string>
     <string name="outbound_noti_title">Distribuire prin Bluetooth: fişiere trimise</string>
@@ -134,7 +134,7 @@
     <string name="transfer_clear_dlg_title">Ștergeţi</string>
     <string name="airplane_can_not_share">Modul Avion activat. Nu se poate utiliza partajarea Bluetooth</string>
     <string name="upload_fail_waiting">Pregătire fișier pentru trimitere, retransmisie automată mai târziu</string>
-    <string name="bluetooth_in_airplane_mode">În modul avion</string>
+    <string name="bluetooth_in_airplane_mode">În modul Avion</string>
     <string name="pbap_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
     <string name="pbap_session_key_dialog_header">Cheie de sesiune Bluetooth solicitată</string>
     <string name="pbap_acceptance_timeout_message">A expirat timpul pentru acceptarea conexiunii cu %1$s</string>
@@ -142,7 +142,7 @@
     <string name="auth_notif_ticker">Cerere de autentificare pentru protocolul OBEX</string>
     <string name="auth_notif_title">Cheia sesiunii</string>
     <string name="auth_notif_message">Introduceţi cheia de sesiune pentru %1$s</string>
-    <string name="defaultname">Set de maşină</string>
+    <string name="defaultname">Carkit</string>
     <string name="unknownName">Nume necunoscut</string>
     <string name="localPhoneName">Numele meu</string>
     <string name="hello">Bună ziua tuturor! Test de activitate!</string>
@@ -162,7 +162,7 @@
     <string name="map_auth_notif_ticker">Cerere de autentificare pentru protocolul OBEX</string>
     <string name="map_auth_notif_title">Cheia sesiunii</string>
     <string name="map_auth_notif_message">Introduceţi cheia de sesiune pentru %1$s</string>
-    <string name="map_defaultname">Set de maşină</string>
+    <string name="map_defaultname">Carkit</string>
     <string name="map_unknownName">Nume necunoscut</string>
     <string name="map_localPhoneName">Numele meu</string>
     <string name="bluetooth_connected">Împerecheat</string>

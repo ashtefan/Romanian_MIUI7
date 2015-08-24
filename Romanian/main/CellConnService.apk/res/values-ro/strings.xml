@@ -6,7 +6,7 @@
     <string name="confirm_radio_title">SIM dezactivat</string>
     <string name="confirm_radio_title_uim">Cartelă UIM dezactivată</string>
     <string name="confirm_radio_title_card">Cartelă dezactivată</string>
-    <string name="confirm_radio_msg">%1$s este dezactivat acum. Doriţi să activaţi această cartelă SIM?</string>
+    <string name="confirm_radio_msg">%1$s este dezactivată acum. Doriţi să activaţi această cartelă SIM?</string>
     <string name="confirm_radio_msg_uim">%1$s este acum dezactivată. Doriţi să activaţi această cartelă UIM?</string>
     <string name="confirm_radio_msg_card">%1$s este acum dezactivată. Doriţi să activaţi această cartelă?</string>
     <string name="confirm_radio_flight_mode_on_and_msg">Modul Avion este activat şi</string>
@@ -26,7 +26,7 @@
     <string name="confirm_simmelock_msg_uim">Slotul UIM selectat este acum blocat. Deblocaţi-l mai întâi.</string>
     <string name="confirm_simmelock_msg_card">Slotul selectat este acum blocat. Deblocaţi-l mai întâi.</string>
     <string name="confirm_fdn_title">FDN activat</string>
-    <string name="confirm_fdn_msg">Numerele cu apelare fixată sunt activate.</string>
+    <string name="confirm_fdn_msg">Numerele cu apelare fixă sunt activate.</string>
     <string name="confirm_roaming_title">Avertisment roaming</string>
     <string name="confirm_roaming_msg">Cartela SIM pe care urmează să o utilizaţi este în roaming acum. Nu este disponibilă nicio cartelă SIM locală momentan. Doriţi să continuaţi?</string>
     <string name="confirm_roaming_msg_uim">Cartela UIM pe care sunteţi pe cale să o utilizaţi este acum în roaming. Nicio cartelă UIM locală nu este disponibilă acum. Doriţi să continuaţi?</string>

@@ -96,7 +96,7 @@
     <string name="baby_name_cannot_start_with">"Numele nu poate începe cu '%s'"</string>
     <string name="baby_name_contain_invalidate_char">"Numele nu poate conţine '%s'"</string>
     <string name="baby_name_reserved">Acest nume este rezervat pentru un alt album</string>
-    <string name="baby_nick_name">Poreclă</string>
+    <string name="baby_nick_name">Pseudonim</string>
     <string name="baby_sexy">Sex</string>
     <string name="baby_suffix">copil</string>
     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>

@@ -8,7 +8,7 @@
     <string name="add_contact">Contact</string>
     <string name="add_festival">Răspunsuri rapide</string>
     <string name="add_music">Adăugaţi muzică</string>
-    <string name="add_nickname">Poreclă</string>
+    <string name="add_nickname">Pseudonim</string>
     <string name="add_nickname_title">Editaţi porecla</string>
     <string name="add_number_to_sender">Adăugaţi numărul la %s</string>
     <string name="add_picture">Adăugaţi fotografia</string>
@@ -286,7 +286,7 @@
     <string name="new_message_arrived">Aveţi un mesaj nou</string>
     <string name="new_phrase">Adăugaţi un răspuns</string>
     <string name="new_phrase_hint">Introduceţi un răspuns nou</string>
-    <string name="nickname_placeholder">Poreclă</string>
+    <string name="nickname_placeholder">Pseudonim</string>
     <string name="no">Anulaţi</string>
     <string name="no_block_button_msg">Nu se blochează mesajele de la acest număr</string>
     <string name="no_conversations">Nicio conversaţie</string>

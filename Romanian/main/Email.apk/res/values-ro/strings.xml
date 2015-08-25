@@ -31,7 +31,7 @@
     <string name="account_settings_login_dialog_title">Nu s-a putut conecta</string>
     <string name="account_settings_mail_check_frequency_label">Frecvența sincronizării</string>
     <string name="account_settings_mibill_resolve_label">Gestionare automată a facturilor</string>
-    <string name="account_settings_name_label">Poreclă</string>
+    <string name="account_settings_name_label">Pseudonim</string>
     <string name="account_settings_notifications">Setări notificare</string>
     <string name="account_settings_notify_label">Notificări</string>
     <string name="account_settings_notify_summary">Afişare notificare la primirea unui e-mail</string>

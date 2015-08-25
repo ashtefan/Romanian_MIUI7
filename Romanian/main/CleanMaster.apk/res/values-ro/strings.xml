@@ -36,7 +36,7 @@
     <string name="button_text_cleanup">Curăţaţi</string>
     <string name="button_text_delete_from_white_list">Eliminaţi</string>
     <string name="button_text_install">Instalaţi</string>
-    <string name="button_text_keep_one">Se rezervează una</string>
+    <string name="button_text_keep_one">Se rezervă una</string>
     <string name="button_text_known">OK</string>
     <string name="button_text_uninstall">Dezinstalaţi</string>
     <string name="button_text_uninstall_only">Dezinstalaţi %s</string>
@@ -55,13 +55,13 @@
     <string name="deepclean_app_content">Dezinstalarea aplicațiilor care nu au fost utilizate timp de 7 zile</string>
     <string name="deepclean_cache_content">Curăţare date generate de aplicații</string>
     <string name="deepclean_cache_header_left">Fişiere de date: %d</string>
-    <string name="deepclean_large_content">Ștergeţi fișierele mai mari de 10MO</string>
+    <string name="deepclean_large_content">Ștergeţi fișierele mai mari de 10 MO</string>
     <string name="deepclean_similar_ignore">Ignoraţi</string>
     <string name="deepclean_title_large_file">Ştergeţi fişierele mari</string>
     <string name="deepclean_title_uninstall_apps">Aplicaţii utilizate rar</string>
     <string name="default_cache_type">Fişiere de date</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Se şterg, de asemenea, fotografiile din Mi Cloud</string>
-    <string name="dialog_content_delete_image_confirm">Ştergeţi %d (de) fotografii?</string>
+    <string name="dialog_content_delete_image_confirm">Ştergeţi %d fotografii?</string>
     <string name="dialog_content_select_all_confirm">Păstrați o copie a acestei fotografii?</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Faceţi o copie de rezervă şi apoi dezinstalaţi aplicațiile selectate?</string>
     <string name="dialog_msg_check_all">Confirmaţi selectarea %1$s ce conţin %2$d elemente</string>
@@ -74,7 +74,7 @@
     <string name="dialog_title_uninstall_apps">Dezinstalaţi</string>
     <string name="empty_content_no_ignore_image">Gol</string>
     <string name="empty_content_no_privacy">Gol</string>
-    <string name="empty_content_no_similar_image">Nu sunt imagini dublate</string>
+    <string name="empty_content_no_similar_image">Nu există imagini dublate</string>
     <string name="empty_title_ad">Niciun fișier de anunțuri</string>
     <string name="empty_title_apk">Niciun pachet de instalare</string>
     <string name="empty_title_garbage_cache">Nimic de curăţat</string>
@@ -100,14 +100,14 @@
     <string name="hints_garbage_cleanup_result_safe">Totul arată bine</string>
     <string name="hints_garbage_handle_item_content">%1$d elemente, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Gol</string>
-    <string name="hints_install_apps_interval">Utilizată %d zile în urmă</string>
+    <string name="hints_install_apps_interval">Utilizată cu %d zile în urmă</string>
     <string name="hints_install_apps_new">Nu a fost deschisă</string>
     <string name="hints_install_apps_risk">risc detectat</string>
     <string name="hints_install_apps_today">Utilizată astăzi</string>
     <string name="hints_install_apps_virus">virus detectat</string>
     <string name="hints_installed_apps_header_left">Aplicații instalate: %d</string>
     <string name="hints_large_file_header_left">Fişiere mari: %d</string>
-    <string name="hints_latest_garbage_cleanup_date">Ultima curăţare: %d zile în urmă</string>
+    <string name="hints_latest_garbage_cleanup_date">Ultima curăţare: cu %d zile în urmă</string>
     <string name="hints_latest_garbage_cleanup_never">Nu a fost curățat înainte</string>
     <string name="hints_latest_garbage_cleanup_today">Ultima curăţare: astăzi</string>
     <string name="hints_latest_garbage_cleanup_yesterday">Ultima curăţare: ieri</string>
@@ -123,7 +123,7 @@
     <string name="hints_quick_scanning">Scanare…</string>
     <string name="hints_residual_header_left">Reziduuri</string>
     <string name="hints_scanfinish">Nimic de reciclat, încercați curăţarea profundă</string>
-    <string name="hints_storage_clean_size">Au fost eliberaţi %s de pe stocarea internă</string>
+    <string name="hints_storage_clean_size">Au fost eliberaţi %s din stocarea internă</string>
     <string name="hints_storage_free">Liber</string>
     <string name="hints_storage_free_size">%s disponibil, mai multe elemente pot fi curățate</string>
     <string name="hints_storage_news">Ştiri de securitate</string>
@@ -154,7 +154,7 @@
     <string name="pref_summary_auto_clean_and_alert">Setaţi curăţarea automată</string>
     <string name="pref_summary_auto_update_cleanup_db">Actualizat %s</string>
     <string name="pref_summary_cleanup_white_list">Se împiedică ca aplicațiile selectate să fie curățate</string>
-    <string name="pref_summary_expand_cache_group">Se afișerază detaliile cache-ului în mod automat</string>
+    <string name="pref_summary_expand_cache_group">Se afișează detaliile cache-ului în mod automat</string>
     <string name="pref_summary_garbage_auto_clean_content">Selectați ce elemente se vor curăța automat</string>
     <string name="pref_summary_garbage_cleanup_check_size">Curățare automată atunci când coşul de reciclare ajunge la o anumită dimensiune</string>
     <string name="pref_summary_garbage_cleanup_check_time">Programarea unei rutine de curăţare</string>
@@ -175,7 +175,7 @@
     <string name="privacy_app_desc">Cont şi parolă</string>
     <string name="privacy_app_desc_message">Cont, parole, şi mesaje</string>
     <string name="privacy_app_desc_search">Cont, parole, şi istoric căutări</string>
-    <string name="privacy_app_desc_setting">Cont, parole, şi and setări</string>
+    <string name="privacy_app_desc_setting">Cont, parole, şi setări</string>
     <string name="privacy_browser_desc">Elemente căutate</string>
     <string name="privacy_cache_desc">Cont, parole, istoric, setări şi altele</string>
     <string name="privacy_cache_empty">Nu există date private</string>
@@ -187,7 +187,7 @@
     <string name="privacy_search_type">Căutare Google</string>
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
-    <string name="similar_image_desc">Ştergeţi fotografiile similare</string>
+    <string name="similar_image_desc">Ştergeţi fotografiile dublatee</string>
     <string name="similar_image_empty">Nu există fotografii dublate</string>
     <string name="similar_image_scaning">Verificare…</string>
     <string name="similar_image_title">Fotografii</string>

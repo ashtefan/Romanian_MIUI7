@@ -214,6 +214,6 @@ Nu se poate trimite feedback-ul"</string>
     <string name="welcom_button">OK</string>
     <string name="download_success_reboot_immediately">Reporniţi pentru a aplica actualizarea</string>
     <string name="notification_auto_reboot_seccess_title">Dispozitiv actualizat automat</string>
-    <string name="update_success_reboot_immediately">Descărcare actualizată</string>
+    <string name="update_success_reboot_immediately">Actualizare descărcată</string>
     <string name="updater_wait_for_unzip">Despachetare actualizare…</string>
 </resources>

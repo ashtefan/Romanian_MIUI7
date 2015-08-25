@@ -126,6 +126,8 @@
     <string name="cannot_send_message">Imposibil de trimis mesajul</string>
     <string name="cannot_send_message_reason">Niciun destinatar valid</string>
     <string name="cant_delete_system_album">Nu se poate şterge %s deoarece este un album de sistem.</string>
+    <string name="change_to_face_mode">Schimbaţi la Modul Faţă</string>
+    <string name="change_to_photo_mode">Schimbaţi la Modul Fotografie</string>
     <string name="choose_baby_sexy">Sex</string>
     <string name="choose_cloud_album">Selectaţi albumul</string>
     <string name="choose_owner_relation">Relaţie</string>
@@ -183,6 +185,7 @@
     <string name="cool_portrait">Portret</string>
     <string name="create_baby_album">Creaţi un album pentru copil</string>
     <string name="create_baby_album_dialog_msg">Creaţi un album pentru \"%s\"?</string>
+    <string name="create_baby_album_later_toast">Mai târziu, puteți crea albumul copilului din meniul din dreapta sus</string>
     <string name="create_new_cloud_folder">Creaţi un album nou</string>
     <string name="create_new_face">Persoană nouă</string>
     <string name="create_quick_icon_on_desk">Creare comenzi rapide</string>
@@ -463,6 +466,7 @@
     <string name="not_auto_create_recent_album">Anulaţi creare favorite</string>
     <string name="not_is">Nu este</string>
     <string name="not_now">Nu acum</string>
+    <string name="not_remind_any_more">Nu reaminti mai târziu</string>
     <string name="not_show_hidden_albums">Nu se afişează albumele ascunse</string>
     <string name="old">Vintage</string>
     <string name="only_show_camera_in_first_page">Doar fotografii cameră</string>
@@ -482,6 +486,7 @@
     <string name="operation_remove_from_face_album">Eliminaţi chipul</string>
     <string name="operation_remove_secret">Eliminaţi din album ascuns</string>
     <string name="operation_rename">Redenumiţi</string>
+    <string name="operation_rename_baby">Introduceţi numele copilului</string>
     <string name="operation_set_as_screensaver">Setaţi ca screensaver</string>
     <string name="operation_share">Partajaţi</string>
     <string name="operation_successful">Finalizată</string>

@@ -1016,7 +1016,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contact_detail_miprofile_subtitle">Cartele schimbate deja</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Nu se poate conecta la rețea</string>
     <string name="contact_detail_profile_switch_fail_toast">Ceva a mers prost cu serverul nostru</string>
-    <string name="contact_detail_profile_switch_off">Cartele de contact dezactivate</string>
+    <string name="contact_detail_profile_switch_off">Dezactivaţi cartele de contact</string>
     <string name="contact_detail_profile_switch_off_fail_toast">Nu s-au putut dezactiva cartelele de contact</string>
     <string name="contact_detail_profile_switch_off_success_toast">Cartele de contact dezactivate</string>
     <string name="contact_detail_profile_switch_on">Vizualizaţi fotografiile de profil</string>
@@ -1028,7 +1028,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="details_list_group_header_more_action">Mai multe</string>
     <string name="details_list_group_header_other">ALTELE</string>
     <string name="in_call_show">Videoclip</string>
-    <string name="in_call_show_camera_open_error">Eroare la activarea camerei, încercați din nou</string>
+    <string name="in_call_show_camera_open_error">Nu se poate deschide camera</string>
     <string name="in_call_show_delete_message">Ştergeţi videoclipul dvs.?</string>
     <string name="in_call_show_delete_title">Ştergeţi videoclipul?</string>
     <string name="in_call_show_demo_present">Previzualizare</string>
@@ -1044,7 +1044,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="in_call_show_too_short">Prea scurt. Încercați să înregistraţi un videoclip mai lung.</string>
     <string name="in_call_show_video_pick">Selectaţi</string>
     <string name="in_call_show_video_pick_filter">"Videoclipul trebuie să fie mai mic de 3 MO şi mai scurt de 20 de secunde. "</string>
-    <string name="in_call_show_view_play_error">Eroare la redarea videoclipului, încercați din nou</string>
+    <string name="in_call_show_view_play_error">Nu se poate reda videoclipul</string>
     <string name="miprofile_account_type">Cont Mi</string>
     <string name="miprofile_alertdialog_edit">Introduceţi numele</string>
     <string name="miprofile_alertdialog_message">Se afişează acest nume de contact, atunci când solicitaţi să  schimbaţi cardurile.</string>

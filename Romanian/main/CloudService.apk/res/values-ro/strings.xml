@@ -9,7 +9,7 @@
     <string name="apple_10gb">20 G0</string>
     <string name="apple_cloud">Servicii Apple Cloud</string>
     <string name="apple_cloud_eng">iCloud</string>
-    <string name="apple_cloud_price">Aproximativ 72 RMB pe an</string>
+    <string name="apple_cloud_price">Aproximativ 10 euro pe an</string>
     <string name="bad_authentication">Nume utilizator sau parolă greşite</string>
     <string name="btn_return">Înapoi</string>
     <string name="button_cancel">Anulaţi</string>
@@ -22,7 +22,7 @@
     <string name="buy_space_sulotion_renew_title">Reînnoire abonament</string>
     <string name="buy_space_sulotion_title">Achiziţionaţi spaţiu de stocare</string>
     <string name="cloud_find_device">Localizare dispozitiv</string>
-    <string name="cloud_space_upgrade_message">Apăsați pentru a adăuga %sGO în norul dvs.</string>
+    <string name="cloud_space_upgrade_message">Apăsați pentru a adăuga %s GO în contul dvs. de Cloud</string>
     <string name="cloud_space_upgrade_no_quota_info">Nu s-au putut obține informații despre stocare</string>
     <string name="cloud_space_upgrade_title">Mai mult spațiu pentru Mi Cloud</string>
     <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs. și pentru a partaja lucruri prietenilor</string>
@@ -70,7 +70,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_send_sms_alert">"
 
 Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție."</string>
-    <string name="find_device_status_ok">Găsiți dispozitivul de oriunde pe i.mi.com</string>
+    <string name="find_device_status_ok">Găsiți dispozitivul de oriunde accesând i.mi.com</string>
     <string name="find_device_stop_noise">Apăsaţi OK pentru a opri sunetul</string>
     <string name="find_device_success_title">Localizare dispozitiv</string>
     <string name="free_space_has_received">Ați adăugat deja spațiu liber în această lună</string>
@@ -80,16 +80,16 @@ Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a 
     <string name="google_100gb">100 GO</string>
     <string name="google_cloud">Google Drive</string>
     <string name="google_cloud_eng">Google Drive</string>
-    <string name="google_cloud_price">Aproximativ 143 RMB pe an</string>
+    <string name="google_cloud_price">Aproximativ 20 euro pe an</string>
     <string name="header_data_and_synchronization">Date şi sincronizare</string>
     <string name="header_other_settings">Setări adiţionale</string>
     <string name="i_know">OK</string>
     <string name="license_host_unreachable">Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, mergeţi la %s.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_hint">Încărcare</string>
-    <string name="master_alert_notif_dspt_add">%s (de) elemente așteaptã sincronizarea</string>
+    <string name="master_alert_notif_dspt_add">%s elemente așteaptã sincronizarea</string>
     <string name="master_alert_notif_dspt_no">Sincronizat</string>
-    <string name="master_alert_notif_title">Ultima sincronizare: %s (de) zile în urmă</string>
+    <string name="master_alert_notif_title">Ultima sincronizare: cu %s zile în urmă</string>
     <string name="micloud_check_sim_notify_text">"Se pare că aţi schimbat cardurile SIM. Conectaţi-vă
 la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Reactivare Mi Cloud</string>
@@ -103,14 +103,14 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_detail_success">Sincronizat</string>
     <string name="micloud_detail_syncing">Sincronizare</string>
     <string name="micloud_detail_wlan">%d așteaptă sincronizarea</string>
-    <string name="micloud_detail_wlan_contact">%d (de) fotografii de contact așteaptă sincronizarea</string>
-    <string name="micloud_detail_wlan_mms">%d (de) mesaje MMS așteaptă sincronizarea</string>
+    <string name="micloud_detail_wlan_contact">%d fotografii de contact așteaptă sincronizarea</string>
+    <string name="micloud_detail_wlan_mms">%d mesaje MMS așteaptă sincronizarea</string>
     <string name="micloud_dspt">" Utilizaţi Mi Cloud pentru a sincroniza datele,
  pentru a localiza dispozitivul"</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
     <string name="micloud_first_login_summary" />
     <string name="micloud_first_login_title" />
-    <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile vor rămâne rezervate în nor.
+    <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile vor rămâne rezervate în Cloud.
 
 În acest fel, dacă pierdeţi sau se deteriorează dispozitivul, datele dvs. vor fi în continuare în siguranță.
 
@@ -133,10 +133,10 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_sync_on_wifi">Utilizaţi Wi-Fi</string>
     <string name="micloud_main_sync_pause">Sincronizare întreruptă</string>
     <string name="micloud_main_sync_stop">Sincronizare oprită</string>
-    <string name="micloud_main_synced_data_count">%d (de) elemente sincronizate</string>
+    <string name="micloud_main_synced_data_count">%d elemente sincronizate</string>
     <string name="micloud_main_syncing">Sincronizare…</string>
     <string name="micloud_main_update_space">Obțineți mai mult spațiu de stocare</string>
-    <string name="micloud_main_wlan_sync_data_count">"%d (de) elemente aşteaptă
+    <string name="micloud_main_wlan_sync_data_count">"%d elemente aşteaptă
 sincronizarea"</string>
     <string name="micloud_more">Aflaţi mai multe</string>
     <string name="micloud_other_product_price">Comparaţi prețurile</string>
@@ -173,7 +173,7 @@ sincronizarea"</string>
     <string name="micloud_web_discription_international">Vizitaţi www.mi.com/micloud</string>
     <string name="microsoft_cloud">Servicii Microsoft Cloud</string>
     <string name="microsoft_cloud_eng">One Drive</string>
-    <string name="microsoft_cloud_price">Aproximativ 80 RMB pe an</string>
+    <string name="microsoft_cloud_price">Aproximativ 11 euro pe an</string>
     <string name="more_activity_in_upgrade_space">Aflați mai multe la <a href="http://i.mi.com">http://i.mi.com</a></string>
     <string name="mx_dspt">Mi Message</string>
     <string name="mx_dspt_provision">"Mi Message vă permite să trimiteți mesaje altor utilizatori MIUI, fără a suporta cheltuieli pentru SMS.
@@ -214,7 +214,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sms">Mesaje</string>
     <string name="start_micloud">Porniţi</string>
     <string name="storage">Stocare</string>
-    <string name="sub_alert_notif_dspt_add">%s (de) elemente aşteaptă sincronizarea</string>
+    <string name="sub_alert_notif_dspt_add">%s elemente aşteaptă sincronizarea</string>
     <string name="sub_alert_notif_dspt_no">Sincronizat</string>
     <string name="sub_alert_notif_title">Nu se sincronizează</string>
     <string name="sub_sync_item_sms_summary">Sincronizați mesajele care conțin fotografii, fişierele audio sau alte fişiere multimedia doar atunci când sunteți conectat la o rețea Wi-Fi</string>

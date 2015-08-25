@@ -45,7 +45,7 @@
     <string name="delete_alarm_confirm">Ştergeţi această alarmă?</string>
     <string name="delete_selected_timer_item">Ștergeţi sarcina temporizatorului selectată?</string>
     <string name="delete_timer_item_title">Ștergeţi sarcina temporizatorului</string>
-    <string name="delete_timezone_title">Ştergeţi ceasul</string>
+    <string name="delete_timezone_title">Ştergeţi fusul orar</string>
     <string name="dialog_confirm_abort">Renunțați la modificări?</string>
     <string name="done">Terminat</string>
     <string name="edit_systemtime">Editaţi data şi ora sistemului</string>
@@ -65,11 +65,11 @@
     <string name="legal_workday_invalidate_message">(Date expirate. Actualizaţi în Setări)</string>
     <string name="legal_workday_message">" (Alarmă dezactivată în zilele de sărbătoare)"</string>
     <string name="loading_ringtone">Se încarcă tonul soneriei…</string>
-    <string name="menu_add_worldclock">Adăugaţi un ceas</string>
+    <string name="menu_add_worldclock">Adăugaţi un fus orar</string>
     <string name="menu_desk_clock">Ceas de birou</string>
     <string name="menu_edit_timer_item">Editaţi sarcina temporizatorului</string>
     <string name="menu_item_dock_settings">Setări de andocare</string>
-    <string name="menu_item_sort_by_gmt_offset">Sortaţi după timp</string>
+    <string name="menu_item_sort_by_gmt_offset">Sortaţi după fusul orar</string>
     <string name="menu_item_sort_by_name">Sortaţi după nume</string>
     <string name="minute">1 minut</string>
     <string name="minutes">%s minute</string>
@@ -105,7 +105,7 @@
     <string name="timer_notify_text">Amânaţi sau anulaţi temporizatorul.</string>
     <string name="timer_start_alarm">Timpul a expirat</string>
     <string name="timer_title">Temporizator</string>
-    <string name="timezone_exist_error_message">Ceasul se afişează deja</string>
+    <string name="timezone_exist_error_message">Acest ceas se afişează deja</string>
     <string name="vibrate_pref_summary">Vibrare în timpul alarmei</string>
     <string name="vibrate_when_ringing">Vibrare în timpul soneriei</string>
     <string name="volume_button_setting_summary">Setaţi funcţiile butoanelor de volum în timpul unei alarme</string>

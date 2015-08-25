@@ -4,8 +4,8 @@
     <string name="account_container_title">Importat din</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">Numai pe telefon, nesincronizat</string>
-    <string name="account_sim">Card SIM</string>
-    <string name="account_sim2">Card SIM%d</string>
+    <string name="account_sim">Cartela SIM</string>
+    <string name="account_sim2">Cartela SIM%d</string>
     <string name="account_type_format">Contact din %1$s</string>
     <string name="actionIncomingCall">Apeluri de intrare</string>
     <string name="action_menu_overflow_description">Mai multe opţiuni</string>
@@ -140,12 +140,12 @@
     <string name="clearCallLogProgress_title">Se goleşte jurnalul apelurilor…</string>
     <string name="clearFrequentsConfirmation">Ștergeţi lista de contacte frecvente din Contacte și Telefon și forțaţi aplicaţiile de e-mail să afle preferințele dvs. de adresare de la zero.</string>
     <string name="clearFrequentsConfirmation_title">Ştergeţi lista persoanelor frecvent contactate?</string>
-    <string name="clearFrequentsProgress_title">Ştergere persoane frecv. contactate…</string>
+    <string name="clearFrequentsProgress_title">Ştergere persoane frecvent contactate…</string>
     <string name="clear_default">Ştergeţi datele prestabilite</string>
     <string name="clear_digits">Ştergeţi numărul</string>
     <string name="click_close">Atingeţi pentru a închide</string>
     <string name="clip_dialog_title">Apelaţi numărul copiat?</string>
-    <string name="close_dial_pad">Închideţi tastele numerice</string>
+    <string name="close_dial_pad">Închideţi tastatura numerică</string>
     <string name="cloud_antispam_mark">Marcaţi ca spam</string>
     <string name="cloud_antispam_title">Identificarea numerelor necunoscute</string>
     <string name="composer_failed_to_get_database_infomation">Nu s-au putut obţine informaţii din baza de date.</string>
@@ -199,7 +199,7 @@
     <string name="create_qrcode_fail_message">Nu se poate crea codul QR</string>
     <string name="customLabelPickerTitle">Numele etichetei personalizate</string>
     <string name="custom_list_filter">Definiţi afişarea personalizată</string>
-    <string name="custom_nickname_hint">Introduceţi porecla</string>
+    <string name="custom_nickname_hint">Introduceţi pseudonimul</string>
     <string name="date_picker_label">Aminteşte-mi cu 3 zile înainte şi din nou în ziua</string>
     <string name="date_time_set">Setaţi</string>
     <string name="date_year_toggle">Indicaţi anul</string>
@@ -219,7 +219,7 @@
     <string name="delete_sim_entries_finish">Contacte SIM şterse</string>
     <string name="delete_sim_entry_miui">Ştergeţi</string>
     <string name="delete_unknown_contact_calllog_title">Ştergeţi jurnalul apelurilor?</string>
-    <string name="deleting_sim_entry_miui">Ştergere contacte de pe cardul SIM</string>
+    <string name="deleting_sim_entry_miui">Ştergere contacte de pe cartela SIM</string>
     <string name="description_add_contact">Adăugaţi un contact în agendă</string>
     <string name="description_call">Apelaţi pe %1$s</string>
     <string name="description_call_log_incoming_call">Apel primit</string>
@@ -277,7 +277,7 @@
     <string name="device_pairing_dialog_message">Asociere…</string>
     <string name="device_pairing_dialog_title">Asociaţi dispozitivele</string>
     <string name="device_version_header_bluetooth">Asigurați-vă că bluetooth-ul este activat</string>
-    <string name="device_version_header_no_bluetooth">Importaţi contactele utilizând cardul SIM</string>
+    <string name="device_version_header_no_bluetooth">Importaţi contactele utilizând cartela SIM</string>
     <string name="device_version_title">Selectaţi un model</string>
     <string name="dial">Apelaţi</string>
     <string name="dialerDialpadHintText">Formaţi pentru a adăuga un apel</string>
@@ -319,10 +319,10 @@
     <string name="email">Trimiteţi un e-mail</string>
     <string name="emailLabelsGroup">E-mail</string>
     <string name="email_custom">Trimiteţi e-mail către %s</string>
-    <string name="email_home">Trimiteţi un e-mail la adresa de domiciliu</string>
+    <string name="email_home">Trimiteţi un e-mail la adresa de e-mail de acasă</string>
     <string name="email_mobile">Trimiteţi un e-mail la un telefon mobil</string>
     <string name="email_other">Trimiteţi un e-mail</string>
-    <string name="email_work">Trimiteţi un e-mail la adresa de serviciu</string>
+    <string name="email_work">Trimiteţi un e-mail la adresa de e-mail de serviciu</string>
     <string name="emptyGroup">Niciun contact în acest grup</string>
     <string name="empty_divider_title"></string>
     <string name="enter_contact_name">Introduceţi numele contactului</string>
@@ -332,9 +332,9 @@
     <string name="export_sim_contact_finish">Export finalizat</string>
     <string name="export_sim_contact_finish_msg">%1$d transferate | %2$d omise | %3$d rămase</string>
     <string name="export_to_sdcard">Export în spaţiul de stocare</string>
-    <string name="export_to_sim">Export pe cardul SIM</string>
-    <string name="export_to_sim1">Exportaţi pe cardul SIM1</string>
-    <string name="export_to_sim2">Exportaţi pe cardul SIM2</string>
+    <string name="export_to_sim">Export pe cartela SIM</string>
+    <string name="export_to_sim1">Exportaţi pe cartela SIM1</string>
+    <string name="export_to_sim2">Exportaţi pe cartela SIM2</string>
     <string name="export_to_sim_title">Export…</string>
     <string name="export_vcard_description">Exportaţi vCard pe cardul SD</string>
     <string name="exporting_contact_failed_message">"Datele de contact nu au fost exportate.
@@ -359,8 +359,8 @@ Motivul: „%s”"</string>
     <string name="fail_reason_too_many_vcard">Prea multe fişiere vCard pe cardul SD</string>
     <string name="fail_reason_unknown">Eroare necunoscută</string>
     <string name="fail_reason_vcard_parse_error">Nu s-au putut analiza datele de pe vCard dintr-un motiv neaşteptat.</string>
-    <string name="favoritesFrequentCalled">Frecvent apelate</string>
-    <string name="favoritesFrequentContacted">Frecvent contactate</string>
+    <string name="favoritesFrequentCalled">Apelate frecvent</string>
+    <string name="favoritesFrequentContacted">Contactate frecvent</string>
     <string name="favorites_list_empty">Niciun contact favorit</string>
     <string name="firewall_setting">Listă blocări</string>
     <string name="foundTooManyContacts">S-au găsit peste %d contacte</string>
@@ -405,9 +405,9 @@ Motivul: „%s”"</string>
     <string name="import_failure_no_vcard_file">Nu s-a găsit niciun fişier vCard pe cardul SD</string>
     <string name="import_from_other_phone">Importaţi din alt telefon</string>
     <string name="import_from_sdcard">Import din spaţiul de stocare</string>
-    <string name="import_from_sim">Import de pe cardul SIM</string>
-    <string name="import_from_sim1">Import de pe cardul SIM1</string>
-    <string name="import_from_sim2">Import de pe cardul SIM2</string>
+    <string name="import_from_sim">Import de pe cartela SIM</string>
+    <string name="import_from_sim1">Import de pe cartela SIM1</string>
+    <string name="import_from_sim2">Import de pe cartela SIM2</string>
     <string name="import_multiple_vcard_string">Importaţi fişiere multiple vCard</string>
     <string name="import_name">Nume</string>
     <string name="import_one_vcard_string">Importaţi un fişier vCard</string>
@@ -434,7 +434,7 @@ Motivul: „%s”"</string>
     <string name="importing_vcard_canceled_title">Importul fişierului %s a fost anulat</string>
     <string name="importing_vcard_description">Se importă %s</string>
     <string name="importing_vcard_finished_title">S-a finalizat importul vCard %s</string>
-    <string name="insertContactDescription">Creaţi contact în agendă</string>
+    <string name="insertContactDescription">Creaţi un contact în agendă</string>
     <string name="insertGroupDescription">Creaţi un grup</string>
     <string name="invalidContactMessage">Contact inexistent</string>
     <string name="keep_local">Nu se sincronizează</string>
@@ -452,7 +452,7 @@ Motivul: „%s”"</string>
     <string name="listTotalAllContactsZeroCustom">Niciun contact nu este vizibil</string>
     <string name="listTotalAllContactsZeroGroup">Niciun contact din agendă în %s</string>
     <string name="listTotalAllContactsZeroStarred">Nu există preferate</string>
-    <string name="listTotalPhoneContactsZero">Niciun contact din agendă cu numere de telefon</string>
+    <string name="listTotalPhoneContactsZero">Niciun contact din agendă cu număr de telefon</string>
     <string name="list_filter_all_accounts">Toată agenda</string>
     <string name="list_filter_all_starred">Cu stea</string>
     <string name="list_filter_custom">Personalizată</string>
@@ -491,7 +491,7 @@ Motivul: „%s”"</string>
     <string name="menu_contacts_filter">Contacte de afişat</string>
     <string name="menu_copy">Copiaţi</string>
     <string name="menu_copyContact">Copiaţi în Agendă</string>
-    <string name="menu_create_contact_shortcut">Plasaţi în ecranul de pornire</string>
+    <string name="menu_create_contact_shortcut">Plasaţi pe ecranul de pornire</string>
     <string name="menu_deleteContact">Ştergeţi</string>
     <string name="menu_deleteGroup">Ştergeţi</string>
     <string name="menu_dial_ip_number">Efectuaţi apel IP</string>
@@ -527,7 +527,7 @@ Motivul: „%s”"</string>
     <string name="menu_splitAggregate">Separaţi</string>
     <string name="menu_sync_remove">Eliminaţi grup de sincronizare</string>
     <string name="menu_viewContact">Vizualizaţi contactul din agendă</string>
-    <string name="merge_contact_message">%1$d contacte cu date identice parţial</string>
+    <string name="merge_contact_message">%1$d contacte cu date parţial identice</string>
     <string name="messageShortcutActivityTitle">Alegeţi un număr pentru trimiterea mesajului</string>
     <string name="missing_name">(Fără nume)</string>
     <string name="move_and_resize">Mutaţi şi redimensionaţi</string>
@@ -549,7 +549,7 @@ Motivul: „%s”"</string>
     <string name="next_birthday">Următoarea zi de naştere: %s</string>
     <string name="nfc_vcard_file_name">Cont.prim.pr.NFC</string>
     <string name="nicknameLabelsGroup">Pseudonim</string>
-    <string name="nickname_editor_title">Editaţi porecla</string>
+    <string name="nickname_editor_title">Editaţi pseudonimul</string>
     <string name="nickname_picker_name_column">Nume contact</string>
     <string name="nickname_picker_nickname_column">Titlu</string>
     <string name="noAccounts">Pentru a crea grupuri aveţi nevoie de un cont.</string>
@@ -564,7 +564,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
 "</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contacte de pe cardul SIM sau cardul SD
+"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contacte de pe cartela SIM sau cardul SD
 "</li></font></b>"</string>
     <string name="noContactsHelpTextForCreateShortcut">Niciun contact din agendă de afişat.</string>
     <string name="noContactsHelpTextWithSync">""Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.){
@@ -577,7 +577,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
 "</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
 "</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contactele de pe cardul SIM sau SD
+"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa contactele de pe cartela SIM sau cardul SD
 "</li></font></b>"</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Niciun contact în agendă de afişat. (Dacă tocmai aţi adăugat un cont, poate dura câteva minute sincronizarea contactelor.)</string>
     <string name="noContactsNoSimHelpText">""Nu aveţi contacte din agendă de afişat.
@@ -611,7 +611,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
 "</li>"
 "<li>"Apăsaţi contactul pe care doriţi să-l adăugaţi în lista de favorite
 "</li>"
-"<li>"Apăsaţi pe steaua de lângă numele contactului
+"<li>"Apăsaţi pe steluţa de lângă numele contactului
 "</li>"</string>
     <string name="noGroups">Niciun grup</string>
     <string name="noMatchingContacts">Nu a fost găsit niciun contact potrivit în agendă.</string>
@@ -667,7 +667,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="picker_email_title">Selectaţi un e-mail</string>
     <string name="picker_favorites_list_empty">Niciun contact favorit</string>
     <string name="picker_groups_list_empty">Niciun grup</string>
-    <string name="picker_join_title">Selectaţi un contact pt. a-l îmbina cu %s</string>
+    <string name="picker_join_title">Selectaţi un contact pentru a-l îmbina cu %s</string>
     <string name="picker_number_title">Selectaţi un număr</string>
     <string name="picker_postal_title">Selectaţi codul poştal</string>
     <string name="picker_recent_list_empty">Niciun contact recent</string>
@@ -686,9 +686,9 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="pref_key_photo_word_title">Atribuire fotografii de contact</string>
     <string name="pref_key_rebuild_t9_index_message">Reconstruiţi indicele datelor pentru a rezolva problemele de căutare</string>
     <string name="pref_key_rebuild_t9_index_title">Reconstruirea indicelui datelor</string>
-    <string name="pref_key_sim_manage">Configuraţi cardul SIM</string>
-    <string name="pref_key_sim_manage1">Configuraţi cardul SIM1</string>
-    <string name="pref_key_sim_manage2">Configuraţi cardul SIM2</string>
+    <string name="pref_key_sim_manage">Configuraţi cartela SIM</string>
+    <string name="pref_key_sim_manage1">Configuraţi cartela SIM1</string>
+    <string name="pref_key_sim_manage2">Configuraţi cartela SIM2</string>
     <string name="pref_summary_import_from_account">Importaţi contactele din conturile Google şi Exchange în contul dvs. Mi</string>
     <string name="pref_title_account_import">Import în cont</string>
     <string name="pref_title_import_from_account">Import în contul Mi</string>
@@ -747,7 +747,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="readOnlyContactDeleteConfirmation">Informaţiile despre acest contact din agendă provin din mai multe conturi. Informaţiile provenite din conturile numai în citire nu vor fi şterse din lista dvs., ci doar ascunse.</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" conţine informaţii din conturi multiple. Informaţiile provenite din conturile \"doar în citire\" vor fi ascunse în lista contactelor.</string>
     <string name="readOnlyContactWarning">Nu puteţi şterge contacte din agendă, din conturi cu permisiuni doar de citire, însă puteţi să le ascundeţi în lista dvs. de contacte.</string>
-    <string name="readingSimContacts">Citire card SIM…</string>
+    <string name="readingSimContacts">Citire cartelă SIM…</string>
     <string name="reading_vcard_canceled_title">Citirea datelor vCard a fost anulată</string>
     <string name="reading_vcard_failed_title">Nu s-au putut citi datele de pe vCard</string>
     <string name="rebuild_t9_index_dialog_message">Reconstruire…</string>
@@ -793,7 +793,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="search_settings_description">Numele contactelor din agenda dvs.</string>
     <string name="searching_vcard_message">Se caută date vCard pe cardul SD…</string>
     <string name="select_all">Selectaţi toate</string>
-    <string name="select_groups">Selectaţi grupele</string>
+    <string name="select_groups">Selectaţi grupurile</string>
     <string name="select_none">Nimic selectat</string>
     <string name="select_show_contacts">Listă contacte</string>
     <string name="select_vcard_title">Alegeţi fişier vCard</string>
@@ -813,33 +813,33 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="shortcutDialContact">Apel direct</string>
     <string name="shortcutMessageContact">Mesaj direct</string>
     <string name="showAllContactsJoinItem">Afişaţi toate contactele din agendă</string>
-    <string name="simContacts_airplaneMode">Pentru a importa contactele de pe cardul SIM, dezactivaţi modul Avion</string>
-    <string name="simContacts_empty">Niciun contact stocat pe cardul SIM</string>
-    <string name="simContacts_emptyLoading">Se încarcă contactele de pe cardul SIM…</string>
-    <string name="simContacts_title">Contactele de pe cardul SIM</string>
+    <string name="simContacts_airplaneMode">Pentru a importa contactele de pe cartela SIM, dezactivaţi modul Avion</string>
+    <string name="simContacts_empty">Niciun contact stocat pe cartela SIM</string>
+    <string name="simContacts_emptyLoading">Se încarcă contactele de pe cartela SIM…</string>
+    <string name="simContacts_title">Contactele de pe cartela SIM</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_capacity">Vizualizaţi capacitatea cardului SIM</string>
+    <string name="sim_capacity">Vizualizaţi capacitatea cartelei SIM</string>
     <string name="sim_capacity_content" formatted="false">Capacitate %d, utilizat %d</string>
     <string name="sim_card_no_free_space_message">Spaţiu insuficient</string>
-    <string name="sim_card_no_free_space_title">Card SIM plin</string>
+    <string name="sim_card_no_free_space_title">Cartelă SIM plină</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselectaţi toate</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Selectaţi toate</string>
     <string name="sim_contact_existing">Contact existent deja</string>
     <string name="sim_contact_invalid">Contact SIM greşit</string>
-    <string name="sim_contact_search_error">A avut loc o eroare</string>
-    <string name="sim_contacts">Contacte de pe cardul SIM</string>
-    <string name="sim_error_anr_full">Spațiu insuficient pe cardul SIM</string>
-    <string name="sim_error_email_full">Spațiu insuficient pe cardul SIM</string>
+    <string name="sim_contact_search_error">A apărut o eroare</string>
+    <string name="sim_contacts">Contacte de pe cartela SIM</string>
+    <string name="sim_error_anr_full">Spațiu insuficient pe cartela SIM</string>
+    <string name="sim_error_email_full">Spațiu insuficient pe cartela SIM</string>
     <string name="sim_error_email_too_long">E-mail prea lung</string>
     <string name="sim_error_generic_failure">A apărut o eroare</string>
     <string name="sim_error_not_ready">Încărcare contacte SIM…</string>
     <string name="sim_error_number_too_long">Număr prea lung</string>
     <string name="sim_error_password_error">Parola introdusă este incorectă</string>
-    <string name="sim_error_storage_full">Cardul SIM este plin</string>
+    <string name="sim_error_storage_full">Cartela SIM este plină</string>
     <string name="sim_error_text_too_long">Nume prea lung</string>
-    <string name="sim_export_loading">Citirea cardului SIM…</string>
-    <string name="sim_indexed_contact_not_exist">Poziţia %1$d pe cardul SIM nu este valabilă, trebuie să fie cuprinsă între %2$d şi %3$d</string>
-    <string name="sim_no_contact">Nu există contacte pe cardul SIM</string>
+    <string name="sim_export_loading">Citirea cartelei SIM…</string>
+    <string name="sim_indexed_contact_not_exist">Poziţia %1$d pe cartela SIM nu este valabilă, trebuie să fie cuprinsă între %2$d şi %3$d</string>
+    <string name="sim_no_contact">Nu există contacte pe cartela SIM</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Niciun membru în grup</string>
     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
@@ -884,9 +884,9 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="starredList">Cu stea</string>
     <string name="starred_contacts">Favorite</string>
     <string name="starred_yellowpage">Registre favorite</string>
-    <string name="status_available">Disponibil(ă)</string>
-    <string name="status_away">Plecat(ă)</string>
-    <string name="status_busy">Ocupat(ă)</string>
+    <string name="status_available">Disponibil</string>
+    <string name="status_away">Plecat</string>
+    <string name="status_busy">Ocupat</string>
     <string name="strequentList">Favorite</string>
     <string name="success_message_import_from_account">Contact importat</string>
     <string name="summary_kind_title">Rezumat</string>
@@ -903,15 +903,15 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="toast_displaying_all_contacts">Se afişează toată agenda</string>
     <string name="toast_finish_delete_call_log">Jurnalul apelurilor a fost şters</string>
     <string name="toast_finish_delete_selected_call_log">Jurnalul apelurilor selectat a fost şters</string>
-    <string name="toast_for_failed_saving_nickname">Nu s-a putut salva porecla</string>
-    <string name="toast_for_saving_nickname">Poreclă salvată</string>
+    <string name="toast_for_failed_saving_nickname">Nu s-a putut salva pseudonimul</string>
+    <string name="toast_for_saving_nickname">Pseudonim salvat</string>
     <string name="toast_join_with_empty_contact">Introduceţi numele contactului înainte de a-l îmbina cu alt contact</string>
     <string name="toast_making_personal_copy">Se creează o copie personală…</string>
     <string name="toast_text_copied">Text copiat</string>
     <string name="today">Azi</string>
     <string name="type_incoming">Apel</string>
     <string name="type_missed">Apel nepreluat</string>
-    <string name="type_mx_msg">Mesagerie în nor</string>
+    <string name="type_mx_msg">Mesagerie în Cloud</string>
     <string name="type_outgoing">Apel</string>
     <string name="type_voicemail">Mesaj vocal</string>
     <string name="unknown">Necunoscut</string>
@@ -948,7 +948,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="voicemail_speed_normal">Viteză normală</string>
     <string name="voicemail_speed_slower">Viteză redusă</string>
     <string name="voicemail_speed_slowest">Viteză minimă</string>
-    <string name="voicemail_status_action_call_server">Apel. mesag. vocală</string>
+    <string name="voicemail_status_action_call_server">Apel. msg. vocală</string>
     <string name="voicemail_status_action_configure">Configuraţi</string>
     <string name="voicemail_status_audio_not_available">Componenta audio nu este disponibilă.</string>
     <string name="voicemail_status_configure_voicemail">Configuraţi mesageria vocală.</string>
@@ -1003,7 +1003,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="contact_detail_miprofile_accept_success_toast">Cartele de contact schimbate</string>
     <string name="contact_detail_miprofile_binded_label">Adăugat</string>
     <string name="contact_detail_miprofile_exchange_closed">"Niciun număr de telefon asociat cu acest cont Mi
-Cartele de contact sunt dezactivate"</string>
+Cartelele de contact sunt dezactivate"</string>
     <string name="contact_detail_miprofile_privacy_settings">Necesită permisiune pentru a vizualiza</string>
     <string name="contact_detail_miprofile_request">Schimbaţi cartelele de contact</string>
     <string name="contact_detail_miprofile_request_fail_toast">Nu s-a putut trimite solicitarea</string>
@@ -1017,7 +1017,7 @@ Cartele de contact sunt dezactivate"</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Nu se poate conecta la rețea</string>
     <string name="contact_detail_profile_switch_fail_toast">Ceva a mers prost cu serverul nostru</string>
     <string name="contact_detail_profile_switch_off">Cartele de contact dezactivate</string>
-    <string name="contact_detail_profile_switch_off_fail_toast">Nu s-au putut dezactiva cartele de contact</string>
+    <string name="contact_detail_profile_switch_off_fail_toast">Nu s-au putut dezactiva cartelele de contact</string>
     <string name="contact_detail_profile_switch_off_success_toast">Cartele de contact dezactivate</string>
     <string name="contact_detail_profile_switch_on">Vizualizaţi fotografiile de profil</string>
     <string name="contact_detail_profile_switch_on_fail_toast">Nu s-au putut activa cartelele de contact</string>
@@ -1092,6 +1092,6 @@ Cartele de contact sunt dezactivate"</string>
     <string name="preview_incall_show_entry">Previzualizare videoclip</string>
     <string name="confirm_delete_sim_entry_miui_title">Ştergeţi</string>
     <string name="in_call_show_guide_intro">"Înregistraţi un videoclip al profilului
-care va fi redat pe dispozitivele altor utilizatori MIUI atunci când apelați"</string>
+care va fi redat pe dispozitivele altor utilizatori MIUI atunci când îi apelați"</string>
     <string name="in_call_show_guide_title">Videoclip profil</string>
 </resources>

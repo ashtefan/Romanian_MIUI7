@@ -112,7 +112,7 @@
     <string name="package_filter">Pachete</string>
     <string name="pause_download">Pauză</string>
     <string name="paused_by_app">Pusă în pauză</string>
-    <string name="paused_insufficient_space">Aşteptare spaţiu</string>
+    <string name="paused_insufficient_space">Aşteptare creare spaţiu suplimentar</string>
     <string name="paused_queued_for_wifi">Aşteptare Wi-Fi</string>
     <string name="paused_unknown">Pusă în pauză</string>
     <string name="paused_waiting_for_network">Aşteptare reţea</string>
@@ -136,7 +136,7 @@
     <string name="retry_download">Reîncercaţi</string>
     <string name="select_all">Selectaţi-le pe toate</string>
     <string name="select_operation_items">Selectaţi elementele</string>
-    <string name="selected_count">Selectat(e) %1$d din %2$d</string>
+    <string name="selected_count">Selectat: %1$d din %2$d</string>
     <string name="toast_xunlei_engine_open">Acceleratorul descărcărilor Xunlei este activat</string>
     <string name="turn_off_xunlei_message">Este posibil să scadă viteza de descărcare</string>
     <string name="turn_off_xunlei_tips">Acceleratorul descărcărilor Xunlei este dezactivat</string>
@@ -155,7 +155,7 @@
     <string name="xunlei_member_one_month">Membru Xunlei pentru o lună (platină)</string>
     <string name="xunlei_speed_service">Serviciul de accelerare a vitezei de la Xunlei</string>
     <string name="xunlei_switch">Accelerator de descărcare Xunlei</string>
-    <string name="recommend_downloading">Se descărcarcă…</string>
+    <string name="recommend_downloading">Se descarcă…</string>
     <string name="recommend_failed">Eşuat</string>
     <string name="recommend_install">Instalaţi</string>
     <string name="recommend_installing">Se instalează…</string>
@@ -164,7 +164,7 @@
     <string name="recommend_other_downloads">Populare</string>
     <string name="recommend_paused">Întrerupt</string>
     <string name="recommend_prepare">Aşteptare…</string>
-    <string name="recommend_show_other_downloads">Afişare populare</string>
+    <string name="recommend_show_other_downloads">Afişare descărcări populare</string>
     <string name="downloaded_empty">Gol</string>
     <string name="downloading_empty">Gol</string>
     <string name="show_more">Mai multe (%s)</string>
@@ -185,6 +185,6 @@ pe toate dispozitivele cu Xunlei"</string>
 Reînnoiţi acum și obțineţi 5% reducere."</string>
     <string name="vip_expire_today_show_info">"Calitatea de membru Xunlei a expirat.
 Reînnoiţi acum și obțineţi 5% reducere."</string>
-    <string name="vip_show_info">"5 millioane de membri.
+    <string name="vip_show_info">"5 milioane de membri.
 Accelerare descărcări pe toate dispozitivele."</string>
 </resources>

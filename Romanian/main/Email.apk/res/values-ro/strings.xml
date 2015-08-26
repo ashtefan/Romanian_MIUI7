@@ -41,10 +41,10 @@
     <string name="account_settings_retry_summary">Apăsați aici pentru a sincroniza acest cont</string>
     <string name="account_settings_ringtone">Sunet de notificare</string>
     <string name="account_settings_servers">Setări server</string>
-    <string name="account_settings_summary">Frecvenţa sincronizării, notificări etc.</string>
+    <string name="account_settings_summary">Frecvenţa sincronizării, notificări, etc.</string>
     <string name="account_settings_sync_calendar_enable">Sincronizaţi calendarul</string>
     <string name="account_settings_sync_calendar_summary">Sincron. evenim. calendar pt. cont</string>
-    <string name="account_settings_sync_contacts_enable">Sincronizaţi persoanele din agendă</string>
+    <string name="account_settings_sync_contacts_enable">Sincronizaţi contactele din agendă</string>
     <string name="account_settings_sync_contacts_summary">Sincron. agenda pt. acest cont</string>
     <string name="account_settings_sync_email_enable">Sincroniz. e-mailul</string>
     <string name="account_settings_sync_email_summary">Sincron. e-mailul pt. acest cont</string>
@@ -70,7 +70,7 @@
     <string name="account_setup_failed_auth_required">Metodele de autentificare nu sunt acceptate de server.</string>
     <string name="account_setup_failed_certificate_inaccessible">Certificat nevalid sau inaccesibil.</string>
     <string name="account_setup_failed_certificate_required">Este necesar un certificat de client. Vă conectaţi la server cu un certificat de client?</string>
-    <string name="account_setup_failed_check_credentials_message">Serverul a răspuns cu o eroare. Verificaţi numele de utilizator şi parola şi încercaţi din nou.</string>
+    <string name="account_setup_failed_check_credentials_message">Serverul a returnat un mesaj de eroare. Verificaţi numele de utilizator şi parola şi încercaţi din nou.</string>
     <string name="account_setup_failed_dlg_auth_message">Nume de utilizator sau parolă incorecte.</string>
     <string name="account_setup_failed_dlg_certificate_message">Nu se poate conecta în siguranţă la server.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Nu se poate conecta în siguranţă la server.
@@ -216,7 +216,7 @@
     <string name="confirm_save_message_no">Renunţaţi</string>
     <string name="confirm_save_message_title">Salvați ca mesaj nefinalizat?</string>
     <string name="confirm_save_message_yes">Salvați</string>
-    <string name="confirm_send_message_with_no_body">Nu e niciun text în corpul mesajului.</string>
+    <string name="confirm_send_message_with_no_body">Nu există niciun text în corpul mesajului.</string>
     <string name="confirm_send_message_with_no_subject">Acest mesaj nu are un subiect.</string>
     <string name="confirm_send_title">Trimiteţi mesajul?</string>
     <string name="contact_info_string">Afişaţi informațiile de contact pentru %1$s</string>
@@ -254,7 +254,7 @@
     <string name="default_imap">IMAP</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">SETĂRI PRESTABILITE</string>
-    <string name="default_signature">Trimis de la Xiaomi</string>
+    <string name="default_signature">Trimis de pe Mi</string>
     <string name="delete">Ştergeţi</string>
     <string name="deleted">Ştearsă</string>
     <string name="device_activity_btn_str">Activare</string>
@@ -314,7 +314,7 @@
     <string name="file_deleted_success">Fişier şters</string>
     <string name="file_not_found">Nu se poate găsi fișierul</string>
     <string name="file_not_found_redownload">Nu se poate găsi fișierul</string>
-    <string name="file_rar_not_support">Nu se pot deschide fișiere de tip rar criptate</string>
+    <string name="file_rar_not_support">Nu se pot deschide fișiere de tip .rar criptate</string>
     <string name="filtered_tag">[%1$s]%2$s</string>
     <string name="folder_drafts_name_en0">Mesaje nefinalizate</string>
     <string name="folder_drafts_name_en1">Mesaj nefinalizat</string>
@@ -464,7 +464,7 @@
     <string name="no_application_found">Nu a fost găsită nicio aplicație pentru a deschide acest atașament.</string>
     <string name="no_application_found_title">Deschideţi acest atașament.</string>
     <string name="no_contacts">Niciun contact.</string>
-    <string name="no_content_in_body">[Fără corp]</string>
+    <string name="no_content_in_body">[Fără text]</string>
     <string name="no_conversations">Niciun mesaj</string>
     <string name="no_mails">Niciun e-mail.</string>
     <string name="no_matched_attachment">Niciun rezultat.</string>
@@ -481,13 +481,13 @@
     <string name="notification_exchange_calendar_added">Calendar Exchange adăugat</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
-    <string name="outbox_alert_button_no_resend">Nu se trimite</string>
+    <string name="outbox_alert_button_no_resend">Nu se retrimite</string>
     <string name="outbox_alert_button_resend">Retrimiteţi</string>
     <string name="outbox_alert_certificate_error">Contactați administratorul de sistem și actualizaţi certificatul.</string>
     <string name="outbox_alert_description_auth_error">Eroare de autorizare pe server în timpul sincronizării mesajelor trimise.</string>
     <string name="outbox_alert_description_http_error">Eroare HTTP în timpul sincronizării mesajelor trimise.</string>
     <string name="outbox_alert_description_provision_error">Eroare de furnizare server în timpul sincronizării mesajelor trimise.</string>
-    <string name="outbox_alert_description_sent_failed">Dimensiunea ataşamentului depășește limita server-ului.</string>
+    <string name="outbox_alert_description_sent_failed">Dimensiunea ataşamentului depășește limita acceptată de server.</string>
     <string name="outbox_alert_duplicate_click">Sincronizare…</string>
     <string name="outbox_alert_edit_resend">Editaţi şi retrimiteţi</string>
     <string name="outbox_alert_failed_edit_resend">Nu s-a putut trimite. Editați și încercați din nou.</string>
@@ -512,12 +512,12 @@
     <string name="perference_setup_send_tag">Server mesaje trimise</string>
     <string name="permission_access_provider_desc">Se permite aplicaţiei să acceseze baza de date e-mail, inclusiv mesajele recepţionate, mesajele trimise, numele de utilizatori şi parolele.</string>
     <string name="permission_access_provider_label">Accesare date e-mail oferite de KingSoft</string>
-    <string name="permission_read_attachment_desc">Se permite aplicaţiei să citească ataşamentele la e-mail.</string>
-    <string name="permission_read_attachment_label">Citire ataşamente de e-mail</string>
+    <string name="permission_read_attachment_desc">Se permite aplicaţiei să citească ataşamentele din e-mail.</string>
+    <string name="permission_read_attachment_label">Citire ataşamente e-mail</string>
     <string name="phone">telefon</string>
     <string name="photo_load_failed">Imaginea nu s-a putut încărca</string>
     <string name="photo_view_count" formatted="false">%d din %d</string>
-    <string name="please_fill_in_your_mailbox_information2">Introduceţi informaţia căsuţei poştale.</string>
+    <string name="please_fill_in_your_mailbox_information2">Introduceţi datele căsuţei poştale.</string>
     <string name="policy_app_blacklist">Se interzic aplicaţiile specificate</string>
     <string name="policy_app_whitelist">Se permit doar aplicaţiile specificate</string>
     <string name="policy_bluetooth_restricted">Se restricţionează utilizarea Bluetooth</string>
@@ -565,8 +565,8 @@
     <string name="quick_4">Să stabilim o întâlnire pentru a discuta aceasta.</string>
     <string name="quick_reply_dialog_title">Selectaţi un răspuns</string>
     <string name="quick_reply_hint">Răspundeţi la %1$d persoane</string>
-    <string name="quick_reply_hint_bcc">"(In BCC) "</string>
-    <string name="quick_reply_hint_cc">"(In CC) "</string>
+    <string name="quick_reply_hint_bcc">"(În BCC) "</string>
+    <string name="quick_reply_hint_cc">"(În CC) "</string>
     <string name="quick_responses_empty_view">Niciun răspuns rapid</string>
     <string name="quote_divider_6">---Original---</string>
     <string name="quote_divider_7">Mesaj original</string>
@@ -590,7 +590,7 @@
     <string name="remove_account_confirm">\"%1$s\" va fi eliminat din E-mail.</string>
     <string name="remove_account_confirm_title">Eliminaţi contul</string>
     <string name="remove_folder">Eliminaţi din %1$s</string>
-    <string name="remove_star">Eliminaţi steaua</string>
+    <string name="remove_star">Eliminaţi steluţa</string>
     <string name="reply">Răspundeţi</string>
     <string name="reply_all">Răs. tuturor</string>
     <string name="reply_attribution" formatted="false">Pe %s, %s a scris:</string>
@@ -600,7 +600,7 @@
     <string name="respond_inline">Răspundeţi inline</string>
     <string name="save_action">Salvaţi</string>
     <string name="save_attachment">Salvaţi</string>
-    <string name="save_draft_failed">Salvare mesaj nefinal. eşuată</string>
+    <string name="save_draft_failed">Salvare mesaj nefinalizat eşuată</string>
     <string name="saved">Salvat,  %s</string>
     <string name="saving">Salvare…</string>
     <string name="search_hint">Căutare e-mail</string>
@@ -631,7 +631,7 @@
 \u0009 (Asigurați-vă că "timpul de sincronizare automată" este activat în Setări)"</string>
     <string name="ser_resp_err_map_nouser">Utilizatorul nu există</string>
     <string name="ser_resp_err_map_or">sau</string>
-    <string name="ser_resp_err_map_serclosed">Serverul este închis</string>
+    <string name="ser_resp_err_map_serclosed">Serverul este oprit</string>
     <string name="ser_resp_err_map_ssl">"Alegeţi 'SSL/TLS (Se acceptă toate certificatele)' în 'Tip securitate'"</string>
     <string name="set_network">Setaţi reţeaua</string>
     <string name="settings_activity_title">Setări</string>
@@ -665,7 +665,7 @@
     <string name="system_folders_title">Dosare de sistem</string>
     <string name="system_folders_trash_dlg">Selectați coşul de gunoi al serverului</string>
     <string name="system_folders_trash_summary">Selectați coşul de gunoi al serverului</string>
-    <string name="system_folders_trash_title">Dosarul coş de gunoi</string>
+    <string name="system_folders_trash_title">Dosarul Coş de gunoi</string>
     <string name="tablet">tabletă</string>
     <string name="tap_to_configure">Atingeţi pentru a configura.</string>
     <string name="tap_to_enable_sync">Atingeți pentru a activa.</string>
@@ -675,7 +675,7 @@
     <string name="too_large_to_attach_additional">Fişierul nu a fost ataşat. A fost atinsă limita maximă de %1$s.</string>
     <string name="too_large_to_attach_multiple">Unul sau mai multe fişiere nu au fost ataşate. Limita maximă este de %1$s.</string>
     <string name="too_large_to_attach_single">Nu puteţi ataşa fişiere care depăşesc %1$s.</string>
-    <string name="trash_folder_selection_title">Dosarul coş de gunoi pentru %s</string>
+    <string name="trash_folder_selection_title">Dosarul Coş de gunoi pentru %s</string>
     <string name="turn_auto_sync_on_dialog_body">Modificările pe care le efectuați în toate aplicațiile și conturile, nu doar în Gmail, vor fi sincronizate între web, alte dispozitive ale dvs. și %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activaţi</string>
     <string name="turn_auto_sync_on_dialog_title">Activaţi sincronizarea automată?</string>
@@ -691,7 +691,7 @@
     <string name="via_domain">prin %1$s</string>
     <string name="view_more_conversations">Vizualizaţi mai multe conversaţii</string>
     <string name="wait_for_manual_sync_body">"Acest cont nu este configurat pentru sincronizare automată.
-Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o dată sau <b>Modificaţi setările de sincronizare</b> ca să configuraţi acest cont pentru a sincroniza mesajele de e-mail în mod automat.</string>
+Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza acum mesajele de e-mail sau <b>Modificaţi setările de sincronizare</b> ca să configuraţi acest cont pentru a sincroniza mesajele de e-mail în mod automat.</string>
     <string name="wait_for_sync_title">Aşteptare sincronizare</string>
     <string name="widget_all_mail">Toate e-mailurile</string>
     <string name="widget_large_unread_count">%d+</string>
@@ -704,7 +704,7 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="outbox_alert_description_insufficient_storage_error">Spaţiu de stocare insuficient pe serverul de e-mail</string>
     <string name="reduce_the_receiving_frequencye_summary">Se sincronizează inbox-ul mai rar în timp ce Nu deranjați este activat</string>
     <string name="reduce_the_receiving_frequencye_title">Se sincronizează mai rar</string>
-    <string name="save_power_summary">Notificările pentru e-mailurile care sosesc vor fi reduse la tăcere</string>
+    <string name="save_power_summary">Notificările pentru e-mailurile primite vor fi reduse la tăcere</string>
     <string name="save_power_title">Nu deranjaţi</string>
     <string name="ser_resp_err_map_pserr">Nume de utilizator sau parolă incorecte</string>
     <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
@@ -715,7 +715,7 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="upload_log_title">Trimiteţi jurnalul către Xiaomi</string>
     <string name="upload_log_yes">Încărcare</string>
     <string name="uploading_logs">Doar o secundă…</string>
-    <string name="you_are_in_mobile_network">Trimiteţi jurnalul utilizând conexiunea de date mobile? Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="you_are_in_mobile_network">Trimiteţi jurnalul utilizând conexiunea de date mobile? Dacă depăşiţi limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="gmail_acceleration">Utilizaţi server proxy pentru contul Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Utilizaţi server proxy pentru a accesa contul Gmail?</string>
     <string name="gmail_web_login_go">OK</string>
@@ -724,10 +724,10 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="mibill_privacy_policy_button2">Acceptaţi</string>
     <string name="mibill_privacy_policy_description">Permiteţi Mi Wallet să analizeze și să gestioneze în mod automat facturile. Această caracteristică este dezactivată în mod implicit pentru adresele de e-mail legate de servici.</string>
     <string name="mibill_privacy_policy_link">"Prin utilizarea acestei funcții, sunteți de acord cu "<a href="https://www.mipay.com/res/doc/eula/email.html">Condiţiile de utilizare</a></string>
-    <string name="mibill_privacy_policy_title">Gestionarea în mod automat a facturilor</string>
+    <string name="mibill_privacy_policy_title">Gestionarea facturilor în mod automat</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">Spaţiu de stocare insuficient</string>
-    <string name="toast_bar_invalid_account">Este necesar să vă reautentificaţi</string>
+    <string name="toast_bar_invalid_account">Este necesar să vă autentificaţi din nou</string>
     <string name="toast_bar_no_connection_network">Nu aveți o conexiune la internet</string>
     <string name="toast_bar_open_gmail_synchronization">Apăsați pentru a utiliza server proxy pentru Gmail</string>
     <string name="SMTP_independent_verification_text">Verificare independentă SMTP</string>
@@ -755,12 +755,12 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza mesajele de e-mail o d
     <string name="oauth_login_continue">Continuare</string>
     <string name="account_setup_failed_dlg_device_locked">Nu s-a putut conecta. Acest cont a fost blocat.</string>
     <string name="attachment_open_SecurityException_hint">Verificare permisiuni, daune, etc.</string>
-    <string name="attachment_open_SecurityException_title">Nu a reușit deschiderea fișierului</string>
+    <string name="attachment_open_SecurityException_title">Nu s-a reușit deschiderea fișierului</string>
     <string name="dialog_gmail_proxy_server_is_error">Eroare server proxy Gmail.</string>
     <string name="unzip_file_failed">Nu s-a putut dezarhiva fişierul</string>
     <string name="contact_edit_set_black_list_from">Ștergeți toate e-mailurile de la acest expeditor</string>
     <string name="contact_edit_set_black_list_receive">Ștergere e-mail către acest destinatar</string>
-    <string name="contact_edit_set_black_list_receive_summary">Se şterge e-mailul ce conţine acest destinatar în câmpurile La sau, Cc</string>
+    <string name="contact_edit_set_black_list_receive_summary">Se şterge e-mailul ce conţine acest destinatar în câmpurile La sau Cc</string>
     <string name="push_wps_better_confirm_download">Descărcaţi</string>
     <string name="push_wps_better_confirm_exit">Nu acum</string>
     <string name="push_wps_better_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>

@@ -9,7 +9,7 @@
      <string name="context_menu_item_favorite">Adăugaţi la presetări</string>
      <string name="context_menu_item_unfavorite">Eliminaţi din presetări</string>
      <string name="context_menu_title">%s MHz</string>
-     <string name="dialog_sleep_title">Setaţi timpul deconectării automate</string>
+     <string name="dialog_sleep_title">Setaţi timpul de deconectare automată</string>
      <string name="exit_fm">Ieşire</string>
      <string name="fm_has_turned_off">Radio FM oprit</string>
      <string name="fmradio_clear_confirm_msg">Toate presetările vor fi șterse</string>

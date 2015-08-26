@@ -113,12 +113,12 @@
         <item quantity="many">%1$d zile în urmă</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Au fost găsite %1$d fişere noi</item>
-        <item quantity="zero">Au fost găsite %1$d fişere noi</item>
-        <item quantity="one">A fost găsit %1$d fişer nou</item>
-        <item quantity="two">Au fost găsite %1$d fişere noi</item>
-        <item quantity="few">Au fost găsite %1$d fişere noi</item>
-        <item quantity="many">Au fost găsite %1$d fişere noi</item>
+        <item quantity="other">Au fost găsite %1$d fişiere noi</item>
+        <item quantity="zero">Au fost găsite %1$d fişiere noi</item>
+        <item quantity="one">A fost găsit %1$d fişier nou</item>
+        <item quantity="two">Au fost găsite %1$d fişiere noi</item>
+        <item quantity="few">Au fost găsite %1$d fişiere noi</item>
+        <item quantity="many">Au fost găsite %1$d fişiere noi</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>

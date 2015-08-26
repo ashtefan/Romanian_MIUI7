@@ -257,8 +257,7 @@
     <string name="show_message">Trebuie să descărcaţi acest fișier înainte de a-l putea deschide</string>
     <string name="sign_description">Conectare…</string>
     <string name="signin_error">Conectarea la server a eşuat. Verificați conexiunea la rețea.</string>
-    <string name="signin_success">"Bine aţi venit!
-Spațiu liber adăugat %1$s"</string>
+    <string name="signin_success">Bine aţi venit!\nSpațiu liber adăugat %1$s</string>
     <string name="smb_loading">Doar o secundă…</string>
     <string name="space_info">KuaiPan: %1$s disponibili, %2$s în total</string>
     <string name="space_usage">Spaţiu utilizat</string>
@@ -349,9 +348,9 @@ Spațiu liber adăugat %1$s"</string>
     <string name="sdcard_available">Disponibil %1$s</string>
     <string name="sdcard_total">Total %1$s</string>
     <string name="tab_more">Mai multe</string>
-    <string name="tab_source">Aplicaţii</string>
+    <string name="tab_source">APLICAŢII</string>
     <string name="title_more_source">Mai multe aplicaţii</string>
-    <string name="title_recent">Recent</string>
+    <string name="title_recent">RECENT</string>
     <string name="wechat_video">Video la %s</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="month_day_format">dd MMMM</string>
@@ -363,7 +362,7 @@ Spațiu liber adăugat %1$s"</string>
     <string name="port_range">Portul trebuie să fie cuprins între 1024 şi 65535</string>
     <string name="rename_alert">Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi.</string>
     <string name="dialog_confirm">OK</string>
-    <string name="just_now">Acum</string>
+    <string name="just_now">acum</string>
     <string name="kuaipan_info">Fişiere KuaiPan</string>
     <string name="load_more">Vizualizaţi mai multe</string>
     <string name="no_app_tags">Gol</string>
@@ -374,7 +373,7 @@ Spațiu liber adăugat %1$s"</string>
     <string name="notification_setting">Notificări</string>
     <string name="notification_summary">%1$s încă nu acceptă această caracteristică</string>
     <string name="notification_title">Se notifică atunci când fișiere noi sunt adăugate la %1$s</string>
-    <string name="rlv_last_refreshing_time">Ultima scanare %1$s</string>
+    <string name="rlv_last_refreshing_time">Actualizat %1$s</string>
     <string name="rlv_loading_more">Doar o secundă…</string>
     <string name="rlv_pull_to_refresh">Trageți pentru a reîmprospăta</string>
     <string name="rlv_refreshing">Scanare fişiere…</string>
@@ -408,5 +407,5 @@ Spațiu liber adăugat %1$s"</string>
     <string name="search_result_more">Mai multe</string>
     <string name="search_title_hint">Căutare</string>
     <string name="storage_info">%1$s disponibil</string>
-    <string name="yesterday">Ieri</string>
+    <string name="yesterday">ieri</string>
 </resources>

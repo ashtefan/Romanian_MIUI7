@@ -156,6 +156,11 @@
     <string name="return_to_incall_screen">Reveniţi la apel</string>
     <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
+    <string name="screen_pinning_description">Se ține la vedere până când anulaţi fixarea. Atingeți și țineți apăsat Înapoi și Privire de ansamblu, simultan, pentru a anula fixarea.</string>
+    <string name="screen_pinning_description_accessible">Se ține la vedere până când anulaţi fixarea. Atingeți Privire de ansamblu pentru a anula fixarea.</string>
+    <string name="screen_pinning_negative">Nu, multumesc</string>
+    <string name="screen_pinning_positive">Am înţeles</string>
+    <string name="screen_pinning_title">Ecran fixat</string>
     <string name="screenshot_failed_text">Captura de ecran nu a putut fi salvată. Este posibil să fie utilizată stocarea.</string>
     <string name="screenshot_saved_text">Atingeţi pentru a vedea captura de ecran.</string>
     <string name="screenshot_saved_title">Captură de ecran realizată</string>

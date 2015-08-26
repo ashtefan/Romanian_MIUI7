@@ -342,6 +342,8 @@
     <string name="theme_no">Nu</string>
     <string name="theme_precast_update_notification_content">Apăsați pentru a vizualiza teme noi.</string>
     <string name="theme_precast_update_notification_title">Actualizat la MIUI 7</string>
+    <string name="theme_precast_update_notification_content">Apăsați pentru a explora actualizările.</string>
+    <string name="theme_precast_update_notification_title">Temele MIUI 7 au fost actualizate</string>
     <string name="theme_provision_default_theme_title">Prestabilită</string>
     <string name="theme_provision_loading_tips">Doar o secundă…</string>
     <string name="theme_provision_title">Selectaţi o temă</string>

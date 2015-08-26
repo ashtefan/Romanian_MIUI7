@@ -108,7 +108,7 @@
     <string name="lock_screen_traffic_warn_title">Notificări la blocarea ecranului</string>
     <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
     <string name="main_alert_message_no_imsi">Nicio cartelă SIM detectată</string>
-    <string name="main_alert_message_no_mobile_package">Limita datelor mobile nu a fost setată</string>
+    <string name="main_alert_message_no_mobile_package">Setaţi limita datelor mobile</string>
     <string name="main_alert_message_slot_no_data_connection">Slotul cardului SIM nu susţine o conexiune de date mobile</string>
     <string name="main_button_idel_traffic">În afara orelor de vârf</string>
     <string name="main_button_normal_traffic">În orele de vârf</string>
@@ -116,6 +116,7 @@
     <string name="main_button_usage_adjust_manual">Setaţi limita utilizării datelor</string>
     <string name="main_button_usage_adjusting">Modificare…</string>
     <string name="main_button_usage_package_setting">Setaţi limita utilizării datelor</string>
+    <string name="main_message_no_package_by_dual">Setaţi limita datelor pentru %s</string>
     <string name="main_primary_message_traffic_cur_leisure">Utilizare date în afara orelor de vârf</string>
     <string name="main_primary_message_traffic_cur_normal">Sub limita de date</string>
     <string name="main_primary_message_traffic_cur_normal_overlimit">Limita de date depășită</string>

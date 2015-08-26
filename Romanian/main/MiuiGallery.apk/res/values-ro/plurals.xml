@@ -61,9 +61,9 @@
         <item quantity="one">Nu aveți permisiunea de a șterge acest %d fişier.</item>
      </plurals>
      <plurals name="number_of_images">
-        <item quantity="other">%1$d imagini</item>
-        <item quantity="zero">%1$d imagini</item>
-        <item quantity="one">%1$d imagine</item>
+        <item quantity="other">%1$d fotografii</item>
+        <item quantity="zero">%1$d fotografii</item>
+        <item quantity="one">%1$d fotografie</item>
      </plurals>
      <plurals name="number_of_items">
         <item quantity="other">%1$d elemente</item>

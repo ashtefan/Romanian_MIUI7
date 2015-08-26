@@ -118,7 +118,7 @@
     <string name="camera_disconnected">Cameră deconectată</string>
     <string name="camera_folder_display_name">Cameră</string>
     <string name="camera_setas_wallpaper">Imagine de fundal</string>
-    <string name="camera_view_none_message">Imaginile şi videoclipurile captate cu aplicaţia Cameră se vor afişa aici.</string>
+    <string name="camera_view_none_message">Fotografiile şi videoclipurile captate cu aplicaţia Cameră se vor afişa aici.</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_hint">Operaţiune anulată</string>
     <string name="cannot_delete_sharer_photo">Imposibil de şters %s elemente adăugate de alţi membri.</string>
@@ -126,8 +126,8 @@
     <string name="cannot_send_message">Imposibil de trimis mesajul</string>
     <string name="cannot_send_message_reason">Niciun destinatar valid</string>
     <string name="cant_delete_system_album">Nu se poate şterge %s deoarece este un album de sistem.</string>
-    <string name="change_to_face_mode">Schimbaţi la Modul Faţă</string>
-    <string name="change_to_photo_mode">Schimbaţi la Modul Fotografie</string>
+    <string name="change_to_face_mode">Sortaţi după persoane</string>
+    <string name="change_to_photo_mode">Sortaţi după albume</string>
     <string name="choose_baby_sexy">Sex</string>
     <string name="choose_cloud_album">Selectaţi albumul</string>
     <string name="choose_owner_relation">Relaţie</string>
@@ -185,7 +185,7 @@
     <string name="cool_portrait">Portret</string>
     <string name="create_baby_album">Creaţi un album pentru copil</string>
     <string name="create_baby_album_dialog_msg">Creaţi un album pentru \"%s\"?</string>
-    <string name="create_baby_album_later_toast">Mai târziu, puteți crea albumul copilului din meniul din dreapta sus</string>
+    <string name="create_baby_album_later_toast">Creați un album al copilului oricând în Setări</string>
     <string name="create_new_cloud_folder">Creaţi un album nou</string>
     <string name="create_new_face">Persoană nouă</string>
     <string name="create_quick_icon_on_desk">Creaţi o comandă rapidă</string>
@@ -240,7 +240,7 @@
     <string name="effect">Filtre</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
     <string name="enable">Activat</string>
-    <string name="enable_cloud_for_sharing">Activaţi albumele în Cloud pentru a vizualiza imaginile distribuite.</string>
+    <string name="enable_cloud_for_sharing">Activaţi albumele în Cloud pentru a vizualiza fotografiile distribuite.</string>
     <string name="enabling_face_feature">Doar o secundă…</string>
     <string name="enter_email_hint">"Introduceţi adresa de e-mail "</string>
     <string name="error_album_not_exist">"Albumul nu există"</string>
@@ -356,7 +356,7 @@
     <string name="impunity_declaration_title">Conexiune la internet</string>
     <string name="in_home_page_long_press_photo_setting_secret_photo">Pentru a ascunde o fotografie, apăsați și țineți-o apăsată, apoi selectaţi \"Adăugare în album ascuns\" din meniul din colțul din stânga jos.</string>
     <string name="initial_cloud_button_text">Conectaţi-vă</string>
-    <string name="initial_cloud_text">Stocaţi și vizualizaţi imaginile de oriunde</string>
+    <string name="initial_cloud_text">Stocaţi și vizualizaţi fotografiile de oriunde</string>
     <string name="initializing_cloud">Iniţializare…</string>
     <string name="input_baby_name">Introduceţi numele</string>
     <string name="input_baby_nick_name">Introduceţi porecla</string>
@@ -436,9 +436,9 @@
     <string name="moman">Moman Camera</string>
     <string name="moman_camera_drawing">Desen Moman Camera</string>
     <string name="moman_camera_icon">Emoticon Moman Camera</string>
-    <string name="moman_camera_picture">Imagini Moman Camera</string>
+    <string name="moman_camera_picture">Fotografii Moman Camera</string>
     <string name="more">Mai multe</string>
-    <string name="more_face_album_name">Mai multe feţe</string>
+    <string name="more_face_album_name">Mai multe persoane</string>
     <string name="mosaic">Mozaic</string>
     <string name="move">Mutaţi</string>
     <string name="move_to_cloud_album">Mutaţi în</string>
@@ -466,7 +466,7 @@
     <string name="not_auto_create_recent_album">Anulaţi creare favorite</string>
     <string name="not_is">Nu este</string>
     <string name="not_now">Nu acum</string>
-    <string name="not_remind_any_more">Nu reaminti mai târziu</string>
+    <string name="not_remind_any_more">Nu se afişează din nou</string>
     <string name="not_show_hidden_albums">Nu se afişează albumele ascunse</string>
     <string name="old">Vintage</string>
     <string name="only_show_camera_in_first_page">Doar fotografii cameră</string>
@@ -526,7 +526,7 @@
     <string name="picker_no_items_selected">Niciun element selectat</string>
     <string name="picker_select_album_title_empty">Selectaţi un album</string>
     <string name="picker_tab_photo">Fotografii</string>
-    <string name="pocket_camera_picture">Imagini Pocket Camera</string>
+    <string name="pocket_camera_picture">Fotografii Pocket Camera</string>
     <string name="pocket_camera_video">Videoclipuri Pocket Camera</string>
     <string name="pocketcamera">Pocket Camera</string>
     <string name="posterize">Posterizare</string>
@@ -622,8 +622,8 @@
     <string name="set_lock_or_wallpaper">Setaţi ca imagine de fundal</string>
     <string name="set_lockscreen">Setare fundal blocare ecran…</string>
     <string name="set_recent_album">Setaţi ca album favorit</string>
-    <string name="set_screensaver_path_message">Imaginile din acest album vor fi afişate ca screensaver.</string>
-    <string name="set_screensaver_path_message_if_only_charging">Imagini din acest album vor fi afișate în screensaver atunci când telefonul se încarcă.</string>
+    <string name="set_screensaver_path_message">Fotografiile din acest album vor fi afişate ca screensaver.</string>
+    <string name="set_screensaver_path_message_if_only_charging">Fotografiile din acest album vor fi afișate în screensaver atunci când telefonul se încarcă.</string>
     <string name="set_screensaver_path_title">Slideshow screensaver</string>
     <string name="set_wallpaper">Setare imagine de fundal…</string>
     <string name="settings">Setări</string>

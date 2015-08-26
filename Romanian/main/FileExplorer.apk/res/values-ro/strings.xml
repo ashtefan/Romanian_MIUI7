@@ -23,7 +23,7 @@
     <string name="category_other">Altele</string>
     <string name="category_photo">Fotografii</string>
     <string name="category_picture">Imagini</string>
-    <string name="category_recent">Recent</string>
+    <string name="category_recent">Recente</string>
     <string name="category_theme">Teme</string>
     <string name="category_type_document">Documente</string>
     <string name="category_type_meida">Media</string>
@@ -106,7 +106,7 @@
     <string name="ftp_account_req_notice">4~16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
     <string name="ftp_anonymous_login">Autentificare anonimă</string>
     <string name="ftp_invalid_username_or_password">Nume de utilizator sau parolă greşite</string>
-    <string name="ftp_open_port_error">Eroare deschidere port: verificați conexiunea la rețea sau resetaţi numărul port-ului.</string>
+    <string name="ftp_open_port_error">Eroare deschidere port: verificați conexiunea la rețea sau resetaţi numărul portului.</string>
     <string name="ftp_password_hint">Parolă</string>
     <string name="ftp_port_number">Număr port</string>
     <string name="ftp_transfer_secure">Securitate</string>
@@ -118,7 +118,7 @@
     <string name="instruction">Introduceți următoarea adresă într-un client FTP:</string>
     <string name="instruction_pre">Atingeţi pentru a porni serverul FTP</string>
     <string name="kilobyteShort">KO</string>
-    <string name="kuaipan_label">Kuaipan</string>
+    <string name="kuaipan_label">KuaiPan</string>
     <string name="kuaipan_over_space">Spaţiu insuficient</string>
     <string name="kuaipan_prompt">Notă</string>
     <string name="kuaipan_prompt_message">"
@@ -314,7 +314,7 @@ Spațiu liber adăugat %1$s"</string>
     <string name="wait_sdcard">Aşteptare card SD…</string>
     <string name="wait_wifi">Aşteptare Wi-Fi…</string>
     <string name="waiting">Aşteptare…</string>
-    <string name="wangpan_root_path">Kuaipan</string>
+    <string name="wangpan_root_path">KuaiPan</string>
     <string name="wifi_state">Reţea Wi-Fi</string>
     <string name="xiaomi_account">Cont Mi</string>
     <string name="yes">Da</string>
@@ -327,7 +327,7 @@ Spațiu liber adăugat %1$s"</string>
     <string name="kp_category_pdf">PDF</string>
     <string name="kp_category_txt">Text</string>
     <string name="no_display_file">Nu se poate afişa %1$s</string>
-    <string name="delete_selected_tasks">Ştergeţi cele selectate?</string>
+    <string name="delete_selected_tasks">Ştergeţi sarcinile selectate?</string>
     <string name="kuaipan_data_formater_with_year">Luna M ziua d anul YYYY</string>
     <string name="kuaipan_data_formater_without_year">Luna M ziua d</string>
     <string name="kuaipan_photo_locate">Localizată %1$s</string>
@@ -339,7 +339,7 @@ Spațiu liber adăugat %1$s"</string>
     <string name="kuaipan_delete_success">Fotografie ştearsă</string>
     <string name="action_mode_deselect_all">Deselectaţi tot</string>
     <string name="action_mode_select_all">Selectaţi tot</string>
-    <string name="can_not_send_with_too_many">Nu se pot trimite multe elemente</string>
+    <string name="can_not_send_with_too_many">Nu se pot trimite aşa multe elemente</string>
     <string name="kuaipan_delete_guide_des">Ștergeți ghidul?</string>
     <string name="archive_send_to">Trimitere…</string>
     <string name="decompress_destination_error">Extragere eşuată: nu se pot extrage fişierele aici.</string>
@@ -360,7 +360,7 @@ Spațiu liber adăugat %1$s"</string>
     <string name="operation_del_fav">Eliminare din favorite…</string>
     <string name="file_name_invalid">"Numele fișierelor nu pot conține următoarele caractere: /\\:*?&lt;&gt;"</string>
     <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
-    <string name="port_range">Port-ul trebuie să fie între 1024–65535</string>
+    <string name="port_range">Portul trebuie să fie cuprins între 1024 şi 65535</string>
     <string name="rename_alert">Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi.</string>
     <string name="dialog_confirm">OK</string>
     <string name="just_now">Acum</string>
@@ -369,11 +369,11 @@ Spațiu liber adăugat %1$s"</string>
     <string name="no_app_tags">Gol</string>
     <string name="no_recent_files">Niciun fişier recent</string>
     <string name="notification_dialog_confirm">OK</string>
-    <string name="notification_dialog_content">Se notifică și se organizează în mod automat, atunci când sunt adăugate sau modificate în fișiere în %1$s.</string>
+    <string name="notification_dialog_content">Se notifică și se organizează în mod automat, atunci când sunt adăugate sau modificate fișiere în %1$s.</string>
     <string name="notification_dialog_title">Notificări</string>
     <string name="notification_setting">Notificări</string>
     <string name="notification_summary">%1$s încă nu acceptă această caracteristică</string>
-    <string name="notification_title">Se notifică, atunci când fișiere noi sunt adăugate la %1$s</string>
+    <string name="notification_title">Se notifică atunci când fișiere noi sunt adăugate la %1$s</string>
     <string name="rlv_last_refreshing_time">Ultima scanare %1$s</string>
     <string name="rlv_loading_more">Doar o secundă…</string>
     <string name="rlv_pull_to_refresh">Trageți pentru a reîmprospăta</string>

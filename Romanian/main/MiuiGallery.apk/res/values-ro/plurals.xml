@@ -5,26 +5,26 @@
         <item quantity="one">Ştergeţi %s fotografie din acest album?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Elementele selectate includ fotografii sau videoclipuri în Mi Cloud, ştergeţi %s elemente de pe acest dispozitiv şi din Mi Cloud?</item>
+        <item quantity="other">Elementele selectate includ fotografii sau videoclipuri din Mi Cloud, ştergeţi %s elemente de pe acest dispozitiv şi din Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Elementele selectate includ fotografii în Mi Cloud, ştergeţi %s fotografii de pe acest dispozitiv şi din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat include o fotografie în Mi Cloud, ştergeţi %s fotografie de pe acest dispozitiv şi din Mi Cloud?</item>
+        <item quantity="other">Elementele selectate includ fotografii din Mi Cloud, ştergeţi %s fotografii de pe acest dispozitiv şi din Mi Cloud?</item>
+        <item quantity="one">Elementul selectat include o fotografie din Mi Cloud, ştergeţi %s fotografie de pe acest dispozitiv şi din Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Elementele selectate includ videoclipuri în Mi Cloud, ştergeţi %s videoclipuri de pe acest dispozitiv şi din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat include un videoclip în Mi Cloud, ştergeţi %s videoclip de pe acest dispozitiv şi din Mi Cloud?</item>
+        <item quantity="other">Elementele selectate includ videoclipuri din Mi Cloud, ştergeţi %s videoclipuri de pe acest dispozitiv şi din Mi Cloud?</item>
+        <item quantity="one">Elementul selectat include un videoclip din Mi Cloud, ştergeţi %s videoclip de pe acest dispozitiv şi din Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">Elementele selectate sunt fotografii sau videoclipuri în Mi Cloud, ştergeţi %s elemente din Mi Cloud?</item>
+        <item quantity="other">Elementele selectate sunt fotografii sau videoclipuri din Mi Cloud, ştergeţi %s elemente din Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Elementele selectate sunt fotografii în Mi Cloud, ştergeţi %s fotografii din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat este o fotografie în Mi Cloud, ştergeţi %s fotografie din Mi Cloud?</item>
+        <item quantity="other">Elementele selectate sunt fotografii din Mi Cloud, ştergeţi %s fotografii din Mi Cloud?</item>
+        <item quantity="one">Elementul selectat este o fotografie din Mi Cloud, ştergeţi %s fotografie din Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Elementele selectate sunt videoclipuri în Mi Cloud, ştergeţi %s videoclipuri din Mi Cloud?</item>
-        <item quantity="one">Elementul selectat este un videoclip în Mi Cloud, ştergeţi %s videoclip din Mi Cloud?</item>
+        <item quantity="other">Elementele selectate sunt videoclipuri din Mi Cloud, ştergeţi %s videoclipuri din Mi Cloud?</item>
+        <item quantity="one">Elementul selectat este un videoclip din Mi Cloud, ştergeţi %s videoclip din Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
         <item quantity="other">Ştergeţi %s elemente din acest album?</item>

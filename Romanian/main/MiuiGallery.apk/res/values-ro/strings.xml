@@ -31,8 +31,8 @@
     <string name="adjust">Ajustare</string>
     <string name="album_member">Membri album %s</string>
     <string name="album_name">Nume album</string>
-    <string name="album_quota_fulfiled">Prea multe albume. Ştergeţi unele abume şi încercaţi din nou.</string>
-    <string name="album_share_exit_confirm">Ieşiţi din acest album?</string>
+    <string name="album_quota_fulfiled">Prea multe albume. Ştergeţi unele albume şi încercaţi din nou.</string>
+    <string name="album_share_exit_confirm">Părăsiţi acest album?</string>
     <string name="album_share_kicked">Albumul %1$s este închis</string>
     <string name="album_share_stat_content">Invitații</string>
     <string name="album_share_subtitle_accepting">Acceptare invitaţie de la %1$s…</string>
@@ -41,7 +41,7 @@
     <string name="album_share_subtitle_normal">Distribuit de %1$s</string>
     <string name="album_share_subtitle_not_ready">Lipseşte informaţia despre album.</string>
     <string name="album_share_subtitle_quitting">Ieşire…</string>
-    <string name="album_share_subtitle_requesting">Obţinere informaţie album…</string>
+    <string name="album_share_subtitle_requesting">Obţinere informaţii album…</string>
     <string name="album_share_title_new_album">Distribuiţi un album nou</string>
     <string name="albums">Albume</string>
     <string name="albumset_page_title_separator">" | "</string>
@@ -69,11 +69,11 @@
     <string name="auto">Automat</string>
     <string name="auto_create_recent_album">Creare automată albume favorite</string>
     <string name="auto_create_recent_album_confirm">Galeria va șterge datele albumelor favorite. Favoritele marcate manual nu vor fi afectate.</string>
-    <string name="auto_create_recent_album_over_ten_times">Un album va fi marcat ca Favorit automat după ce va fi deschis de mai mult de 10 ori</string>
+    <string name="auto_create_recent_album_over_ten_times">Un album va fi marcat ca Favorit în mod automat după ce va fi deschis de mai mult de 10 ori</string>
     <string name="auto_upload_album_comfirm_to_share">Acest album va fi sincronizat în mod automat.</string>
     <string name="auto_upload_face">Adăugare fotografii în mod automat</string>
     <string name="auto_upload_face_summary">Se potrivesc în mod automat și se adaugă fotografiile în albumul copilului</string>
-    <string name="auto_upload_face_summary_with_people_name_when_off">Adăugaţi fotografiile \"%1$s\" în acest album în mod automaty</string>
+    <string name="auto_upload_face_summary_with_people_name_when_off">Adăugaţi fotografiile \"%1$s\" în acest album în mod automat</string>
     <string name="auto_upload_face_summary_with_people_name_when_on">Adăugaţi fotografiile \"%1$s\" în acest album în mod automat</string>
     <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
     <string name="auto_upload_guide_title">Sincronizare fotografii cu Mi Cloud</string>
@@ -105,7 +105,7 @@
     <string name="big_screen_alertdialog_title">Listă dispozitive</string>
     <string name="bigscreen_slide_exit">Ieşire din slideshow</string>
     <string name="bigscreen_slide_fail_cause_loading">Reporniţi slideshow-ul după încărcarea imaginii</string>
-    <string name="bigscreen_slide_playing">Slideshow rulează pe %s</string>
+    <string name="bigscreen_slide_playing">Slideshow-ul rulează pe %s</string>
     <string name="bigscreen_video_quit">Apăsaţi pentru ieşire</string>
     <string name="black_white">Alb-negru plat</string>
     <string name="brannan">Brannan</string>
@@ -143,12 +143,12 @@
     <string name="cloud_album_set_scan_qr_code">Cod QR</string>
     <string name="cloud_albums">Cloud</string>
     <string name="cloud_be_shared_guide_message">Vizualizaţi fotografiile prietenilor şi adăugați fotografii în album.</string>
-    <string name="cloud_be_shared_guide_title">Acest album este distribuit de un prieten</string>
+    <string name="cloud_be_shared_guide_title">Acest album este distribuit de către un prieten</string>
     <string name="cloud_camera_display_name">Cameră</string>
     <string name="cloud_folder_chooser_move">Ștergeți imaginile din albumul original</string>
-    <string name="cloud_gallery_recyclebin_full">Coşul de reciclare este plin, goliţi coşul de reciclare la i.mi.com.</string>
+    <string name="cloud_gallery_recyclebin_full">Coşul de reciclare este plin; goliţi coşul de reciclare accesând i.mi.com.</string>
     <string name="cloud_gallery_space_full">Spaţiu insuficient în Mi Cloud</string>
-    <string name="cloud_gallery_space_full_buy_more">Nu se pot sincroniza fotografiile cu Mi Cloud. Pentru a sincroniza mai multe fotografii, procuraţi spaţiu de stocare suplimentar.</string>
+    <string name="cloud_gallery_space_full_buy_more">Nu se pot sincroniza fotografiile cu Mi Cloud. Pentru a sincroniza mai multe fotografii, obţineţi spaţiu de stocare suplimentar.</string>
     <string name="cloud_gallery_space_full_title">Mi Cloud este plin</string>
     <string name="cloud_media_set_set">Cloud</string>
     <string name="cloud_owner_album_share_guide">Distribuiţi acest album prietenilor</string>
@@ -258,7 +258,7 @@
     <string name="error_unauthorized">Prea multe încercări de conectare: sincronizare dezactivată.</string>
     <string name="error_unknown_host">Imposibil de conectat la reţea. Verificați conexiunea de date și încercați din nou.</string>
     <string name="event_create_long_photo">Creare fotografie…</string>
-    <string name="event_manage_photos">Gestiune fotografii</string>
+    <string name="event_manage_photos">Gestionare fotografii</string>
     <string name="exit">Ieşiţi</string>
     <string name="exit_share">Anulare distribuire album</string>
     <string name="exit_share_failed">Anularea partajării albumului %1$s a eşuat</string>
@@ -299,7 +299,7 @@
     <string name="flash_off">Bliţ dezactivat</string>
     <string name="flash_on">Bliţ utilizat</string>
     <string name="flip">Reflexie</string>
-    <string name="flip_tooltip">Trageţi fotografia pentru a întoarce</string>
+    <string name="flip_tooltip">Trageţi fotografia pentru a o întoarce</string>
     <string name="focal_length">Distanța focală</string>
     <string name="frame_black">Negru</string>
     <string name="frame_button">Cadru</string>
@@ -359,7 +359,7 @@
     <string name="initial_cloud_text">Stocaţi și vizualizaţi fotografiile de oriunde</string>
     <string name="initializing_cloud">Iniţializare…</string>
     <string name="input_baby_name">Introduceţi numele</string>
-    <string name="input_baby_nick_name">Introduceţi porecla</string>
+    <string name="input_baby_nick_name">Introduceţi pseudonimul</string>
     <string name="input_cloudfolder_name">Numele albumului</string>
     <string name="input_nickname_toast">Introduceţi numele copilului</string>
     <string name="internal_camera_folder_display_name">Fotografii interne Cameră</string>
@@ -379,9 +379,9 @@
     <string name="invited_tip">Invitat</string>
     <string name="is">Este</string>
     <string name="iso">ISO</string>
-    <string name="item_not_sync_for_origin_image">Imposibil de descărcat imaginile care nu au fost sicronizate cu Mi Cloud.</string>
-    <string name="item_not_sync_for_origin_video">Imposibil de descărcat videoclipurile care nu au fost sicronizate cu Mi Cloud.</string>
-    <string name="item_not_sync_for_refocus_data">Imposibil de obţinut datele de focusare pentru fotografiile care nu au fost sicronizate cu Mi Cloud.</string>
+    <string name="item_not_sync_for_origin_image">Imposibil de descărcat imaginile care nu au fost sincronizate cu Mi Cloud.</string>
+    <string name="item_not_sync_for_origin_video">Imposibil de descărcat videoclipurile care nu au fost sincronizate cu Mi Cloud.</string>
+    <string name="item_not_sync_for_refocus_data">Imposibil de obţinut datele de focusare pentru fotografiile care nu au fost sincronizate cu Mi Cloud.</string>
     <string name="kick_owner_user_positive_button_text">Eliminaţi</string>
     <string name="kick_owner_user_title">Eliminați această persoană?</string>
     <string name="kick_sharer">Eliminaţi un destinatar</string>
@@ -472,7 +472,7 @@
     <string name="only_show_camera_in_first_page">Doar fotografii cameră</string>
     <string name="only_show_camera_in_first_page_summary">Se afişează numai fotografiile camerei din Mi Cloud</string>
     <string name="open">Activaţi</string>
-    <string name="open_public_message">Generaţi un URL pentru a-l distribui prietenilor dvs.</string>
+    <string name="open_public_message">Generaţi un URL pentru a-l distribui prietenilor</string>
     <string name="open_public_title">Distribuiţi public</string>
     <string name="open_single_image_failure">Încărcarea imaginii a eşuat</string>
     <string name="open_sync_title">Sincronizare cu Mi Cloud</string>
@@ -498,7 +498,7 @@
     <string name="other_category">Setări adiţionale</string>
     <string name="owner_album_subtitle">Distribuit către %1$s persoane</string>
     <string name="paint_brush">Pensulă</string>
-    <string name="paint_cancel_context">Renunțaţi la modificările efectuate la această imagine?</string>
+    <string name="paint_cancel_context">Renunțaţi la modificările efectuate acestei imagini?</string>
     <string name="paint_cancel_title">Renunțaţi la modificări</string>
     <string name="paint_crop_cancel_context">Salvaţi imaginea decupată?</string>
     <string name="paint_crop_cancel_title">Renunțaţi la modificări</string>
@@ -551,7 +551,7 @@
     <string name="recommanded_face_abandon_tip">Eliminat din sugestii</string>
     <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
     <string name="redeye">Ochi roşii</string>
-    <string name="redeye_tooltip">Atingeţi pentru a elimina ochii roşii</string>
+    <string name="redeye_tooltip">Atingeţi pentru a elimina efectul de ochi roşii</string>
     <string name="refocus_data_downloading">Descărcarea datelor de reorientare…</string>
     <string name="relation_text_empty_alert">Adăugaţi informaţia despre relaţie</string>
     <string name="relation_text_family">Membru al familiei</string>
@@ -562,7 +562,7 @@
     <string name="relation_text_maternal_grandmother">Bunică</string>
     <string name="relation_text_mother">Mamă</string>
     <string name="remove_from_secret_failed_message_with_count">%2$s articole nu pot fi eliminate din albumul ascuns. %1$s.</string>
-    <string name="remove_from_secret_successfully_message">Eliminat din album ascuns</string>
+    <string name="remove_from_secret_successfully_message">Eliminat din albumul ascuns</string>
     <string name="remove_from_secret_unfinished_message_with_count">%1$s articole nu au fost eliminate din albumul ascuns.</string>
     <string name="remove_hidden_album">Anulaţi ascunderea</string>
     <string name="remove_recent_album">Eliminaţi din albume favorite</string>
@@ -623,7 +623,7 @@
     <string name="set_lockscreen">Setare fundal blocare ecran…</string>
     <string name="set_recent_album">Setaţi ca album favorit</string>
     <string name="set_screensaver_path_message">Fotografiile din acest album vor fi afişate ca screensaver.</string>
-    <string name="set_screensaver_path_message_if_only_charging">Fotografiile din acest album vor fi afișate în screensaver atunci când telefonul se încarcă.</string>
+    <string name="set_screensaver_path_message_if_only_charging">Fotografiile din acest album vor fi afișate ca screensaver atunci când telefonul se încarcă.</string>
     <string name="set_screensaver_path_title">Slideshow screensaver</string>
     <string name="set_wallpaper">Setare imagine de fundal…</string>
     <string name="settings">Setări</string>
@@ -702,7 +702,7 @@
     <string name="ubifocus_data_invalid">Unele date pentru această imagine sunt nevalide</string>
     <string name="ubifocus_data_missing">Datele pentru această imagine lipsesc</string>
     <string name="ubifocus_guide_text">Atingeți și mențineți apăsat pentru a reorienta</string>
-    <string name="ubifocus_refocus_data_invalid">Nu se poate refocaliza, deoarece unele date ale acestei imagini sunt nevalide</string>
+    <string name="ubifocus_refocus_data_invalid">Nu se poate refocaliza deoarece unele date ale acestei imagini sunt nevalide</string>
     <string name="ubifocus_refocus_data_missing">Imposibil de reorientat din cauză că o parte din datele pentru această imagine lipsesc</string>
     <string name="ubifocus_refocus_download_tip">Trebuie să descărcaţi datele acestei imagini înainte de reorientare.</string>
     <string name="uc">UC</string>
@@ -720,7 +720,7 @@
     <string name="view_baby_album">Vizualizaţi albumul copilului</string>
     <string name="view_face_album">Vizualizaţi albumul</string>
     <string name="view_sharers">Vizualizaţi distribuitorii</string>
-    <string name="vignette">Vinietă</string>
+    <string name="vignette">Vignetare</string>
     <string name="wallpaper">Imagine de fundal ecran principal</string>
     <string name="wandoujia">SnapPea</string>
     <string name="warn">Avertisment</string>

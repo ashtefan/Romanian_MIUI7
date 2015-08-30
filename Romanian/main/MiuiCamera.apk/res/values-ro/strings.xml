@@ -7,7 +7,7 @@
     <string name="accessibility_module_picker">Selector modul</string>
     <string name="accessibility_panorama_review_cancel">Anulare salvare panoramă</string>
     <string name="accessibility_review_thumbnail">Ultimele fotografii</string>
-    <string name="accessibility_seek_bar_line">SeekBarLine</string>
+    <string name="accessibility_seek_bar_line">Bară de căutare</string>
     <string name="accessibility_setting_button">Buton setări adiţionale</string>
     <string name="accessibility_shutter_button">Buton declanşare</string>
     <string name="accessibility_skin_beautify_button">Buton înfrumuseţare</string>
@@ -64,7 +64,7 @@
     <string name="pano_review_saving_indication_str">Salvare…</string>
     <string name="pano_too_fast_prompt">Prea repede</string>
     <string name="pref_advance_settings">Setări adiţionale</string>
-    <string name="pref_audio_focus_entry_front">În frunte</string>
+    <string name="pref_audio_focus_entry_front">Pe frunte</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">În spate</string>
     <string name="pref_audio_focus_title">Focusare audio</string>
@@ -206,7 +206,7 @@
     <string name="pref_camera_recordlocation_entry_off">Dezactivat</string>
     <string name="pref_camera_recordlocation_entry_on">Activat</string>
     <string name="pref_camera_recordlocation_title">Stocaţi informaţia despre locaţie</string>
-    <string name="pref_camera_referenceline_title">Afișare linii de grilă</string>
+    <string name="pref_camera_referenceline_title">Afișare caroiaj</string>
     <string name="pref_camera_saturation_title">Saturaţie</string>
     <string name="pref_camera_scenemode_entry_auto">Automat</string>
     <string name="pref_camera_scenemode_entry_backlight">Iluminare din spate</string>
@@ -332,7 +332,7 @@
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Fotografierea în serie nu este acceptată atunci când captarea vocii este activată</string>
     <string name="toast_start_audio_capture">Faceţi un zgomot pentru a declanșa obturatorul</string>
     <string name="ubi_focus_capture_fail">Nu a putut fi captată fotografia</string>
-    <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) și din depărtare</string>
+    <string name="ubifocus_capture_warning_message">Pentru rezultate optime, imaginea ar trebui să conțină obiecte atât din apropiere (mai puțin de 1 metru de la obiectiv) cât și din depărtare</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="wait">O secundă…</string>

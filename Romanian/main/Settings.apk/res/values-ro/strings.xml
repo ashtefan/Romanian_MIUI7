@@ -2960,7 +2960,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="bluetooth_unlock_state_key_error">Eroare de cheie</string>
     <string name="bluetooth_unlock_state_too_far">Nu este suficient de aproape</string>
     <string name="bluetooth_unlock_state_ok">Deblocat</string>
-    <string name="wifi_type_approval_dialog_title">NTC NO.</string>
+    <string name="wifi_type_approval_dialog_title">Informații de reglementare</string>
     <string name="agps_roaming">A-GPS în roaming</string>
     <string name="agps_roaming_summary">Utilizaţi datele mobile pentru A-GPS în roaming</string>
     <string name="agps_roaming_dia_title">Utilizaţi A-GPS în roaming</string>

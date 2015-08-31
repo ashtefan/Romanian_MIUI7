@@ -43,16 +43,16 @@
      <string name="missed_call_text">%d apeluri pierdute</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de un dispozitiv Bluetooth</string>
      <string name="open_camera_hint_text">Glisaţi spre stânga pentru a deschide Camera</string>
-     <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a deschide Mi Remote</string>
+     <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a accesa Apeluri</string>
      <string name="open_wifi_settings">Conexiune deschisă la reţea</string>
      <string name="phone_locked_string">Telefon blocat</string>
      <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %s minute</string>
      <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %s secunde</string>
-     <string name="unlock_sim_string">Deblocare card SIM</string>
+     <string name="unlock_sim_string">Deblocare cartelă SIM</string>
      <string name="unlock_string">OK</string>
-     <string name="unlocking_sim_card">Deblocare card SIM</string>
+     <string name="unlocking_sim_card">Deblocare cartelă SIM</string>
      <string name="unlockscreen_low_battery">Conectaţi încărcătorul</string>
      <string name="unlockscreen_recharge_completed">Încărcare finalizată</string>
-     <string name="unlockscreen_recharging_message">Se încarcă %d%%</string>
+     <string name="unlockscreen_recharging_message">Încărcat: %d%%</string>
      <string name="wrong_password">Parolă incorectă</string>
 </resources>

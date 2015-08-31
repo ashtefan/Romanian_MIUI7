@@ -888,7 +888,6 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="status_away">Plecat</string>
     <string name="status_busy">Ocupat</string>
     <string name="strequentList">Favorite</string>
-    <string name="success_message_import_from_account">Contact importat</string>
     <string name="summary_kind_title">Rezumat</string>
     <string name="t9_search_guide_pinyin">Introduceţi 7 şi 5 pt. a căuta Steve Jobs</string>
     <string name="t9_search_guide_zhuyin">Introduceţi 7 şi 5 pt. a căuta Steve Jobs</string>
@@ -1022,7 +1021,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contact_detail_profile_switch_on">Vizualizaţi fotografiile de profil</string>
     <string name="contact_detail_profile_switch_on_fail_toast">Nu s-au putut activa cartelele de contact</string>
     <string name="contact_detail_profile_switch_on_subtitle">Atingeți pentru a activa cartelele de contact.</string>
-    <string name="contact_detail_profile_switch_on_success_toast">Cartelele de contact sunt deja activate</string>
+    <string name="contact_detail_profile_switch_on_success_toast">Cartelele de contact sunt activate</string>
     <string name="contacts_in_call_show">Videoclipul persoanei %s</string>
     <string name="delete_call_log_message">Ştergeţi istoricul apelurilor?</string>
     <string name="details_list_group_header_more_action">Mai multe</string>

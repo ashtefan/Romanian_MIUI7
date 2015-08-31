@@ -95,7 +95,7 @@
     <string name="button_text_cancel_optimize">Anulaţi</string>
     <string name="button_text_cleanup">Curăţaţi</string>
     <string name="button_text_clear">Curăţare</string>
-    <string name="button_text_create_shortcut">Creaţi</string>
+    <string name="button_text_create_shortcut">Creaţi o comandă rapidă</string>
     <string name="button_text_fix">Reparaţi</string>
     <string name="button_text_ignore">Ignoraţi</string>
     <string name="button_text_ignore_alert_title">Ignoraţi această alarmă?</string>

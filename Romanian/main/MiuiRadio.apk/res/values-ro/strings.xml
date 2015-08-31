@@ -6,7 +6,7 @@
     <string name="all">Tot</string>
     <string name="app_name">Radio</string>
     <string name="app_to_share">Finalizaţi acţiunea utilizând</string>
-    <string name="avoid_to_use_traffic_summary">Utilizarea conexiunii de date mobile pentru a descărca conținut va creşte utilizarea de date. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="avoid_to_use_traffic_summary">Utilizarea conexiunii de date mobile pentru a descărca conținut va creşte utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="avoid_to_use_traffic_title">Avertizare de date mobile</string>
     <string name="batch_download">Descărcare în lot</string>
     <string name="batch_download_start_toast">Descărcare…</string>
@@ -26,7 +26,7 @@
     <string name="device_connected">Conectat</string>
     <string name="device_not_connected">Deconectat</string>
     <string name="dialog_title_download_quality">Calitate descărcare</string>
-    <string name="dialog_title_listen_quality">Selectaţi calitatea</string>
+    <string name="dialog_title_listen_quality">Selectaţi calitatea dorită</string>
     <string name="dialog_title_tone_quality">Calitate flux</string>
     <string name="download_completed">Descărcat</string>
     <string name="download_invalid">Nicio resursă</string>
@@ -85,7 +85,7 @@
     <string name="play_quality_toast">Selectaţi calitatea fluxului</string>
     <string name="presonal_center">Cont</string>
     <string name="priority_storage">Utilizaţi cardul SD extern</string>
-    <string name="priority_storage_summary">Se descarcă automat pe cardul SD extern dacă este disponibil</string>
+    <string name="priority_storage_summary">Se descarcă automat pe cardul SD extern, dacă este disponibil</string>
     <string name="project_device">Telefon Mi</string>
     <string name="qingting_logo"> | Qingting FM</string>
     <string name="remaining_time">"Timp rămas: "</string>
@@ -102,7 +102,7 @@
     <string name="still_in_dev">Încă lucrăm la această funcție</string>
     <string name="summary_download">Nu se utilizează datele mobile pentru a descărca conținut radio</string>
     <string name="summary_download_quality">Setări calitate descărcare</string>
-    <string name="summary_off_sleep_mode">Se opreşte radioul după un timp scurs</string>
+    <string name="summary_off_sleep_mode">Se opreşte radioul după un interval de timp</string>
     <string name="summary_on_sleep_mode">Se opreşte radioul după un timp scurs</string>
     <string name="summary_tone_quality">Flux audio la rate de biți diferite</string>
     <string name="title_account">Cont Mi</string>

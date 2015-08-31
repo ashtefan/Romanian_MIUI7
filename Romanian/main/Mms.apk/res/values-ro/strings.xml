@@ -9,7 +9,7 @@
     <string name="add_festival">Răspunsuri rapide</string>
     <string name="add_music">Adăugaţi muzică</string>
     <string name="add_nickname">Pseudonim</string>
-    <string name="add_nickname_title">Editaţi porecla</string>
+    <string name="add_nickname_title">Editaţi pseudonimul</string>
     <string name="add_number_to_sender">Adăugaţi numărul la %s</string>
     <string name="add_picture">Adăugaţi fotografia</string>
     <string name="add_private_contact">Adăugați un contact privat</string>
@@ -61,7 +61,7 @@
     <string name="compressing">Imaginea este prea mare. Se comprimă…</string>
     <string name="confirm">Confirmaţi</string>
     <string name="confirm_add_blacklist_dialog_dspt">Adăugaţi acest număr în lista blocărilor?</string>
-    <string name="confirm_delete_SIM_message">Ştergeţi acest mesaj de pe cardul SIM?</string>
+    <string name="confirm_delete_SIM_message">Ştergeţi acest mesaj de pe cartela SIM?</string>
     <string name="confirm_delete_all_SIM_messages">Ştergeţi toate conversaţiile de pe SIM?</string>
     <string name="confirm_delete_all_conversations">Ştergeţi toate conversaţiile?</string>
     <string name="confirm_delete_conversation">Ștergeți toată această conversaţie?</string>
@@ -84,7 +84,7 @@
     <string name="confirm_restore_checkbox">Restabiliţi mesajele blocate</string>
     <string name="confirm_send_mms">Unul dintre destinatari include o adresă de e-mail. Acest mesaj va fi trimis ca MMS, ceea ce poate duce la costuri suplimentare.</string>
     <string name="context_menu_add_calendar">Adăugaţi în Calendar</string>
-    <string name="context_menu_add_contact">Adăugaţi la contacte</string>
+    <string name="context_menu_add_contact">Adăugaţi la Contacte</string>
     <string name="context_menu_add_to_browser_favorite">Adăugaţi la marcaje în Browser</string>
     <string name="context_menu_browse_web">Accesaţi</string>
     <string name="context_menu_call">Apelaţi</string>
@@ -183,7 +183,7 @@
     <string name="hint_search_sms">%d mesaje</string>
     <string name="hms_add_image_progress_message">În lucru…</string>
     <string name="hms_first_use_tips">Pentru a recepţiona mesaje de serviciu, trebuie să vă conectaţi la o reţea Wi-Fi</string>
-    <string name="hms_uri_param_err">URL nu poate fi gol</string>
+    <string name="hms_uri_param_err">URL-ul nu poate fi gol</string>
     <string name="importing_progress_private_message">Importul mesajelor…</string>
     <string name="in_sms">Mesaj</string>
     <string name="insufficient_drm_rights">Drepturile DRM detectate sunt insuficiente.</string>
@@ -228,7 +228,7 @@
     <string name="message_readed">Citit</string>
     <string name="message_received">Recepţionat</string>
     <string name="message_rejected">Respins</string>
-    <string name="message_saved_as_draft">Mesaj salvat ca mesaj nefinalizat</string>
+    <string name="message_saved_as_draft">Salvat ca mesaj nefinalizat</string>
     <string name="message_send_failed_title">Mesajul nu a fost trimis.</string>
     <string name="message_send_read_report">Se va trimite un raport de citire</string>
     <string name="message_sent">Trimis</string>
@@ -270,7 +270,7 @@
     <string name="mx_count_dspt">Aţi trimis %1$d mesaje text şi %2$d MMS-uri</string>
     <string name="mx_current_status">Stare: on-line</string>
     <string name="mx_dspt">Mesagerie Mi vă permite să trimiteți şi să recepţionaţi mesaje de la oricine utilizează MIUI</string>
-    <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli pt. SMS. Operatorul dvs. poate percepe taxe pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
+    <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli pentru SMS. Operatorul dvs. poate percepe taxe pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
     <string name="mx_enable">Mesagerie Mi</string>
     <string name="mx_enable_popup_msg">Mesagerie Mi vă permite să trimiteți şi să recepţionaţi mesaje de la oricine utilizează MIUI. Se aplică tarife normale de utilizare a datelor, dacă nu sunteţi conectat la Wi-Fi.</string>
     <string name="mx_msg">Mesagerie Mi</string>
@@ -331,7 +331,7 @@
     <string name="pref_summary_off_system_mms_priority">Utilizaţi alte aplicaţii pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_on_system_mms_priority">Utilizaţi aplicaţia Mesagerie Mi ca aplicaţie prestabilită pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_show_recent_contacts">Afişarea contactelor recente la compunerea unui mesaj text</string>
-    <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când un mesaj text nou este recepţionat</string>
+    <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
     <string name="pref_system_title">Sistem</string>
     <string name="pref_time_auto_group_summary">Grupaţi mesajele după oră</string>
     <string name="pref_time_auto_group_title">Grupare mesaje</string>
@@ -377,7 +377,7 @@
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Destinatar: "</string>
     <string name="recording_failed">Nu se poate înregistra</string>
-    <string name="refill_now">Recompletaţi acum</string>
+    <string name="refill_now">Completaţi din nou acum</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="refresh_failed">Reîmprospătare eşuată</string>
     <string name="refreshing">Se actualizează…</string>
@@ -425,7 +425,7 @@
     <string name="send">Trimiteţi</string>
     <string name="send_hms_editor_hints">Mesagerie Mi</string>
     <string name="send_message_dlg_check_hint">Nu se afișează din nou</string>
-    <string name="send_message_dlg_title">Gestiune dispozitiv</string>
+    <string name="send_message_dlg_title">Gestionare dispozitiv</string>
     <string name="send_message_notification_msg">Apăsați pentru a vizualiza detalii solicitare.</string>
     <string name="send_message_notification_tickerText">Dispozitivul solicită permisiune</string>
     <string name="send_message_notification_title">Solicitare permisiune</string>
@@ -448,7 +448,7 @@
     <string name="sim_copy_to_phone_memory">Copiaţi în memoria telefonului</string>
     <string name="sim_delete">Ştergeţi</string>
     <string name="sim_empty">Niciun mesaj pe cartela SIM</string>
-    <string name="sim_full_body">Ştergeţi câteva mesaje pentru a crea spaţiu pentru mai multe.</string>
+    <string name="sim_full_body">Ştergeţi câteva mesaje pentru a crea spaţiu pentru mesajele noi.</string>
     <string name="sim_full_title">Cartelă SIM plină</string>
     <string name="sim_manage_messages_title">Mesaje text pe cartela SIM</string>
     <string name="sim_view">Vizualizaţi</string>
@@ -501,10 +501,10 @@
     <string name="toast_description_required">Descrierea nu poate fi goală</string>
     <string name="toast_feedback_finish">Raportul dvs. va fi trimis atunci când vă veţi conecta la Wi-Fi</string>
     <string name="toast_feedback_max">Nu puteți trimite mai mult de 3 rapoarte pe zi</string>
-    <string name="toast_feedback_start">Colectare date pt. jurnal…</string>
+    <string name="toast_feedback_start">Colectare date pentru jurnal…</string>
     <string name="too_many_attachments">Nu se pot depăși %1$s ataşamente. Doar primele %2$s vor fi adăugate.</string>
     <string name="too_many_recipients">Mesajul are prea mulţi destinatari (%1$s). Nu pot fi mai mulţi de %2$s destinatari.</string>
-    <string name="too_many_unsent_mms">Mesajul nu poate fi trimis chiar acum. Există prea multe mesaje multimedia netrimise.</string>
+    <string name="too_many_unsent_mms">Mesajul nu poate fi trimis acum. Există prea multe mesaje multimedia netrimise.</string>
     <string name="try_to_send">Încercaţi să trimiteţi</string>
     <string name="type_attachment">ataşament</string>
     <string name="type_audio">audio</string>
@@ -577,20 +577,20 @@
     <string name="cloud_state_syncing">Sincronizare cu Mi Cloud…</string>
     <string name="mipub_messaging_entry_title">Mesaj Mi</string>
     <string name="mx_activate_dlg_title_ex">Activaţi Mesaj şi Voce Mi</string>
-    <string name="mx_dspt_provision_ex">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori MIUI, fără a suporta cheltuieli de la operatorul dvs.. VoIP este susţinut de Weihui. Vizualizaţi Politica de Confidențialitate Weihui.</string>
+    <string name="mx_dspt_provision_ex">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori MIUI, fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de Confidențialitate Weihui.</string>
     <string name="mx_dspt_provision_ex2">Politica de Confidențialitate</string>
     <string name="mx_enable_ex">Mesaj şi Voce Mi</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
-    <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de o singură dată în SMS</string>
-    <string name="pref_time_auto_group_disabled_summary">Nu este acceptat în dimensiunea actuală fontului</string>
-    <string name="title_show_sms_template_in">Verificare SMS pentru parole de o singură dată</string>
+    <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
+    <string name="pref_time_auto_group_disabled_summary">Nu este acceptat în dimensiunea actuală a fontului</string>
+    <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>
     <string name="exceed_message_text_limitation">Limita de text a mesajului a fost atinsă.</string>
     <string name="mx_and_voip_enable">Mesaje şi Voce Mi</string>
-    <string name="mx_and_voip_enable_popup_msg">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori MIUI fără a suporta cheltuieli de la operatorul dvs.. VoIP este susţinută de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
+    <string name="mx_and_voip_enable_popup_msg">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori MIUI fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
     <string name="mx_and_voip_enable_popup_msg2">Politica de confidențialitate</string>
     <string name="voip_enable">Mesaje şi Voce Mi</string>
-    <string name="voip_enable_popup_msg">Efectuaţi apeluri către alți utilizatori MIUI fără a suporta cheltuieli de la operatorul dvs.. VoIP este susţinută de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
+    <string name="voip_enable_popup_msg">Efectuaţi apeluri către alți utilizatori MIUI fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
     <string name="voip_enable_popup_msg2">Politica de confidențialitate</string>
 </resources>

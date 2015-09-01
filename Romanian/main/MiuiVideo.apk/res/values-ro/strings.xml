@@ -18,7 +18,7 @@
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
     <string name="airkan_playing">redare</string>
     <string name="airkan_playing_to">" pe "</string>
-    <string name="airkan_tips">Apăsaţi aici pentru a reda videoclipul la TV</string>
+    <string name="airkan_tips">Apăsaţi aici pentru a reda videoclipul pe TV</string>
     <string name="airkan_video_playing">Redare</string>
     <string name="airkan_video_playing_in">Redare </string>
     <string name="all_ep">Toate ep.</string>
@@ -86,8 +86,8 @@
     <string name="douban_score">Review-uri</string>
     <string name="download_add_success">Adăugare reuşită a sarcinii de preîncărcare</string>
     <string name="download_error">Offline error</string>
-    <string name="download_file_fail">Accesul la fișierul local nu a reușit, poate că nu există spațiu pe cardul SD</string>
-    <string name="download_geturl_fail">Obţinerea URL a eşuat, verificaţi rețeaua și încercați din nou.</string>
+    <string name="download_file_fail">Accesul la fișierul local nu a reușit; probabil nu există spațiu pe cardul SD</string>
+    <string name="download_geturl_fail">Obţinerea URL-ului a eşuat, verificaţi rețeaua și încercați din nou.</string>
     <string name="download_is_in_tasklist">A fost descărcat</string>
     <string name="download_percent_hint">Descărcare %d%%</string>
     <string name="download_task_with">%d sarcini</string>
@@ -150,7 +150,7 @@
     <string name="nowifi_alert_dialog_title">Utilizaţi rețeaua de telefonie mobilă pentru a reda videoclipul?</string>
     <string name="offline">Off-line</string>
     <string name="offline_alert_title">Notificare preîncărcare</string>
-    <string name="offline_alert_wifi">Utilizaţi rețeaua de telefonie mobilă. Pentru a salva utilizarea datelor, descărcările sunt întrerupte și vor continua după ce vă veţi conecta la o rețea Wi-Fi.</string>
+    <string name="offline_alert_wifi">Utilizaţi rețeaua de telefonie mobilă. Pentru a reduce utilizarea datelor, descărcările sunt întrerupte și vor continua după ce vă veţi conecta la o rețea Wi-Fi.</string>
     <string name="offline_loaded">Video off-line</string>
     <string name="offline_loading">Off-line</string>
     <string name="offline_max_promote">Aşteptare preîncărcare, cel mult 2 sarcini de preîncărcare pot rula simultan.</string>
@@ -180,10 +180,10 @@
     <string name="pptv">PPTV</string>
     <string name="prefix_countdown">"Publicitate rămasă: "</string>
     <string name="priority_storage">Salvaţi pe cardul SD</string>
-    <string name="priority_storage_summary">Se salvează automat pe cardul SD extern dacă este disponibil</string>
+    <string name="priority_storage_summary">Se salvează automat pe cardul extern dacă este disponibil</string>
     <string name="qiyi">iQiyi</string>
     <string name="receive_mipush">Notificări Mi push</string>
-    <string name="receive_mipush_summary">Primiți notificări când un conținut nou va fi disponibil</string>
+    <string name="receive_mipush_summary">Primiți notificări când va fi disponibil conținut nou </string>
     <string name="recentplay">Redate recent</string>
     <string name="reload_sub_title">Atingeţi pentru a reîncerca</string>
     <string name="reload_title">Nu se poate conecta la rețea</string>
@@ -233,7 +233,7 @@
     <string name="top_status_online_media">On-line</string>
     <string name="tudou">Tudou</string>
     <string name="tv_channel_empty_hint">Niciun canal.</string>
-    <string name="unfavorite">Eliminaţi steaua</string>
+    <string name="unfavorite">Eliminaţi din favorite</string>
     <string name="unknown_source">Sursă necunoscută</string>
     <string name="update">Actualizat</string>
     <string name="update_to_count_ji">Actualizat la Ep. 1$s</string>
@@ -283,7 +283,7 @@
     <string name="vp_full_high_definition">1080p</string>
     <string name="vp_full_screen">Redare pe ecran complet</string>
     <string name="vp_function">Setări</string>
-    <string name="vp_get_url_error">Nu se poate găsi URL pentru acest videoclip.</string>
+    <string name="vp_get_url_error">Nu se poate găsi URL-ul pentru acest videoclip.</string>
     <string name="vp_hide_media_info">Ascundeţi detaliile videoclipului</string>
     <string name="vp_high_definition">HD</string>
     <string name="vp_hint">Atenție</string>
@@ -316,10 +316,10 @@
     <string name="vp_select_ep">Selectaţi episodul</string>
     <string name="vp_select_function">Setări player</string>
     <string name="vp_select_source">Selectaţi sursa</string>
-    <string name="vp_select_video_definition">Selectaţi calitatea</string>
+    <string name="vp_select_video_definition">Selectaţi rezoluţia video</string>
     <string name="vp_select_video_source">Selectaţi sursa</string>
     <string name="vp_skip">Omiteţi intro și credite</string>
-    <string name="vp_standard_definition">SD</string>
+    <string name="vp_standard_definition">Standard</string>
     <string name="vp_super_definition">Super</string>
     <string name="vp_toast_downloadapk">Descărcare…</string>
     <string name="vp_unknown_source">Sursă necunoscută</string>
@@ -365,7 +365,7 @@
     <string name="rank_title_movie">Film</string>
     <string name="install_plugin">Instalare Plug-in</string>
     <string name="video_plugin">Plug-in video</string>
-    <string name="video_plugin_prepare">Pregătire plug-in video, așteptați puţin.</string>
+    <string name="video_plugin_prepare">Pregătire plug-in video, așteptați...</string>
     <string name="video_plugin_downloading">Descărcare…</string>
     <string name="download_fail">Eşuat</string>
     <string name="download_finished">Finalizat</string>
@@ -379,7 +379,7 @@
     <string name="server_switch">Server</string>
     <string name="server_summary">Selectaţi serverul serviciului</string>
     <string name="pulltorefresh">Trageți în jos pentru a actualiza</string>
-    <string name="releasetorefresh">Eliberați pentru reîmprospătare</string>
+    <string name="releasetorefresh">Eliberați pentru a reîmprospăta</string>
     <string name="refreshing">Încărcare…</string>
     <string name="lastrefresh">Actualizare recentă:</string>
     <string name="version_select">Selectare versiune</string>

@@ -35,7 +35,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="install_failed_older_sdk">Acest pachet funcţionează numai pe versiunile Android mai recente.</string>
     <string name="install_failed_system_incompatible">Această aplicaţie nu este compatibilă cu MIUI</string>
     <string name="install_failed_verify_failed">Pachetul nu a trecut de verificare şi nu poate fi instalat.</string>
-    <string name="install_failed_verify_timeout">La verificarea pachetului timpul limită a expirat.</string>
+    <string name="install_failed_verify_timeout">Timpul limită de verificare a pachetului a expirat.</string>
     <string name="installing">Se instalează…</string>
     <string name="launch">Deschideţi</string>
     <string name="lift_ban">Dezactivaţi interdicţia</string>
@@ -65,13 +65,13 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="permission_group_title_others">Altele</string>
     <string name="permission_group_title_privacy_related">Confidenţialitate</string>
     <string name="permission_group_title_settings_related">Setări</string>
-    <string name="permission_send_sms_descx">Aplicaţia poate trimite SMS şi MMS</string>
+    <string name="permission_send_sms_descx">Aplicaţia poate trimite SMS-uri şi MMS-uri</string>
     <string name="privacy_relative">Permisiuni relativ periculoase</string>
     <string name="safe_guard_support">Suport tehnic oferit de %1$s</string>
     <string name="safe_relative">Permisiuni relativ sigure</string>
     <string name="security_settings_desc">Permiteţi acestei aplicaţii să:</string>
     <string name="settings">Setări</string>
-    <string name="trust_switch_dialog_msg">MIUI nu va cere confirmarea dvs. pt. operaţiunile legate de securitate şi confidențialitate efectuate de această aplicaţie.</string>
+    <string name="trust_switch_dialog_msg">MIUI nu va cere confirmarea dvs. pt. operaţiunile legate de securitate şi confidențialitate efectuate de către această aplicaţie.</string>
     <string name="uninstall_activity_text">" %1$s face parte din următoarea aplicaţie: "</string>
     <string name="uninstall_application_text">Această aplicaţie va fi dezinstalată</string>
     <string name="uninstall_application_title">Dezinstalaţi aplicaţia</string>

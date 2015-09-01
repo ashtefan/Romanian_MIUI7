@@ -22,7 +22,7 @@
     <string name="power_event_view_event_title">Declanșări</string>
     <string name="hide_mode">Gestionare utilizare acumulator de către aplicații</string>
     <string name="hide_mode_desc_title">Gestionare utilizare acumulator de către aplicații</string>
-    <string name="hide_mode_desc">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și GPS</string>
+    <string name="hide_mode_desc">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și a GPS-ului</string>
     <string name="normal">Mod Prestabilit</string>
     <string name="reading">Mod Citire</string>
     <string name="media">Mod Media</string>
@@ -110,8 +110,8 @@
     <string name="add_user_define_group_failed">Nu se poate adăuga profilul</string>
     <string name="mode_settings">Setări</string>
     <string name="power_hide_mode_title">Gestionare utilizare acumulator de către aplicații</string>
-    <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și GPS</string>
-    <string name="low_power_auto_title">Restricționare aplicaţii, atunci când acumulatorul este descărcat</string>
+    <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și a GPS-ului</string>
+    <string name="low_power_auto_title">Restricționare aplicaţii atunci când acumulatorul este descărcat</string>
     <string name="power_hide_mode_app_list_title">Selectaţi aplicațiile pentru restricționare</string>
     <string name="power_hide_mode_app_list_summary">Setări aplicaţie</string>
     <string name="power_hide_mode_app_list_total">%d aplicaţii</string>

@@ -2,7 +2,7 @@
 <resources>
      <string name="app_name">Căutare</string>
      <string name="apps_search_activity" />
-     <string name="clear_shortcuts">Eliminaţi istoricul căutării</string>
+     <string name="clear_shortcuts">Eliminaţi istoricul căutărilor</string>
      <string name="clear_shortcuts_agree">Eliminare istoric</string>
      <string name="clear_shortcuts_disagree">Nu se elimină istoricul</string>
      <string name="clear_shortcuts_prompt">"Istoricul tuturor căutărilor va fi eliminat.
@@ -17,7 +17,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
      <string name="corpus_label_web">Web</string>
      <string name="corpus_selection_heading">Căutare</string>
      <string name="default_search_domain">.google.com</string>
-     <string name="device_settings_category_title">Ştergeţi istoricul căutării</string>
+     <string name="device_settings_category_title">Ştergeţi istoricul căutărilor</string>
      <string name="google_app_label">Căutare Google</string>
      <string name="google_search_description">Sugestii Căutare Google</string>
      <string name="google_search_hint">Căutare Google</string>
@@ -25,7 +25,7 @@ Pentru ştergerea istoricului din Browser, utilizaţi setările Browser-ului."</
      <string name="google_settings_category_title">Căutare Google</string>
      <string name="menu_help">Ajutor</string>
      <string name="menu_settings">Setări căutare</string>
-     <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutării?</string>
+     <string name="remove_from_history">Vreţi să eliminați acest element din istoricul căutărilor?</string>
      <string name="remove_from_history_failed">Nu se poate elimina elementul din istoric.</string>
      <string name="search_in_app_store">Căutaţi în magazin</string>
      <string name="search_in_web">Căutare on-line</string>

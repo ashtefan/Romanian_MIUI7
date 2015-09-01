@@ -21,7 +21,7 @@
     <string name="chat_uint">" ore"</string>
     <string name="checkout_traffic_saving_history">Vizualizare istoric</string>
     <string name="daily_limit_network_available_body">Atingeți pentru a vizualiza statisticile de utilizare a datelor.</string>
-    <string name="daily_limit_over_message">Ați depășit limita zilnică de utilzare a datelor.</string>
+    <string name="daily_limit_over_message">Ați depășit limita zilnică de utilizare a datelor.</string>
     <string name="daily_pkg_traffic">limita de utilizare a datelor</string>
     <string name="data_usage_correction_timeout_body">Atingeți pentru a actualiza manual.</string>
     <string name="data_usage_correction_timeout_title">Timpul pentru sincronizarea utilizării datelor a expirat</string>
@@ -64,7 +64,7 @@
     <string name="datausage_purchase_result_failed">Imposibil de procurat date. Contactaţi operatorul dvs. pentru mai multe informații despre problemă.</string>
     <string name="datausage_purchase_result_ok">Aţi obţinut %s.\nPentru mai multe informaţii verificaţi mesajul primit de la furnizorul de servicii</string>
     <string name="datausage_purchase_time_in">" în "</string>
-    <string name="datausage_purchase_title_confirm">Detalii despre ahiziţionare</string>
+    <string name="datausage_purchase_title_confirm">Detalii despre achiziţionare</string>
     <string name="datausage_purchase_title_order">Suplinire</string>
     <string name="datausage_purchase_title_pkglist">Suplinire</string>
     <string name="datausage_purchase_view_detail">Vizualizaţi detalii</string>
@@ -73,7 +73,7 @@
     <string name="detail_app_button">Informaţii aplicaţie</string>
     <string name="dialog_app_roaming_message">%1$s nu pot utiliza datele mobile în roaming. Când sunteţi în roaming internațional, doar aplicațiile pe care le-ați adăugat la excepţii pot utiliza datele mobile.</string>
     <string name="dialog_app_roaming_title">Roamingul internațional nu este activat pentru %1$s</string>
-    <string name="dialog_roaming_message">Permiteți aceastei aplicații să utilizeze datele mobile în roaming internațional?</string>
+    <string name="dialog_roaming_message">Permiteți acestei aplicații să utilizeze datele mobile în roaming internațional?</string>
     <string name="dialog_roaming_title">Roaming internaţional</string>
     <string name="dual_setting_simcard1">SIM1</string>
     <string name="dual_setting_simcard2">SIM2</string>
@@ -109,7 +109,7 @@
     <string name="main_alert_message_month_limit_error">Limita de date setată este incorectă</string>
     <string name="main_alert_message_no_imsi">Nicio cartelă SIM detectată</string>
     <string name="main_alert_message_no_mobile_package">Setaţi limita datelor mobile</string>
-    <string name="main_alert_message_slot_no_data_connection">Slotul cardului SIM nu susţine o conexiune de date mobile</string>
+    <string name="main_alert_message_slot_no_data_connection">Slotul cartelei SIM nu susţine o conexiune de date mobile</string>
     <string name="main_button_idel_traffic">În afara orelor de vârf</string>
     <string name="main_button_normal_traffic">În orele de vârf</string>
     <string name="main_button_usage_adjust">Sincronizaţi utilizarea datelor mobile</string>
@@ -159,8 +159,8 @@
     <string name="notify_month_traffic_title">%s utilizaţi în această lună</string>
     <string name="notify_month_traffic_title_for_slotnum">%1$s a utilizat %2$s în această lună</string>
     <string name="notify_weekly_traffic_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
-    <string name="notify_weekly_traffic_title">%s utilizaţi în această săptămînă</string>
-    <string name="notify_weekly_traffic_title_for_slotnum">%1$s a utilizat %2$s în această săptămînă</string>
+    <string name="notify_weekly_traffic_title">%s utilizaţi în această săptămână</string>
+    <string name="notify_weekly_traffic_title_for_slotnum">%1$s a utilizat %2$s în această săptămână</string>
     <string name="ok_button">OK</string>
     <string name="online_chat">Chat</string>
     <string name="online_read">Noutăţi</string>
@@ -188,11 +188,11 @@
     <string name="pref_connect_settings_enable_background">Permiteți datele în fundal</string>
     <string name="pref_connect_settings_enable_background_hint">Permiteţi aplicațiilor să utilizeze datele mobile în fundal</string>
     <string name="pref_connect_settings_exceed_limit">Restricţionaţi utilizarea datelor</string>
-    <string name="pref_connect_settings_exceed_limit_hint">Dezactivaţi conexiunea de date, atunci când utilizarea datelor în orele de vârf a atins limita</string>
+    <string name="pref_connect_settings_exceed_limit_hint">Dezactivaţi conexiunea de date atunci când utilizarea datelor în orele de vârf a atins limita</string>
     <string name="pref_daily_adjust">Setaţi limita de date în orele de vârf</string>
     <string name="pref_daily_traffic">Limita orelor de vârf</string>
     <string name="pref_data_usage_ignore_settings">Se ignoră utilizarea datelor</string>
-    <string name="pref_data_usage_ignore_settings_summary">Nu se duce evidența utilizării datelor de către aplicațiile selectate</string>
+    <string name="pref_data_usage_ignore_settings_summary">Nu se ţine evidența utilizării datelor de către aplicațiile selectate</string>
     <string name="pref_data_usage_not_set">Setaţi limita utilizării datelor</string>
     <string name="pref_free_adjust">Setaţi limita de date în afara orelor de vârf</string>
     <string name="pref_free_traffic_exceed_limit">Anunţă-mă atunci când utilizarea datelor a atins limita</string>
@@ -235,10 +235,10 @@
     <string name="pref_version">Versiune %s</string>
     <string name="pref_warning_values">Nivelul de avertizare</string>
     <string name="pref_whitelist_setting">Gestionare excepţii</string>
-    <string name="privacy_declare_dialog_message">Prin utilizarea acestui serviciu, sunteti de acord cu &lt;a href=%s&gt; Condițiile de utilizare&lt;/a&gt; Opera."</string>
+    <string name="privacy_declare_dialog_message">Prin utilizarea acestui serviciu, sunteţi de acord cu &lt;a href=%s&gt; Condițiile de utilizare&lt;/a&gt; Opera."</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>
     <string name="privacy_prompt_tc_sms_report_message">Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor.</string>
-    <string name="privacy_prompt_traffic_adjust_message">Această caracteristică necesită criptarea şi trimiterea IMEI-ului, numărului de telefon şi a informaţiilor operatorului pe serverele Mi, cu scopul de a obține statistici de utilizare a datelor de la operatorul dvs..</string>
+    <string name="privacy_prompt_traffic_adjust_message">Această caracteristică necesită criptarea şi trimiterea IMEI-ului, numărului de telefon şi a informaţiilor operatorului pe serverele Mi, cu scopul de a obține statistici de utilizare a datelor de la operatorul dvs.</string>
     <string name="privacy_prompt_traffic_purchase_message">Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, pentru a obține mai multe informații despre opțiunile de achiziție a datelor.</string>
     <string name="privacy_prompt_upload">Încărcare</string>
     <string name="reach_daily_limit_value_body">Reduceți utilizarea datelor mobile.</string>
@@ -282,12 +282,12 @@
     <string name="tc_sms_report_notify_get_failure_title">Nu se poate obține SMS-ul utilizării datelor</string>
     <string name="tc_sms_report_notify_get_timeout_body">Procesul a expirat. Confirmați cu operatorul dvs. dacă codul de solicitare SMS introdus este corect.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Nu se poate obține SMS-ul utilizării datelor</string>
-    <string name="tc_sms_report_receive_content">Conținutul SMS raport de utilizare a datelor (Confirmați statistici de utilizare a datelor)</string>
+    <string name="tc_sms_report_receive_content">Conținut SMS raport de utilizare a datelor (Confirmați statistici de utilizare a datelor)</string>
     <string name="tc_sms_report_receive_content_null">Ajutaţi-ne să îmbunătăţim această funcție!&lt;br/>Iată cum:&lt;br/>1. Mergeţi la \"Verificare comandă SMS\" şi \"Numărul destinatarului\"&lt;br/>2. Apăsaţi \"Obţinere şablon SMS\"&lt;br/>3. Așteptați primirea mesajului SMS de la operatorul dvs. &lt;br/>4. Apăsaţi \"Încărcare către MIUI\"​</string>
     <string name="tc_sms_report_receive_num">Numărul destinatarului</string>
     <string name="tc_sms_report_send_num">Numărul de telefon al operatorului</string>
     <string name="tc_sms_report_summary">Ajutaţi-ne să îmbunătăţim această funcție prin trimiterea unui raport, atunci când informaţiile despre datele utilizate sunt incorecte sau eşuează actualizarea</string>
-    <string name="tc_sms_report_tips_dialog_message">Utilizarea datelor foloseşte un format special de SMS pentru a obține cele mai recente date utilizate de la operatorul dvs.. Dacă această caracteristică nu funcționează în mod normal, încercați să actualizați formatul SMS de utilizare a datelor. Noul format actualizat va fi încărcat la serverele noastre.</string>
+    <string name="tc_sms_report_tips_dialog_message">Utilizarea datelor foloseşte un format special de SMS pentru a obține cele mai recente date utilizate de la operatorul dvs. Dacă această caracteristică nu funcționează în mod normal, încercați să actualizați formatul SMS de utilizare a datelor. Noul format actualizat va fi încărcat pe serverele noastre.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS de utilizare a datelor</string>
     <string name="tc_sms_report_title">Eroare raport de utilizare a datelor</string>
     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>
@@ -325,7 +325,7 @@
     <string name="traffic_over_purchase_body">Atingeți pentru a vizualiza detalii.</string>
     <string name="traffic_over_purchase_link">"Ați atins limita de utilizare a datelor din planul dvs. mobil.&lt;br/>Dacă depăşiţi limita de utilizare a planului de date, operatorul ar putea percepe taxe suplimentare.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Apăsați pentru a suplimenta soldul.&lt;/U>&lt;/font>"</string>
     <string name="traffic_over_purchase_title">Limita de date depășită</string>
-    <string name="traffic_protection_data_usage_summary">Setaţi alerte de utilizare a datelor, pentru a evita depășirea limitelor de date lunare.</string>
+    <string name="traffic_protection_data_usage_summary">Setaţi alerte de utilizare a datelor pentru a evita depășirea limitelor de date lunare.</string>
     <string name="traffic_protection_label">Avertizare utilizare date</string>
     <string name="traffic_protection_next">Următorul</string>
     <string name="traffic_protection_summary">Setați valoarea de avertizare</string>
@@ -457,7 +457,7 @@
  2. Dacă tocmai ați suplinit soldul, reporniți dispozitivul și încercați din nou.
 
  3. Semnalul rețelei operatorului dvs. poate fi slab în locația curentă."</string>
-    <string name="network_operator_exception_summary">Nu s-a putut activa cartela SIM. Asigurați-vă că este introdusă corect cartela SIM și că planul de date mobile a fost activat de către operatorul dvs..</string>
+    <string name="network_operator_exception_summary">Nu s-a putut activa cartela SIM. Asigurați-vă că este introdusă corect cartela SIM și că planul de date mobile a fost activat de către operatorul dvs.</string>
     <string name="network_permission_exception_tips">Nu se pot utiliza datele mobile pentru conectare la rețea</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
@@ -483,7 +483,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
 
  2. Dacă utilizați două cartele SIM, încercați să comutați la altă cartelă pentru a vedea dacă se conectează în mod normal.
 
- 3. Asigurați-vă că atât cartela SIM cât și slot-ul SIM al dispozitivului nu sunt deteriorate. Verificaţi dacă cartela SIM utilizată este introdusă corect în slot-ul SIM al dispozitivului."</string>
+ 3. Asigurați-vă că atât cartela SIM cât și slot-ul SIM al dispozitivului nu sunt deteriorate. Verificaţi dacă SIM-ul utilizat este introdus corect în slot-ul dispozitivului."</string>
     <string name="open_now">Permiteți aplicației să utilizeze datele mobile</string>
     <string name="other_exception_summary">Nu aveți o conexiune la internet</string>
     <string name="other_exception_title">Verificarea pentru alte probleme</string>
@@ -528,7 +528,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="traffic_saving_ratio_low">Nu se poate reduce semnificativ utilizarea datelor</string>
     <string name="traffic_saving_recommanded_close">Dezactivaţi acest element</string>
     <string name="traffic_saving_recommanded_open">Activaţi acest element</string>
-    <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Se activează în mod automat economisirea datelor pentru a reduce utilizarea datelor mobile.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Dacă aveți un abonament de date lunar, nu uitaţi să dezactivaţi economisirea datelor pentru aplicații individuale pentru a evita taxe suplimentare de la operatorul dvs..&lt;/font&gt;"</string>
+    <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Se activează în mod automat economisirea datelor pentru a reduce utilizarea datelor mobile.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Dacă aveți un abonament de date lunar, nu uitaţi să dezactivaţi economisirea datelor pentru aplicații individuale pentru a evita taxe suplimentare de la operatorul dvs.&lt;/font&gt;"</string>
     <string name="traffic_saving_start_tip_title">Activaţi</string>
     <string name="daily_limit_and_lock_screen">Limita datelor și notificări</string>
     <string name="lock_screen_warning_category">Notificări blocare ecran</string>
@@ -552,5 +552,5 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="saving_conflict_dialog_cancel">Anulaţi</string>
     <string name="saving_conflict_dialog_ok">OK</string>
     <string name="saving_conflict_dialog_title">Atenţie</string>
-    <string name="saving_conflict_restrictbackground_msg">Nu se poate utiliza economisirea datelor atunci când datele de fundal este restricționat. Permiteți datele de fundal și activaţi economisirea datelor?</string>
+    <string name="saving_conflict_restrictbackground_msg">Nu se poate utiliza economisirea datelor atunci când datele de fundal sunt restricționate. Permiteți datele de fundal și activaţi economisirea datelor?</string>
 </resources>

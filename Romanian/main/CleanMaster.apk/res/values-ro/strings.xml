@@ -86,7 +86,7 @@
     <string name="hint_bar_select_image">%d selectate</string>
     <string name="hint_clean_select_similar_image">Ştergere…</string>
     <string name="hints_ad_header_left">Anunțuri</string>
-    <string name="hints_apk_header_left">Pachete de instalare</string>
+    <string name="hints_apk_header_left">Pachete</string>
     <string name="hints_apk_version">Versiune %s</string>
     <string name="hints_app_uninstall_residual">Curățați fișierele de dezinstalare reziduale?</string>
     <string name="hints_cache_header_left">Fişiere cache</string>

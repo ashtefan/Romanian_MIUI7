@@ -33,6 +33,9 @@
         <item>Fişier</item>
         <item>Excepţie</item>
     </string-array>
+    <string-array name="empty_floder_clean_menu">
+    <item>Curăţare</item>
+    </string-array>
     <string-array name="apk_clean_menu">
         <item>Curăţare</item>
         <item>Fişier</item>

@@ -25,7 +25,7 @@ Continuaţi trimiterea?"</string>
     <string name="bt_bipr_accept_no">Nu</string>
     <string name="bt_bip_receiving">Se primeşte imaginea, %1$s</string>
     <string name="bt_bip_receiving_successful">"Imagine %1$s primită.
-Doriţi să vizualizaţi imaginea?"</string>
+Doriţi să o vizualizaţi?"</string>
     <string name="bt_bip_receiving_fail">Primirea imaginii %1$s nu a reuşit</string>
     <string name="bt_bip_toast_connect_fail">Conexiunea nu a reuşit</string>
     <string name="bt_bip_toast_storage_unmounted">Verificaţi dacă este pregătit cardul SD</string>
@@ -35,13 +35,13 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bt_bip_auth_ok">OK</string>
     <string name="bt_bip_auth_cancel">Revocare</string>
     <string name="permission_label_bluetoothPrint">Acces imprimare Bluetooth</string>
-    <string name="permission_desp_bluetoothPrint">Permisiune de accesare a funcţiei imprimare Bluetooth.</string>
+    <string name="permission_desp_bluetoothPrint">Permisiune de accesare a funcţiei de imprimare Bluetooth.</string>
     <string name="app_name">Imprimare Bluetooth</string>
     <string name="printer_settings">Setări imprimantă</string>
     <string name="bt_print_entry_label">Bluetooth</string>
     <string name="dialog_title_bpp_not_ready">Serviciu indisponibil</string>
     <string name="dialog_bt_not_ready_confirm">Confirmare</string>
-    <string name="toast_bpp_enable_fail">Activarea serviciului imprimare nu a reuşit</string>
+    <string name="toast_bpp_enable_fail">Activarea serviciului de imprimare nu a reuşit</string>
     <string name="toast_connect_fail">Conexiunea nu a reuşit</string>
     <string name="toast_get_printer_attr_fail">Obţinerea capacităţilor imprimantei nu a reuşit</string>
     <string name="toast_get_printer_attr">Obţinere capacităţi imprimantă…</string>
@@ -53,17 +53,17 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="sides">Setări feţe hârtie</string>
     <string name="pages_per_sheet">Pagini pe foaie</string>
     <string name="orientation">Orientare</string>
-    <string name="quality">Setări calitate</string>
+    <string name="quality">Setări de calitate</string>
     <string name="bluetooth_printing">Imprimare %1$s</string>
     <string name="printing_successful">Fişierul %1$s imprimat</string>
-    <string name="printing_fail">Fişierul %1$s nu este imprimat</string>
+    <string name="printing_fail">Fişierul %1$s nu a fost imprimat</string>
     <string name="dialog_printing_hide">Ascundere</string>
     <string name="dialog_printing_cancel">Revocare</string>
     <string name="dialog_printing_ok">OK</string>
-    <string name="reason_attention_required">Se solicită atenţie</string>
+    <string name="reason_attention_required">Se solicită atenţia</string>
     <string name="reason_media_jam">Blocare suport</string>
     <string name="reason_paused">În pauză</string>
-    <string name="reason_door_open">Capac(e) deschis(e)</string>
+    <string name="reason_door_open">Capac deschis</string>
     <string name="reason_media_low">Nivel scăzut al suportului</string>
     <string name="reason_media_empty">Suportul s-a consumat</string>
     <string name="reason_output_area_almost_full">Zona de ieşire aproape plină</string>
@@ -72,7 +72,7 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="reason_marker_supply_empty">Rezerva de marker s-a consumat</string>
     <string name="reason_marker_failure">Defectare marker</string>
     <string name="reason_nondefine">nedefinit</string>
-    <string name="auth_passcode">Cod de trecere</string>
+    <string name="auth_passcode">Parolă</string>
     <string name="auth_ok">OK</string>
     <string name="auth_cancel">Revocare</string>
     <string name="bt_bpp_copies_title">Număr de copii</string>
@@ -101,14 +101,14 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bluetooth_ftp_server_off_sd_unmounted">Serverul FTP se închide. Lipsă card SD.</string>
     <string name="bluetooth_ftp_client_off_sd_unmounted">Clientul FTP se închide. Lipsă card SD.</string>
     <string name="bluetooth_ftp_both_off_sd_unmounted">Serverul şi clientul FTP se închid. Lipsă card SD.</string>
-    <string name="bluetooth_ftp_client_sd_not_ready">Înainte de activarea clientului FTP, verificaţi dacă este pregătită cartela SD.</string>
+    <string name="bluetooth_ftp_client_sd_not_ready">Înainte de activarea clientului FTP, verificaţi dacă este pregătit cardul SD.</string>
     <string name="bluetooth_ftp_client_connecting">Se conectează</string>
     <string name="bluetooth_ftp_client_processing">Se procesează</string>
     <string name="bluetooth_ftp_client_refreshing">Se reîmprospătează</string>
     <string name="bluetooth_ftp_client_cancelling">Se revocă</string>
     <string name="bluetooth_ftp_client_activated_notify_ticker">Client FTP activat.</string>
     <string name="bluetooth_ftp_client_activated_notify_title">%s este conectat prin FTP</string>
-    <string name="bluetooth_ftp_client_activated_notify_message">Clic pentru afişarea clientului FTP Bluetooth</string>
+    <string name="bluetooth_ftp_client_activated_notify_message">Click pentru afişarea clientului FTP Bluetooth</string>
     <string name="bluetooth_ftp_client_connection_failed">Conexiunea nu a reuşit</string>
     <string name="bluetooth_ftp_client_disconnected">Conexiune FTP pierdută</string>
     <string name="bluetooth_ftp_client_transferring">Se transferă...</string>
@@ -116,7 +116,7 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bluetooth_ftp_client_getting">Obţinere fişier: %s</string>
     <string name="bluetooth_ftp_client_transfer_finished">Transfer terminat</string>
     <string name="bluetooth_ftp_client_transfer_unfinished">Transfer neterminat</string>
-    <string name="bluetooth_ftp_client_browse_failed">Răsfoirea fişierului (fişierelor) nu a reuşit</string>
+    <string name="bluetooth_ftp_client_browse_failed">Răsfoirea fişierelor nu a reuşit</string>
     <string name="bluetooth_ftp_client_set_path_failed_title">Modificarea căii nu a reuşit</string>
     <string name="bluetooth_ftp_client_set_path_failed_message">Modificarea căii către %s nu a reuşit</string>
     <string name="bluetooth_ftp_client_root_folder">Folder rădăcină</string>
@@ -154,7 +154,7 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bluetooth_ftp_no">Nu</string>
     <string name="bluetooth_ftp_ok">OK</string>
     <string name="bluetooth_ftp_cancel">Revocare</string>
-    <string name="bluetooth_ftp_date">data</string>
+    <string name="bluetooth_ftp_date">dată</string>
     <string name="bluetooth_ftp_size">dimensiune</string>
     <string name="bluetooth_ftp_service_busy">Serviciul FTP este ocupat</string>
     <string name="bluetooth_device_context_transfer_files">Transfer fişiere</string>
@@ -166,8 +166,8 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bluetooth_ftp_server_permission_title">Permisiune</string>
     <string name="bluetooth_ftp_server_permission_summary_readonly">Doar în citire</string>
     <string name="bluetooth_ftp_server_permission_summary_fullctrl">Control total</string>
-    <string name="bluetooth_ftp_server_sd_dialog_title">Cartela SD nu este pregătită</string>
-    <string name="bluetooth_ftp_server_sd_dialog_msg">Verificaţi dacă este pregătită cartela SD înainte de activarea serverului FTP.</string>
+    <string name="bluetooth_ftp_server_sd_dialog_title">Cardul SD nu este pregătit</string>
+    <string name="bluetooth_ftp_server_sd_dialog_msg">Verificaţi dacă este pregătit cardul SD înainte de activarea serverului FTP.</string>
     <string name="bluetooth_ftp_server_sd_dialog_ok">OK</string>
     <string name="bluetooth_hid_lable">Dispozitiv de intrare wireless</string>
     <string name="bluetooth_hid_connect">Conectare</string>
@@ -231,7 +231,7 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bt_opp_notification_out_ongoing_ticker">Imagine expediată</string>
     <string name="bt_opp_notification_out_ongoing_message">Se trimite: %1$s (%2$s)</string>
     <string name="bt_opp_cancel_task_title">Transfer fişiere</string>
-    <string name="bt_opp_cancel_task_message">Revocaţi transferul?</string>
+    <string name="bt_opp_cancel_task_message">Anulaţi transferul?</string>
     <string name="bt_opp_cancel_task_yes">Da</string>
     <string name="bt_opp_cancel_task_no">Nu</string>
     <string name="bt_opp_canceling_task_message">Se revocă transferul. Aşteptaţi…</string>
@@ -292,11 +292,11 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bt_prxm_device_mgmt_title">Monitor proximitate Bluetooth</string>
     <string name="bt_prxm_device_mgmt_add_device">Adăugare dispozitiv</string>
     <string name="bt_prxm_device_mgmt_remove_device">Eliminare dispozitiv</string>
-    <string name="bt_prxm_device_mgmt_device_list">Dispozitive din proximitate</string>
+    <string name="bt_prxm_device_mgmt_device_list">Dispozitive din apropiere</string>
     <string name="bt_prxm_device_pref_device_setting">Pierdere legătură: %1$s / Pierdere cale: %2$s</string>
     <string name="bt_prxm_devs_title">Setări de proximitate</string>
     <string name="bt_prxm_devs_connect_title">Conectare</string>
-    <string name="bt_prxm_devs_connect_summary">Conectare la dispozitiv din proximitate</string>
+    <string name="bt_prxm_devs_connect_summary">Conectare la dispozitiv din apropiere</string>
     <string name="bt_prxm_devs_connect_failed">Conectarea nu a reuşit</string>
     <string name="bt_prxm_devs_disconnect_failed">Deconectarea nu a reuşit</string>
     <string name="bt_prxm_devs_link_loss_group_title">Pierdere legătură</string>
@@ -307,7 +307,7 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bt_prxm_devs_path_loss_level_title">Nivel alertă pierdere cale</string>
     <string name="bt_prxm_devs_path_loss_level_summary">Setarea nivelului de alertă</string>
     <string name="bt_prxm_devs_path_loss_threshold_title">Prag de pierdere a legăturii</string>
-    <string name="bt_prxm_devs_path_loss_threshold_summary">Setarea pragului de intensitate a semnalului</string>
+    <string name="bt_prxm_devs_path_loss_threshold_summary">Setarea pragului minim de intensitate a semnalului</string>
     <string name="bt_prxm_plt_current_rssi">Intensitate semnal curentă</string>
     <string name="bt_prxm_plt_using_current_rssi">Utilizare intensitate semnal curentă ca prag de pierdere a semnalului</string>
     <string name="bt_prxm_plt_path_loss_threshold_title">Prag de pierdere a legăturii</string>
@@ -327,11 +327,11 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="simap_acceptance_dialog_title">%1$s doreşte să acceseze cartela dv. SIM. Acordaţi accesul %2$s?</string>
     <string name="simap_acceptance_timeout_message">Timp rămas pentru acceptarea conexiunii cu %1$s</string>
     <string name="simap_disconnected_message">Deconectat de la %1$s.</string>
-    <string name="simap_defaultname">Kit auto</string>
+    <string name="simap_defaultname">Carkit</string>
     <string name="simap_request_notif_message">Acceptaţi solicitarea SIM la distanţă din partea %1$s</string>
     <string name="simap_incoming_conn_confirm_cancel">Refuz</string>
     <string name="simap_incoming_conn_confirm_ok">Acceptare</string>
-    <string name="simap_connected_notify_ticker">SIM la distanţă este conectată</string>
+    <string name="simap_connected_notify_ticker">SIM la distanţă conectat</string>
     <string name="simap_connected_notify_title">%1$s este conectat la cartela dvs. SIM</string>
     <string name="simap_connected_notify_message">Selectaţi pentru deconectare</string>
     <string name="simap_disconnect_title">Deconectare SIM la distanţă</string>
@@ -362,7 +362,7 @@ Doriţi să vizualizaţi imaginea?"</string>
     <string name="bt_share_mgmt_tab_dialog_message_sent">Fişierul %1$s trimis la %2$s.</string>
     <string name="bt_share_mgmt_notification_ticker">Istoric partajare Bluetooth</string>
     <string name="bt_share_mgmt_notification_title">Istoric partajare Bluetooth</string>
-    <string name="bt_share_mgmt_notification_message">Selectaţi pentru vizualizare istoric partajare Bluetooth.</string>
+    <string name="bt_share_mgmt_notification_message">Selectaţi pentru vizualizarea istoricului de partajare Bluetooth.</string>
     <string name="bt_share_openfile_title">Deschidere fişier</string>
     <string name="bt_share_openfile_message_invalid_param">Fişier nevalid: %1$s (%2$s)</string>
     <string name="bt_share_openfile_message_unsupported_type">Tip de fişier neacceptat: %1$s</string>

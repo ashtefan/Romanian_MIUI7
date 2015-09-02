@@ -17,7 +17,7 @@
     <string name="button_new_note">Notă nouă</string>
     <string name="call_record_folder_name">Note apel</string>
     <string name="default_folder_name">Dosar fără nume</string>
-    <string name="dlg_desc_confirm_alarm_silent">Alarmele active nu vor suna atunci când modul silenţios este activat</string>
+    <string name="dlg_desc_confirm_alarm_silent">Alarmele active nu vor suna atunci când modul Silenţios este activat</string>
     <string name="dlg_title_confirm_alarm_silent">Alarmă silenţioasă</string>
     <string name="enable_sync">Sincronizaţi</string>
     <string name="enable_sync_desc">Sincronizaţi notele cu contul dvs. Mi (%1$s)?</string>
@@ -25,7 +25,7 @@
     <string name="error_note_empty_for_clock">Nu se poate seta timpul de memento pentru o notă goală</string>
     <string name="error_note_empty_for_send_to_desktop">Notele goale nu pot fi plasate pe desktop</string>
     <string name="error_note_not_exist">Nota nu există</string>
-    <string name="error_unsupport_content">Această notă include conținut neacceptat, apăsați aici pentru a actualiza aplicația dorită</string>
+    <string name="error_unsupport_content">Această notă include conținut neacceptat; apăsați aici pentru a actualiza aplicația dorită</string>
     <string name="error_widget_exist_for_send_to_desktop">Această notă există deja pe desktop</string>
     <string name="folder_exist">Un dosar cu acelaşi număr există deja</string>
     <string name="format_move_notes_out_folder">%1$s mutat</string>

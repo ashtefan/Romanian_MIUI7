@@ -101,7 +101,7 @@
         <item>citește jurnalul de apeluri</item>
         <item>modifică jurnalul de apeluri</item>
         <item>citește calendarul</item>
-        <item>modifică calendarul</item>
+        <item>editează calendarul</item>
         <item>scanează Wi-Fi</item>
         <item>notificare</item>
         <item>scanează semnal mobil</item>
@@ -134,7 +134,7 @@
         <item>volumul Bluetooth</item>
         <item>mențineți activ</item>
         <item>monitorizarea locației</item>
-        <item>monitorizarea localizării cu consum ridicat de energie</item>
+        <item>monitorizarea localizării cu un consum ridicat de energie</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Limita standard</item>
@@ -146,7 +146,7 @@
      </string-array>
      <string-array name="battery_indicator_style_entries">
         <item>Grafic</item>
-        <item>Procentaj</item>
+        <item>Procent</item>
         <item>Bară sus</item>
      </string-array>
      <string-array name="bearer_entries">
@@ -166,7 +166,7 @@
         <item>5 secunde</item>
         <item>10 secunde</item>
         <item>20 de secunde</item>
-        <item>Mereu activat</item>
+        <item>Activat mereu</item>
      </string-array>
      <string-array name="captioning_edge_type_selector_titles">
         <item>Niciunul</item>
@@ -232,16 +232,16 @@
         <item>Nativ</item>
      </string-array>
      <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
+        <item>Standard</item>
+        <item>Mic</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+        <item>Maxim</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inchi</item>
-        <item>4.0 inchi</item>
-        <item>3.5 inchi</item>
+        <item>4,5 inchi</item>
+        <item>4,0 inchi</item>
+        <item>3,5 inchi</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Puternică</item>
@@ -400,9 +400,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Afişare meniu</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
-        <item>0.5 secunde</item>
+        <item>0,5 secunde</item>
         <item>1 secundă</item>
-        <item>1.5 secunde</item>
+        <item>1,5 secunde</item>
         <item>2 secunde</item>
      </string-array>
      <string-array name="screen_key_press_action">
@@ -603,8 +603,8 @@ Note: Only for Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="wifi_p2p_status">
         <item>Conectat</item>
-        <item>Invitat(ă)</item>
-        <item>Nereuşită</item>
+        <item>Invitat</item>
+        <item>Nereuşit</item>
         <item>Disponibil</item>
         <item>Fără acoperire</item>
      </string-array>
@@ -614,7 +614,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>PIN de la ac. disp.</item>
      </string-array>
      <string-array name="wifi_peap_phase2_entries">
-        <item>None</item>
+        <item>Niciunul</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
      </string-array>
@@ -638,7 +638,7 @@ Note: Only for Ubuntu 8.04!"</item>
      <string-array name="wifi_sleep_policy_entries">
         <item>Întotdeauna</item>
         <item>Doar atunci când este conectat</item>
-        <item>Niciodată (se utilizează mai multe date mobile)</item>
+        <item>Niciodată (creşte traficul de date mobile)</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Întotdeauna</item>

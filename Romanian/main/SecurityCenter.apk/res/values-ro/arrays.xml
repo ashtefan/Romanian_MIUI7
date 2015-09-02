@@ -40,7 +40,7 @@
      </string-array>
      <string-array name="power_dialog_vibration_items">
         <item>Fără vibrare</item>
-        <item>Vibrare în modul silenţios</item>
+        <item>Vibrare în modul Silenţios</item>
         <item>Vibrare întotdeauna</item>
      </string-array>
      <string-array name="power_dialog_wifi_internet_state_items">

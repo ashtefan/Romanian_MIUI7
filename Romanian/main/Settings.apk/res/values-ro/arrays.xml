@@ -232,11 +232,11 @@
         <item>Nativ</item>
      </string-array>
      <string-array name="entries_font_size">
-        <item>Standard</item>
-        <item>Mic</item>
-        <item>Mare</item>
-        <item>Foarte mare</item>
-        <item>Maxim</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4,5 inchi</item>

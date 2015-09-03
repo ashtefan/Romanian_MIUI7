@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Statistici</string>
     <string name="main_title">Utilizare date anonim</string>
-    <string name="main_desc">Transmiterea datelor de utilizare anonim permite dezvoltatorilor să urmărească instalațiile unice pe toate dispozitivele. Informațiile prezentate includ un identificator unic, care să nu compromită informațiile dvs. de confidențialitate, tipul de dispozitiv și versiunea. Datele sunt prezentate la fiecare pornire a dispozitivului. Pentru un exemplu de date care sunt trimise apăsaţi pe vizualizarea de mai jos.</string>
+    <string name="main_desc">Transmiterea datelor de utilizare anonim permite dezvoltatorilor să urmărească instalările individuale de pe toate dispozitivele. Informațiile prezentate includ un identificator unic, care să nu compromită informațiile dvs. de confidențialitate, tipul de dispozitiv și versiunea. Datele sunt prezentate la fiecare pornire a dispozitivului. Pentru un exemplu de date care sunt trimise apăsaţi mai jos.</string>
     <string name="main_optin">Activaţi raportarea</string>
     <string name="main_btn_preview">Previzualizare</string>
     <string name="main_btn_save">OK</string>

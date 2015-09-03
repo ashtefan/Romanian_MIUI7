@@ -66,7 +66,7 @@
     <string name="view_indexes_title_feel">Se simte ca la (°C)</string>
     <string name="view_indexes_title_humidity">Umiditate (%)</string>
     <string name="view_indexes_title_pressure">Presiune (hPa)</string>
-    <string name="view_indexes_title_uv">Indice UV</string>
+    <string name="view_indexes_title_uv">Indicele UV</string>
     <string name="view_indexes_title_visibility">Vizibilitate (km)</string>
     <string name="view_indexes_title_wind">Vânt</string>
     <string name="view_indexes_wind_unit">km/h</string>
@@ -84,7 +84,7 @@
     <string name="share_weather_desc">\#Meteo MIUI#Astăzi %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">Nu a putut fi captat ecranul</string>
+    <string name="share_weather_save_pic_fail">Nu s-a putut capta ecranul</string>
     <string name="activity_main_refresh_fail">Nu se poate conecta la reţea</string>
     <string name="button_confirm">Permiteţi</string>
     <string name="button_exit">Ieşire</string>

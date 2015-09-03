@@ -3,7 +3,7 @@
     <string name="active_phone_fail_nochoice">Nu se poate verifica cartela SIM</string>
     <string name="active_phone_fail_toast">Nu se poate verifica cartela SIM %1$s</string>
     <string name="active_phone_sim_absent">Introduceţi cartela SIM acum</string>
-    <string name="active_phone_success_nochoice">Cartelă SIM a fost verificată</string>
+    <string name="active_phone_success_nochoice">Cartela SIM a fost verificată</string>
     <string name="active_phone_success_toast">Cartela SIM %1$s a fost verificată</string>
     <string name="activing_simcard">Verificare SIM %1$d</string>
     <string name="activing_simcard_alone">Verificare SIM…</string>
@@ -66,8 +66,8 @@
     <string name="auto_answer_scenario_enteries_bluetooth_only">Doar Bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_bluetooth">Căşti sau Bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_only">Doar căşti</string>
-    <string name="auto_answer_scenario_title">Setările răspunsului automat</string>
-    <string name="auto_answer_setting_title">Setările răspunsului automat</string>
+    <string name="auto_answer_scenario_title">Setările pentru răspuns automat</string>
+    <string name="auto_answer_setting_title">Setările pentru răspuns automat</string>
     <string name="auto_answer_summary_delay">" (întârziere: %s secunde)"</string>
     <string name="auto_answer_summary_not_enabled">Dezactivat</string>
     <string name="auto_record_yellowpage">Registru</string>
@@ -99,13 +99,13 @@
     <string name="bad_pin2">Codul PIN2 vechi pe care l-aţi introdus este incorect.</string>
     <string name="bf_news_settings">Știri financiare şi despre afaceri</string>
     <string name="buttonTxtContinue">Continuaţi</string>
-    <string name="callDurationFormat">%1$s minute %2$s secunde</string>
+    <string name="callDurationFormat">%1$s minute şi %2$s secunde</string>
     <string name="callFailed_cdma_notEmergency">Sunt posibile doar apeluri de urgenţă.</string>
     <string name="callFailed_dsac_vt_bear_not_authorized">Apelul video nu se poate configura. Serviciul de telefonie video nu este activat pentru această cartelă SIM. Apelaţi vocal?</string>
-    <string name="callFailed_dsac_vt_bearer_not_avail">Imposibil de configurat apelul video. Apelaţi cu apel vocal?</string>
-    <string name="callFailed_dsac_vt_incompatible_destination">Imposibil de configurat apelul video. Telefonia video nu este acceptată pe telefonul apelat, apelaţi cu apel vocal?</string>
-    <string name="callFailed_dsac_vt_out_of_3G_yourphone">Telefonul dvs. este în afara zonei de serviciu 3G, apelaţi cu apel vocal?</string>
-    <string name="callFailed_dsac_vt_resource_unavailable">Imposibil de configurat apelul video. Telefonul apelat este în afara zonei de serviciu 3G, apelaţi cu apel vocal?</string>
+    <string name="callFailed_dsac_vt_bearer_not_avail">Imposibil de configurat apelul video. Apelaţi vocal?</string>
+    <string name="callFailed_dsac_vt_incompatible_destination">Imposibil de configurat apelul video. Telefonia video nu este acceptată pe telefonul apelat, apelaţi vocal?</string>
+    <string name="callFailed_dsac_vt_out_of_3G_yourphone">Telefonul dvs. este în afara zonei de serviciu 3G, apelaţi vocal?</string>
+    <string name="callFailed_dsac_vt_resource_unavailable">Imposibil de configurat apelul video. Telefonul apelat este în afara zonei de serviciu 3G, apelaţi vocal?</string>
     <string name="callFailed_simError">Nu există SIM sau eroare de SIM</string>
     <string name="callFailed_simError_cdma">Nu este introdusă nicio cartelă UIM/SIM sau există o eroare la cartela UIM/SIM</string>
     <string name="callFailed_simError_slotNumber">Cartela SIM lipseşte sau a apărut o eroare la cartela SIM introdusă %s</string>
@@ -116,7 +116,7 @@
     <string name="call_forwarding_settings">Setările pentru redirecţionarea apelurilor</string>
     <string name="call_record_add_numbers">Adăugaţi numere</string>
     <string name="call_record_auto_always">Toate numerele</string>
-    <string name="call_record_auto_scenario_title">Înregistrare apeluri de de la</string>
+    <string name="call_record_auto_scenario_title">Înregistrare apeluri de la</string>
     <string name="call_record_auto_summary">Înregistrările vor fi salvate în dosarul MIUI/sound_recorder/call_rec din memoria internă a telefonului</string>
     <string name="call_record_auto_title">Înregistrare apeluri în mod automat</string>
     <string name="call_record_auto_unknown_number">Numere necunoscute</string>
@@ -154,8 +154,8 @@
     <string name="callwait_open_hint">\"Apel în așteptare\" este un serviciu oferit de operator. În cazul în care primiți o notificare de eroare, contactați operatorul local pentru a activa serviciul Apel în așteptare.</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_call">Anulaţi</string>
-    <string name="cannot_answered_Video_Call">Apelul video nu poate fi preluat deoarece există deja un apel vocal</string>
-    <string name="cannot_answered_Voice_Call">Apelul vocal nu poate fi preluat deoarece există deja un apel video</string>
+    <string name="cannot_answered_Video_Call">Apelul video nu poate fi preluat deoarece există deja un apel vocal activ</string>
+    <string name="cannot_answered_Voice_Call">Apelul vocal nu poate fi preluat deoarece există deja un apel video activ</string>
     <string name="card_title_call_ended">Apel încheiat</string>
     <string name="card_title_conf_call">Teleconferinţă</string>
     <string name="card_title_dialing">Se apelează</string>
@@ -319,7 +319,7 @@
     <string name="dualtalk_tip_accept_disconnect_incoming">Acceptarea acestui apel va respinge celălalt apel primit.</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing">Acceptarea acestui apel va încheia apelul efectuat.</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Acceptarea acestui apel va încheia apelul efectuat și va respinge celălalt apel primit.</string>
-    <string name="dualtalk_tip_accept_disconnect_voice">Acceptarea acestui apel va încheia apelul(apelurile) vocal(e).</string>
+    <string name="dualtalk_tip_accept_disconnect_voice">Acceptarea acestui apel va încheia apelurile vocale.</string>
     <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="editContact">Editaţi</string>
     <string name="edit_fdn_contact">Modificaţi numărul cu apelări restricţionate</string>
@@ -335,7 +335,7 @@
     <string name="empty_networks_list">Nicio reţea găsită.</string>
     <string name="enable">Activaţi</string>
     <string name="enable_3G_service">Activare 3G</string>
-    <string name="enable_antispam_strange_summary">Dezactivaţi primul sunet pentru numerele necunoscute</string>
+    <string name="enable_antispam_strange_summary">Dezactivaţi primul sunet de apel pentru numerele necunoscute</string>
     <string name="enable_antispam_strange_title">Prima sonerie dezactivată</string>
     <string name="enable_disable_administrative">Administrativ</string>
     <string name="enable_disable_advertisements">Publicitate</string>
@@ -367,12 +367,12 @@
     <string name="enable_sim_pin">Activaţi codul PIN al cartelei SIM</string>
     <string name="ensure_info">Da</string>
     <string name="enable_sip_dialog_message">Apelarea prin Internet este dezactivată, doriţi să o activaţi?</string>
-    <string name="end_call_because_can_not_hold">Se încheie apelul curent, deoarece nu poate fi pus în aşteptare.</string>
+    <string name="end_call_because_can_not_hold">Se încheie apelul curent deoarece nu poate fi pus în aşteptare.</string>
     <string name="enterName">Nume:</string>
     <string name="enterNumber">Număr de telefon:</string>
     <string name="enter_callbarring_password">Introducere parolă de barare apeluri (4 cifre)</string>
     <string name="enter_input" formatted="false">Mesajul USSD trebuie să aibă între %d și %d caractere. Încercați din nou.</string>
-    <string name="enter_ip_prefix_number">Introducere număr prefix</string>
+    <string name="enter_ip_prefix_number">Introducere prefix</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">Codul PIN pentru cartela SIM:</string>
     <string name="entertainment_news_settings">Știri de divertisment</string>
@@ -400,7 +400,7 @@
     <string name="ext_media_badremoval_notification_title">Card SD scos în mod neaşteptat</string>
     <string name="fake_phone_activity_infoText_text">Număr de telefon primit</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-    <string name="fake_phone_activity_placeCall_text">Apel primit fals</string>
+    <string name="fake_phone_activity_placeCall_text">Apel fals primit</string>
     <string name="fdn">Numere cu apelări restricţionate</string>
     <string name="fdnListLabel">Listă FDN</string>
     <string name="fdn_activation">Activare FDN</string>
@@ -420,7 +420,7 @@
     <string name="fdn_errorcode_storage_info">Nereuşită, spaţiul de stocare este plin.</string>
     <string name="fdn_errorcode_unknown_info">Nereuşită, s-a produs o eroare necunoscută, încercaţi mai târziu.</string>
     <string name="fdn_failed">Operațiunea FDN nu a reușit.</string>
-    <string name="fdn_invalid_number">FDN nu a fost actualizat, deoarece numărul nu poate depăşi 20 de cifre.</string>
+    <string name="fdn_invalid_number">FDN nu a fost actualizat deoarece numărul nu poate depăşi 20 de cifre.</string>
     <string name="fdn_only_error">Operaţiile sunt permise numai cu numerele pentru apelări restricţionate.</string>
     <string name="fdn_phone_book_busy">Agenda este ocupată acum, încercați mai târziu.</string>
     <string name="fdn_summary">Restricționarea apelurilor efectuate la FDN enumerate sau la numerele cu anumite prefixe</string>
@@ -430,7 +430,7 @@
 Contactaţi operatorul dvs. în cazul în care această problemă persistă."</string>
     <string name="fw_get_in_vm_failed">"Nu s-au putut prelua şi salva setările actuale ale numărului de redirecţionare.
 Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
-    <string name="gemini_3g_disable_warning_case0">Trebuie să activați roaming de date pentru acest SIM, ceea ce poate atrage costuri importante de roaming! Sunteți sigur că activați roaming de date și că selectați acest SIM?</string>
+    <string name="gemini_3g_disable_warning_case0">Trebuie să activați roamingul de date pentru acest SIM, ceea ce poate atrage costuri importante de roaming! Sunteți sigur că activați roamingul de date și că selectați acest SIM?</string>
     <string name="gemini_3g_disable_warning_case1">Serviciul 3G nu este disponibil cu SIM-ul selectat. Datele se vor încărca mai greu. Puteți schimba setările serviciului 3G în Setări > Wireless &amp; rețele > Rețele mobile.</string>
     <string name="gemini_3g_disable_warning_case2">Trebuie să activaţi mai întâi roamingul de date pentru această cartelă SIM, ceea ce poate atrage costuri de roaming semnificative! În plus, serviciul 3G nu este disponibil cu această cartelă SIM. Aceasta poate încărca datele mai lent. O puteţi modifica în Setări > Wireless şi reţele > Reţele mobile. Sigur activaţi roamingul de date şi selectaţi această cartelă SIM?</string>
     <string name="gemini_3g_indic">3G</string>
@@ -438,7 +438,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="general_news_settings">Știri generale</string>
     <string name="general_setting">Setări</string>
     <string name="get_pin2">Introduceţi codul PIN2</string>
-    <string name="get_product_list_failed">Nu se paote încărca lista</string>
+    <string name="get_product_list_failed">Nu se poate încărca lista</string>
     <string name="get_purchase_history_failed">Nu s-a putut obține istoricul de cumpărare</string>
     <string name="get_smsc_address_error">Imposibil de conectat la rețea.</string>
     <string name="get_smsc_address_timeout">Conexiune expirată</string>
@@ -465,7 +465,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="incall_error_out_of_service">Reţeaua mobilă nu este disponibilă.</string>
     <string name="incall_error_power_off">Pentru a efectua un apel, dezactivaţi mai întâi modul Avion.</string>
     <string name="incall_error_supp_service_conference">Teleconferinţa nu se poate efectua.</string>
-    <string name="incall_error_supp_service_hangup">Apelul (apelurile) nu poate (pot) fi eliberat (eliberate).</string>
+    <string name="incall_error_supp_service_hangup">Apelurile nu pot fi eliberate.</string>
     <string name="incall_error_supp_service_reject">Apelul nu poate fi respins.</string>
     <string name="incall_error_supp_service_separate">Apelul nu poate fi separat.</string>
     <string name="incall_error_supp_service_switch">Apelurile nu pot fi comutate.</string>
@@ -481,7 +481,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="international_dialing_area_code">cod regiune</string>
     <string name="international_dialing_call_button">Apelaţi</string>
     <string name="international_dialing_change_country_prefix">"S-a detectat faptul că efectuaţi acest apel din %s. Schimbaţi prefixul internaţional la '+'?"</string>
-    <string name="international_dialing_click_below_button">Faceţi clic pe butonul de mai jos pentru a schimba codul de ţară.</string>
+    <string name="international_dialing_click_below_button">Faceţi click pe butonul de mai jos pentru a schimba codul de ţară.</string>
     <string name="international_dialing_confirm_area_code">Dacă oraşul de destinaţie nu este %s, introduceţi mai jos codul de regiune al oraşului de destinaţie.</string>
     <string name="international_dialing_dialed_number">Număr de apelat:</string>
     <string name="international_dialing_input_area_code">Introduceţi aici codul de regiune</string>
@@ -499,11 +499,11 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="invalidPin">Introduceţi un cod PIN alcătuit din 4 până la 8 cifre.</string>
     <string name="invalidPin2">Introduceţi un cod PIN2 format din 4-8 cifre.</string>
     <string name="invalidPuk2">Introduceţi un cod PUK2 format din 8 cifre.</string>
-    <string name="invalid_password">Tastaţi o parolă care are 4 cifre.</string>
-    <string name="ip_dial_error_toast_for_no_ip_prefix_number">Introduceţi mai întâi numărul de prefix IP în setările de apel vocal.</string>
+    <string name="invalid_password">Tastaţi o parolă din 4 cifre.</string>
+    <string name="ip_dial_error_toast_for_no_ip_prefix_number">Introduceţi mai întâi prefixul IP în setările de apel vocal.</string>
     <string name="ip_dial_error_toast_for_sip_call_selected">Funcţia de apelare IP nu se aplică la apelul prin internet.</string>
-    <string name="ip_prefix_edit_default_sum">Introduceţi numărul de prefix pentru apelarea IP</string>
-    <string name="ip_prefix_setting">Număr prefix IP</string>
+    <string name="ip_prefix_edit_default_sum">Introduceţi prefixul pentru apelarea IP</string>
+    <string name="ip_prefix_setting">Prefix IP</string>
     <string name="ip_prefix_setting_sum">Setările prefixului IP</string>
     <string name="labelCDMAMore">Setările apelului CDMA</string>
     <string name="labelCF">Redirecţionarea apelurilor</string>
@@ -517,7 +517,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="labelGSMMore">Setările apelului GSM</string>
     <string name="labelNwService">Setările serviciului de reţea</string>
     <string name="label_available">Reţele disponibile</string>
-    <string name="label_ndp">Codul PIN de deblocare a reţelei SIM</string>
+    <string name="label_ndp">Codul PIN de deblocare a cartelei SIM</string>
     <string name="label_puk2_code">Introduceţi codul PUK2</string>
     <string name="lable_all_incoming">Toate apelurile primite</string>
     <string name="lable_all_out_except">Apeluri internaţionale efectuate exceptând cele către reţeaua PLMN de domiciliu</string>
@@ -582,7 +582,7 @@ la apel condiţionat"</string>
     <string name="mo_code_unconditional_cf_active">"Redirecţionare apel
 necondiţionat activată"</string>
     <string name="mobile_networks">Setările reţelei mobile</string>
-    <string name="modem_switching">Comutarea cartelei SIM va dura circa 10 secunde pentru finalizare. Aşteptaţi…</string>
+    <string name="modem_switching">Comutarea cartelei SIM va dura circa 10 secunde. Aşteptaţi…</string>
     <string name="msim_apn_not_set">Nesetat</string>
     <string name="msim_default_setting">Setări prestabilite</string>
     <string name="msim_enable_sim">Activaţi</string>
@@ -642,7 +642,7 @@ necondiţionat activată"</string>
     <string name="network_lte">LTE (recomandat)</string>
     <string name="network_message">Mesaj de reţea</string>
     <string name="network_query_error">Eroare la căutarea reţelelor.</string>
-    <string name="network_setting_all_forbidden_dialog">Nicio rețea disponibilă. Încercați trecerea la serviciul 3G, sau faceți clic pe o rețea interzisă pentru a vă înregistra manual.</string>
+    <string name="network_setting_all_forbidden_dialog">Nicio rețea disponibilă. Încercați trecerea la serviciul 3G, sau faceți click pe o rețea interzisă pentru a vă înregistra manual.</string>
     <string name="network_settings_auto_select_title">Conexiune reţea</string>
     <string name="network_settings_automatically_option">Se alege automat rețeaua preferată (%s)</string>
     <string name="network_settings_turn_off">oprit</string>
@@ -672,11 +672,11 @@ Se va utiliza rețeaua preferată."</string>
     <string name="no_search_result">Niciun rezultat al căutării</string>
     <string name="no_service_msg">"În prezent, nu există niciun serviciu de la operatorul selectat.
 Vă recomandăm să utilizaţi „Selectare automată”, dar puteţi şi să selectaţi manual alt operator."</string>
-    <string name="no_service_msg_gemini">"În prezent,nu există niciun serviciu de la operatorul selectat pentru cartela SIM \" %s\".
+    <string name="no_service_msg_gemini">"În prezent nu există niciun serviciu de la operatorul selectat pentru cartela SIM \" %s\".
 Vă recomandăm să utilizaţi „Selectare automată”, dar puteţi şi să selectaţi manual alt operator."</string>
     <string name="no_service_msg_title">Niciun serviciu</string>
     <string name="no_service_msg_title_gemini">Niciun serviciu pentru \" %s\"</string>
-    <string name="no_sim_card_inserted">Introduceţi cartela SIM pentru a lansa aplicaţia SIM Toolkit.</string>
+    <string name="no_sim_card_inserted">Introduceţi cartela SIM pentru a lansa aplicaţia Instrumente SIM.</string>
     <string name="no_sip_account_found">Nu există conturi de apelare prin internet pe acest telefon. Doriţi să adăugaţi unul acum?</string>
     <string name="no_sip_account_found_title">Nu există un cont pentru apelare prin internet</string>
     <string name="no_vm_number">Lipseşte numărul mesageriei vocale</string>
@@ -721,7 +721,7 @@ Vă recomandăm să utilizaţi „Selectare automată”, dar puteţi şi să se
     <string name="onscreenHangupHolding">Suspendare apel în aşteptare</string>
     <string name="onscreenHoldText">Reţineţi</string>
     <string name="onscreenManageCallsText">Gestionaţi apelurile</string>
-    <string name="onscreenManageConferenceText">Gestion. conferinţa</string>
+    <string name="onscreenManageConferenceText">Gestionaţi conferinţa</string>
     <string name="onscreenMergeCallsText">Îmbinaţi apelurile</string>
     <string name="onscreenMuteText">Dezactivaţi sunetul</string>
     <string name="onscreenShowDialpadText">Tastatură numerică</string>
@@ -925,7 +925,7 @@ Cartela SIM va fi ştearsă după o altă încercare greşită."</string>
     <string name="roaming">Roaming de date</string>
     <string name="roaming_disable">Conectaţi-vă la serviciile de date în roaming</string>
     <string name="roaming_enable">Conectaţi-vă la serviciile de date în roaming</string>
-    <string name="roaming_reenable_message">Aţi pierdut conectivitatea la date, deoarece aţi părăsit reţeaua de domiciliu neavând activat roamingul de date.</string>
+    <string name="roaming_reenable_message">Aţi pierdut conectivitatea la date deoarece aţi părăsit reţeaua de domiciliu neavând activat roamingul de date.</string>
     <string name="roaming_warning">Permiteţi roamingul de date? Puteţi acumula taxe considerabile pentru roaming!</string>
     <string name="save">Salvaţi</string>
     <string name="saving_account">Se salvează contul…</string>
@@ -1081,7 +1081,7 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="tty_mode_option_title">Mod TTY</string>
     <string name="turn_on_3g_service_message">Serviciul 3G este dezactivat acum, doriţi să îl activaţi?</string>
     <string name="turnover_mute_summary">Dacă telefonul este în poziţie orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria</string>
-    <string name="turnover_mute_title">Întoarcere pt. a dezactiva soneria</string>
+    <string name="turnover_mute_title">Întoarcere pentru a dezactiva soneria</string>
     <string name="umts_preferred_network_mode_dialogtitle">Mod reţea</string>
     <string name="unblock_pin2">Deblocare PIN2</string>
     <string name="undefined">Nimic</string>
@@ -1133,7 +1133,7 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="vt_auto_dropback">Revenire automată</string>
     <string name="vt_auto_dropback_des">Reveniţi automat la conectarea apelului vocal</string>
     <string name="vt_call_settings">Setările apelului video</string>
-    <string name="vt_cannot_support_setting">Camera curentă nu acceptă această setare</string>
+    <string name="vt_cannot_support_setting">Camera dispozitivului nu acceptă această setare</string>
     <string name="vt_cb_call_description">Setările restricţionării apelului video</string>
     <string name="vt_cf_call_description">Setările redirecţionării apelului video</string>
     <string name="vt_change_my_pic">Modificare</string>
@@ -1270,16 +1270,16 @@ indisponibil"</string>
     <string name="livetalk_network_confirm">OK</string>
     <string name="livetalk_network_confirm_summary">Pachetele de suplinire utilizează aproximativ 1 KO de date mobile de fiecare dată când un apel este conectat.</string>
     <string name="livetalk_next_step">Înainte</string>
-    <string name="livetalk_niece_price_arrow">Această funcţie este disponibilă în 13 de țări și regiuni</string>
+    <string name="livetalk_niece_price_arrow">Această funcţie este disponibilă în 13 țări și regiuni</string>
     <string name="livetalk_niece_price_summary">Consultați tarifele internaționale pentru mai multe informaţii</string>
     <string name="livetalk_niece_price_title">Această caracteristică nu este disponibilă încă</string>
     <string name="livetalk_nsufficient_balance">Sold insuficient</string>
-    <string name="livetalk_package_introduction_text">Reducere exclusiv pentru utilizatorii MIUI. Utilizare mai puțină a datelor și prețuri mai mici.</string>
+    <string name="livetalk_package_introduction_text">Reducere exclusiv pentru utilizatorii MIUI. Utilizare mai redusă a datelor și prețuri mai mici.</string>
     <string name="livetalk_package_name">Suplinire</string>
     <string name="livetalk_provision">Condiții de utilizare</string>
     <string name="livetalk_provision_checkbox">Acceptaţi Condițiile de utilizare</string>
     <string name="livetalk_provision_second">" și trebuie să se conecteze la internet pentru a funcţiona în mod normal."</string>
-    <string name="livetalk_service_and_short_number_not_support">Numere de servicii și numerele scurte nu sunt acceptate.</string>
+    <string name="livetalk_service_and_short_number_not_support">Numerele de servicii și numerele scurte nu sunt acceptate.</string>
     <string name="livetalk_setting">Setări suplinire</string>
     <string name="livetalk_sim_card_not_activated">Această cartelă SIM nu este activată.</string>
     <string name="livetalk_unavaiable_info">Acest serviciu este temporar indisponibil</string>
@@ -1292,8 +1292,8 @@ indisponibil"</string>
     <string name="no_data">Nu sunt date</string>
     <string name="no_more">Nu mai este</string>
     <string name="no_product_list">Gol</string>
-    <string name="not_activate_sim_card_content">Pachetul de suplinire nu a fost activat pentru cartela SIM selectată. Încercați să utilizaţi cartela SIM obişnuită pentru a apela. Veți primi tarife normale de la operatorul dvs..</string>
-    <string name="not_sufficient_funds_content">Nu există suficiente fonduri în contul dvs. Încercați să utilizaţi cartela SIM pentru a apela. Veți primi tarife normale de la operatorul dvs..</string>
+    <string name="not_activate_sim_card_content">Pachetul de suplinire nu a fost activat pentru cartela SIM selectată. Încercați să utilizaţi cartela SIM obişnuită pentru a apela. Se vor aplica tarife normale de către operatorul dvs.</string>
+    <string name="not_sufficient_funds_content">Nu există suficiente fonduri în contul dvs. Încercați să utilizaţi cartela SIM pentru a apela. Se vor aplica tarife normale de către operatorul dvs.</string>
     <string name="not_supported_number_content">Pachetul de suplinire nu acceptă numere de servicii. Încercați să utilizaţi cartela SIM obişnuită pentru a apela. Operatorul dvs. vă va taxa pentru acest apel.</string>
     <string name="order_by_name">Alfabetic</string>
     <string name="order_by_recent">Frecvent utilizate</string>
@@ -1313,7 +1313,7 @@ indisponibil"</string>
     <string name="purchase_confirm">Achiziţionaţi</string>
     <string name="purchase_limit">Ați atins limita de suplinire</string>
     <string name="purchase_list">Istoricul achizițiilor</string>
-    <string name="purchase_notification">"Preturile de mai sus sunt pentru apeluri naţionale. Pentru apeluri internaționale vizualizaţi "</string>
+    <string name="purchase_notification">"Preţurile de mai sus sunt pentru apeluri naţionale. Pentru apeluri internaționale vizualizaţi "</string>
     <string name="purchase_notification_title">Verificați regiunile acceptate</string>
     <string name="purchase_rates_title">Tarife</string>
     <string name="query">Solicitare</string>

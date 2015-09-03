@@ -5,7 +5,7 @@
     <string name="passport_phone_num_hint_text">Număr de telefon</string>
     <string name="passport_login">Conectaţi-vă</string>
     <string name="passport_login_with_email_or_id"><u>Conectaţi-vă cu adresa de e-mail sau ID-ul contului Mi</u></string>
-    <string name="passport_email_or_id_hint_text">Adresa de e-mail sau ID cont Mi</string>
+    <string name="passport_email_or_id_hint_text">Adresa de e-mail sau ID-ul contului Mi</string>
     <string name="passport_verify">Verificaţi</string>
     <string name="passport_register">Creaţi un cont</string>
     <string name="passport_register_by_email"><u>Creaţi un cont utilizând adresa de e-mail</u></string>
@@ -105,7 +105,7 @@ Pentru a activa contul, urmați
     <string name="passport_xiaomi_account_sec_dspt2">Conectarea la contul dvs. Mi necesită o conexiune la internet. Adiţional, accesul la locaţie, Mi Cloud și Mi VIP vor fi activate în mod automat.</string>
     <string name="passport_remove_unactivated_account_notice">Contul dvs. nu a fost activat.</string>
     <string name="passport_remove_confirm">Deconectare</string>
-    <string name="passport_find_password_on_web_msg">Vizitaţi account.mi.com pentru a reseta parola dvs.</string>
+    <string name="passport_find_password_on_web_msg">Vizitaţi account.mi.com pentru a vă reseta parola.</string>
     <string name="passport_relogin">Conectaţi-vă din nou</string>
     <string name="passport_skip_login">Omiteţi conectarea</string>
     <string name="passport_checking_account">Verificare parolă…</string>
@@ -113,7 +113,7 @@ Pentru a activa contul, urmați
     <string name="passport_wrong_captcha">Codul introdus nu este corect</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
     <string name="passport_trust_device">Aveți încredere în acest dispozitiv</string>
-    <string name="passport_vcode_prompt_long">Introduceti codul de verificare</string>
+    <string name="passport_vcode_prompt_long">Introduceţi codul de verificare</string>
     <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
     <string name="passport_checking_input">Verificare…</string>
     <string name="passport_login_title">Conectaţi-vă la un cont existent</string>
@@ -130,7 +130,7 @@ Pentru a activa contul, urmați
     <string name="passport_change_account"><u>Schimbaţi contul</u></string>
     <string name="passport_register_account_verified_confirm">Ați verificat deja contul dvs.</string>
     <string name="passport_register_account_goto_email">Mergeţi la casuţa de e-mail</string>
-    <string name="passport_notification_title">Eroare conectare pentru %1$s</string>
+    <string name="passport_notification_title">Eroare de conectare pentru %1$s</string>
     <string name="passport_sim_index_info">Cartelă SIM %1$d - %2$s</string>
     <string name="passport_choose_which_one_sim">Alegeţi un număr de telefon</string>
     <string name="app_name">Cont Mi</string>
@@ -227,7 +227,7 @@ Pentru a activa contul, urmați
     <string name="wrong_captcha">Codul introdus nu este corect</string>
     <string name="wrong_vcode">Codul de verificare introdus este incorect</string>
     <string name="trust_device">Aveți încredere în acest dispozitiv</string>
-    <string name="vcode_prompt_long">Introduceti codul de verificare</string>
+    <string name="vcode_prompt_long">Introduceţi codul de verificare</string>
     <string name="vcode_notification_title">Verificarea este incompletă</string>
     <string name="checking_input">Verificare…</string>
     <string name="wipe_data_dialog_title">Unele elemente nu au fost sincronizate</string>
@@ -299,7 +299,7 @@ Pentru a activa contul, urmați
     <string name="phone_activated">%s activat</string>
     <string name="phone_unactivated">Nu este activat</string>
     <string name="no_sim_card">Nicio cartelă SIM</string>
-    <string name="phone_unknown">Necunsocut</string>
+    <string name="phone_unknown">Necunoscut</string>
     <string name="remove_device_success_notice">Dacă eliminați acest dispozitiv din dispozitive de încredere, ar putea fi necesar să treceţi din nou procesul de verificare atunci când vă conectați.​</string>
     <string name="device_delete_loading">Doar o secundă…</string>
     <string name="device_delete_success_title">Deconectat</string>
@@ -315,7 +315,7 @@ Pentru a activa contul, urmați
     <string name="user_avatar_update_title">Schimbaţi imaginea profilului</string>
     <string name="micloud_sync_state_pending">În aşteptare</string>
     <string name="account_bind_new_phone">Adăugaţi un telefon nou</string>
-    <string name="account_bind_phone_notice">Utilizați acest număr de telefon pentru a vă conecta la contul dvs., pentru a reseta parola, sau pentru a modifica setările de securitate.</string>
+    <string name="account_bind_phone_notice">Utilizați acest număr de telefon pentru a vă conecta la contul dvs., pentru a reseta parola sau pentru a modifica setările de securitate.</string>
     <string name="account_bind_secure_email_title">Adăugaţi un e-mail</string>
     <string name="account_bind_secure_phone_title">Adăugaţi un număr de telefon</string>
     <string name="account_none_binded_info">Niciunul</string>
@@ -333,7 +333,7 @@ Pentru a activa contul, urmați
     <string name="continue_action">Continuaţi</string>
     <string name="delete_action">Ştergeţi</string>
     <string name="email_send_verify_code_prompt">"Trimiteţi un e-mail la %s
-Introduceti codul de verificare în e-mail"</string>
+Introduceţi codul de verificare în e-mail"</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este deja asociată cu un alt cont Mi.</string>
     <string name="error_invalid_bind_address">Adresa de e-mail pe care ați introdus-o nu este validă.</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este deja asociat cu un alt cont Mi.</string>
@@ -368,9 +368,9 @@ Introduceti codul de verificare în e-mail"</string>
     <string name="passport_reset_fail_title">Nu a putut fi resetat</string>
     <string name="passport_reset_password_prompt">Parola este incorectă</string>
     <string name="passport_reset_password_title">Resetaţi parola</string>
-    <string name="passport_restart">Porniţi de la început</string>
+    <string name="passport_restart">Reluaţi</string>
     <string name="passport_restart_register_prompt">Un alt mesaj de verificare poate fi necesar pentru a crea un cont.</string>
     <string name="passport_restart_register_title">Creaţi un cont Mi</string>
-    <string name="passport_wait_for_sms_prompt">Porniţi de la început acum? Livrarea mesajelor de verificare poate dura până la 10 minute, atunci când telefonul se află în raza rețelei de operatorului dvs..</string>
+    <string name="passport_wait_for_sms_prompt">Porniţi de la început acum? Livrarea mesajelor de verificare poate dura până la 10 minute, atunci când telefonul se află în raza rețelei operatorului dvs.</string>
     <string name="passport_wrong_password">Parola este incorectă</string>
 </resources>

@@ -26,7 +26,7 @@
      <string name="error_sdcard_access">Imposibil de accesat stocarea internă sau externă</string>
      <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
      <string name="fm_record">Înregistrări radio (%d)</string>
-     <string name="low_battery_error">Acumulatorul telefonului are mai puțin de 5%. Pentru ca înregistrarea să nu fie pierdută, ea a fost oprită și salvată. Deconectarea neașteptată poate duce la pierderea înregistrării, se recomandă ca înregistrarea să se efectueze atunci când acumulatorul este complet încărcat.</string>
+     <string name="low_battery_error">Acumulatorul telefonului are mai puțin de 5%. Pentru ca înregistrarea să nu fie pierdută, ea a fost oprită și salvată. Deconectarea neașteptată poate duce la pierderea înregistrării; se recomandă ca înregistrarea să se efectueze atunci când acumulatorul este complet încărcat.</string>
      <string name="message_file_size_error">Înregistrarea a atins lungimea maximă susţinută de %s</string>
      <string name="no_downloading_file">Nu se descarcă fișiere.</string>
      <string name="no_file">Nicio înregistrare</string>

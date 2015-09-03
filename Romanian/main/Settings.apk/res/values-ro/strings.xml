@@ -2006,12 +2006,12 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="service_client_name">%1$s</string>
     <string name="service_foreground_processes">%1$s util.</string>
     <string name="service_manage">Configurare</string>
-    <string name="service_manage_description">%1$s: se află în prezent în utilizare. Atingeţi Setări pentru a controla serviciul.</string>
+    <string name="service_manage_description">%1$s: se află în prezent în uz. Atingeţi Setări pentru a controla serviciul.</string>
     <string name="service_process_name">%1$s</string>
     <string name="service_restarting">Reporneşte</string>
     <string name="service_started_by_app">Iniţiat de aplicaţie</string>
     <string name="service_stop">Opriţi</string>
-    <string name="service_stop_description">O aplicaţie a pornit acest serviciu. Oprirea lui poate duce la eroarea aplicaţiei.</string>
+    <string name="service_stop_description">O aplicaţie a pornit acest serviciu. Oprirea lui poate duce la funcţionarea anormală a aplicaţiei.</string>
     <string name="services_subtitle">Servicii</string>
     <string name="settings_backup">Setări copie de rezervă</string>
     <string name="settings_backup_summary">Creaţi o copie de rezervă a setărilor dvs.</string>
@@ -2019,7 +2019,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="settings_label">Setări</string>
     <string name="settings_label_launcher">Setări</string>
     <string name="settings_license_activity_loading">Se încarcă…</string>
-    <string name="settings_license_activity_title">Licenţe open source</string>
+    <string name="settings_license_activity_title">Licenţe Open Source</string>
     <string name="settings_license_activity_unavailable">A apărut o problemă la încărcarea licenţelor.</string>
     <string name="settings_safetylegal_activity_loading">Se încarcă…</string>
     <string name="settings_safetylegal_activity_title">Informaţii privind siguranţa</string>
@@ -2029,7 +2029,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="show_all_anrs">Afişaţi toate elem. ANR</string>
     <string name="show_all_anrs_summary">Afiş. dialog. Aplic. nu răsp. pt. aplic. de fundal</string>
     <string name="show_background_processes">Procese memorie cache</string>
-    <string name="show_cpu_usage">Afişaţi utiliz. procesor.</string>
+    <string name="show_cpu_usage">Afişaţi utilizarea procesorului.</string>
     <string name="show_cpu_usage_summary">Suprap. pe ecran indic. util. curentă a procesor.</string>
     <string name="show_dev_already">Nu mai este nevoie, sunteţi deja dezvoltator.</string>
     <string name="show_dev_on">Aţi devenit dezvoltator!</string>
@@ -2047,8 +2047,8 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="show_rounded_corners">Afişarea colţurilor rotunjite</string>
     <string name="show_running_services">Afişaţi serv. care funcţ.</string>
     <string name="show_screen_updates">Afiş. actualiz. suprafeţe</string>
-    <string name="show_screen_updates_summary">Iluminare suprafeţe toată fereastra la actualizare</string>
-    <string name="show_touches">Afişaţi atingerile</string>
+    <string name="show_screen_updates_summary">Iluminare suprafeţe pe toată fereastra la actualizare</string>
+    <string name="show_touches">Afişaţi punctele atinse</string>
     <string name="show_touches_summary">Afişaţi feedback vizual pentru atingeri</string>
     <string name="show_user_info_on_lockscreen_label">Informații utilizator pe ecranul de blocare</string>
     <string name="silent_mode_title">Modul Silenţios</string>
@@ -2087,7 +2087,7 @@ Codul PIN poate fi incorect."</string>
     <string name="smartcover_sensitive_title">Mod Smartcover</string>
     <string name="sms_application_title">Aplicaţie SMS prestabilită</string>
     <string name="sms_change_default_dialog_text" formatted="false">Utilizaţi %s în loc de %s ca aplicaţie SMS?</string>
-    <string name="sms_change_default_dialog_title">Schimbaţi aplicaţia SMS?</string>
+    <string name="sms_change_default_dialog_title">Înlocuiţi aplicaţia SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Utilizaţi %s ca aplicaţie SMS?</string>
     <string name="sms_delivered_sound_dialog_title">Alegeţi sunetul pt. SMS livrat</string>
     <string name="sms_delivered_sound_title">SMS livrat</string>
@@ -2106,7 +2106,7 @@ Codul PIN poate fi incorect."</string>
     <string name="spellchecker_language">Limbă</string>
     <string name="spellchecker_quick_settings">Setări</string>
     <string name="spellchecker_security_warning">Acest instrument de verificare a ortografiei poate, de asemenea, să culeagă în întregime textul pe care îl introduceţi, inclusiv datele personale, cum ar fi parolele şi numerele cardurilor de credit. Instrumentul provine de la aplicaţia %1$s. Utilizaţi acest instrument de verificare ortografică?</string>
-    <string name="spellcheckers_settings_title">Verificator ortografic</string>
+    <string name="spellcheckers_settings_title">Corector ortografic</string>
     <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_dialog_title">Monitorizarea rețelei</string>
     <string name="ssl_ca_cert_info_message">"Acest dispozitiv este administrat de:
@@ -2184,8 +2184,8 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_wimax_mac_address">Adresă MAC 4G</string>
     <string name="storage_format">Formataţi</string>
     <string name="storage_label">Stocare</string>
-    <string name="storage_low_summary">Este posibil ca unele funcţii de sistem, cum ar fi sincronizarea, să nu funcţioneze corect. Încercaţi să eliberaţi spaţiu, ştergând elemente sau anulând fixarea acestora (de ex., aplicaţii sau conţinut media).</string>
-    <string name="storage_low_title">Spaţiu de stocare aproape ocupat</string>
+    <string name="storage_low_summary">Este posibil ca unele funcţii de sistem cum ar fi sincronizarea, să nu funcţioneze corect. Încercaţi să eliberaţi spaţiu, ştergând elemente sau anulând fixarea acestora (de ex., aplicaţii sau conţinut media).</string>
+    <string name="storage_low_title">Spaţiu de stocare aproape epuizat</string>
     <string name="storage_menu_usb">Conectare la computer prin USB</string>
     <string name="storage_other_users">Alţi utilizatori</string>
     <string name="storage_settings">Stocare</string>
@@ -2208,7 +2208,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="sync_disabled">Sinc. este DEZACTIV.</string>
     <string name="sync_enable">Activaţi sincronizarea</string>
     <string name="sync_enabled">Sinc. este ACTIVATĂ</string>
-    <string name="sync_error">Eroare de sincroniz.</string>
+    <string name="sync_error">Eroare de sincronizare</string>
     <string name="sync_failed">Sincronizare eşuată</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_in_progress">Se sincronizează acum…</string>
@@ -2246,12 +2246,12 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="time_picker_title">Ora</string>
     <string name="time_zone_auto_stub">Selectaţi fusul orar</string>
     <string name="timezone_settings">Fus orar</string>
-    <string name="title_color_calibration">Presetare corecţie culoare</string>
+    <string name="title_color_calibration">Presetare corecţie de culoare</string>
     <string name="title_dolby_control">Dolby digital plus</string>
     <string name="title_font">Font</string>
     <string name="title_font_current">Fontul sistemului</string>
     <string name="title_font_size">Dimensiune text</string>
-    <string name="title_hdmi_color_calibration">Presetare corecţie culoare</string>
+    <string name="title_hdmi_color_calibration">Presetare corecţie de culoare</string>
     <string name="title_layout_current">Dimensiunea textului</string>
     <string name="title_local_resource">Resurse locale</string>
     <string name="title_system_resource">Resurse de sistem</string>
@@ -2259,7 +2259,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="toast_need_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="total_size">%s (Total)</string>
     <string name="total_size_label">Total</string>
-    <string name="touch_sensitive_summary">Faceţi ecranul extra-receptiv la presiune</string>
+    <string name="touch_sensitive_summary">Faceţi ecranul extra-receptiv la atingere</string>
     <string name="touch_sensitive_title">Mod \"cu mănuşi\"</string>
     <string name="touch_sensitive_turn_off_cancel">Anulaţi</string>
     <string name="touch_sensitive_turn_off_confirm">Confirmaţi</string>
@@ -2286,9 +2286,9 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_data_installed_summary">Vocile necesare pentru sintetizarea vorbirii sunt deja instalate corect</string>
     <string name="tts_default_lang_summary">Setează vocea caracteristică limbii pentru textul vorbit</string>
     <string name="tts_default_lang_title">Limbă</string>
-    <string name="tts_default_pitch_summary">Afectează tonul textului vorbit</string>
+    <string name="tts_default_pitch_summary">Modifică tonul textului vorbit</string>
     <string name="tts_default_pitch_title">Înălţime</string>
-    <string name="tts_default_rate_summary">Viteza cu care este vorbit textul</string>
+    <string name="tts_default_rate_summary">Viteza cu care este rostit textul</string>
     <string name="tts_default_rate_title">Ritmul vorbirii</string>
     <string name="tts_default_settings_section">Setări standard</string>
     <string name="tts_default_synth_summary">Setează utilizarea motorului de sintetizare a vorbirii pentru textul vorbit</string>
@@ -2299,7 +2299,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_engine_name_is_disabled_summary">%s este dezactivat</string>
     <string name="tts_engine_name_is_enabled_summary">%s este activat</string>
     <string name="tts_engine_name_settings">Setări %s</string>
-    <string name="tts_engine_network_required">Pentru rezultatul transformării textului în vorbire pentru această limbă este necesară o conexiune de reţea care să funcţioneze.</string>
+    <string name="tts_engine_network_required">Pentru rezultatul transformării textului în vorbire pentru această limbă este necesară o conexiune de reţea funcţională.</string>
     <string name="tts_engine_preference_section_title">Motor preferat</string>
     <string name="tts_engine_security_warning">Acest motor de sintetizare a vorbirii poate culege în întregime textul vorbit, inclusiv datele personale cum ar fi parolele şi numerele cărţilor de credit. Acesta provine de la motorul %s. Permiteţi utilizarea acestui motor de sintetizare a vorbirii?</string>
     <string name="tts_engine_settings_button">Lansaţi setările motorului</string>
@@ -2315,7 +2315,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_play_example_summary">Redaţi o demonstraţie scurtă a sintetizării vorbirii</string>
     <string name="tts_play_example_title">Ascultaţi un exemplu</string>
     <string name="tts_settings">Setări text în vorbire</string>
-    <string name="tts_settings_changed_demo">Setările s-au modificat. Acesta este un exemplu de sunet pentru aceste setări.</string>
+    <string name="tts_settings_changed_demo">Setările au fost aplicate. Acesta este un exemplu de sunet pentru aceste setări.</string>
     <string name="tts_settings_title">Rezultatul transformării textului în vorbire</string>
     <string name="tts_status_checking">Se verifică...</string>
     <string name="tts_status_not_supported">%1$s nu este acceptată</string>
@@ -2358,7 +2358,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unlock_set_unlock_off_title">Fără</string>
     <string name="unlock_set_unlock_password_summary">Introduceţi patru sau mai multe litere sau cifre pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_password_title">Parolă complexă</string>
-    <string name="unlock_set_unlock_pattern_summary">Desenați un model simplu cu degetul pentru a debloca dispozitivul</string>
+    <string name="unlock_set_unlock_pattern_summary">Desenați un model pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_pattern_title">Model</string>
     <string name="unlock_set_unlock_pin_summary">Introduceți patru sau mai multe cifre pentru a debloca dispozitivul</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
@@ -2387,12 +2387,12 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="usage_type_wake_lock">Menţinut activ</string>
     <string name="usage_type_wifi_running">Funcţionare Wi-Fi</string>
     <string name="usb_connection_category">Conectaţi ca</string>
-    <string name="usb_host_mode_subtext">Pentru utilizarea controlerelor de joc şi a altor periferice în portul USB, se poate reduce durata de viață a acumulatorului</string>
+    <string name="usb_host_mode_subtext">Utilizarea controlerelor de joc şi a altor periferice în portul USB poate reduce durata de viață a acumulatorului</string>
     <string name="usb_host_mode_text">Activaţi modul gazdă USB</string>
     <string name="usb_label_installer_cd">Instalaţi instrumentul de transfer al fişierelor</string>
     <string name="usb_msd_driver_installer_summary">Obţineţi instalatoarele pentru Windows şi Mac de aici</string>
     <string name="usb_msd_driver_installer_title">Disk instalator driver (MSD)</string>
-    <string name="usb_msd_summary">Vă permite să transferaţi fişiere în Windows şi Mac</string>
+    <string name="usb_msd_summary">Vă permite să transferaţi fişiere pe Windows şi Mac</string>
     <string name="usb_msd_title">Stocare în masă</string>
     <string name="usb_mtp_summary">Vă permite să transferaţi fişiere media pe Windows sau utilizând aplicaţia Transfer de fişiere Android pe Mac (disponibil la www.android.com/filetransfer)</string>
     <string name="usb_mtp_title">Dispozitiv media (MTP)</string>
@@ -2407,7 +2407,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="usb_title">USB</string>
     <string name="use_default_tts_settings_summary">Setările prestabilite de mai jos înlocuiesc setările aplicaţiei</string>
     <string name="use_default_tts_settings_title">Doresc să se utilizeze întotdeauna setările mele</string>
-    <string name="use_location_summary">Permiteţi Google să utilizeze locaţia dvs. pt. îmbunăt. rezultatelor căutării şi serviciilor</string>
+    <string name="use_location_summary">Permiteţi Google să utilizeze locaţia dvs. pt. îmbunăt. rezultatelor căutării şi a serviciilor</string>
     <string name="use_location_title">Locaţie şi căutare Google</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizaţi limba sistemului</string>
     <string name="user_account_title">Cont pentru conţinut</string>
@@ -2416,7 +2416,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="user_add_user_item_summary">Utilizatorii dețin aplicații și materiale proprii</string>
     <string name="user_add_user_item_title">Utilizator</string>
     <string name="user_add_user_menu">Adăugaţi utilizator</string>
-    <string name="user_add_user_message_long">"Puteţi să permiteţi accesul la acest gadget altor persoane, prin adăugarea unor utilizatori suplimentari. Fiecare utilizator are propriul spaţiu, pe care îl poate personaliza cu propriile sale aplicaţii, imagini de fundal şi aşa mai departe. De asemenea, utilizatorii pot ajusta setările tabletei, cum ar fi setările pentru Wi-Fi, care afectează toţi utilizatorii.
+    <string name="user_add_user_message_long">"Puteţi să permiteţi accesul la acest gadget altor persoane, prin adăugarea unor utilizatori suplimentari. Fiecare utilizator are propriul spaţiu, pe care îl poate personaliza cu propriile sale aplicaţii, imagini de fundal şi aşa mai departe. De asemenea, utilizatorii pot ajusta setările tabletei(cum ar fi setările pentru Wi-Fi), care afectează toţi utilizatorii.
 
 După ce creaţi un utilizator nou, respectiva persoană trebuie să parcurgă un proces de configurare.
 
@@ -2429,15 +2429,15 @@ Oricare utilizator poate accepta permisiunile aplicaţiilor actualizate în nume
     <string name="user_adding_new_user">Se adaugă un utilizator nou…</string>
     <string name="user_cannot_add_accounts_message">Profilurile cu permisiuni limitate nu pot adăuga conturi</string>
     <string name="user_cannot_manage_message">Numai proprietarul telefonului poate gestiona utilizatorii.</string>
-    <string name="user_confirm_remove_message">Spaţiul şi datele acestui utilizator vor dispărea de pe telefon. Nu puteţi anula această acţiune.</string>
-    <string name="user_confirm_remove_self_message">Veţi pierde spaţiul şi datele de pe acest telefon. Nu puteţi anula această acţiune.</string>
+    <string name="user_confirm_remove_message">Spaţiul şi datele acestui utilizator vor dispărea de pe telefon. Nu puteţi anula această acţiune!</string>
+    <string name="user_confirm_remove_self_message">Veţi pierde spaţiul şi datele de pe acest telefon. Nu puteţi anula această acţiune!</string>
     <string name="user_confirm_remove_self_title">Vă eliminaţi ca utilizator?</string>
     <string name="user_confirm_remove_title">Eliminaţi utilizatorul?</string>
     <string name="user_delete_button">Ştergeţi</string>
     <string name="user_delete_user_description">Ştergeţi utilizatorul</string>
     <string name="user_dict_settings_add_dialog_confirm">OK</string>
-    <string name="user_dict_settings_add_dialog_less_options">Mai puţine opţ.</string>
-    <string name="user_dict_settings_add_dialog_more_options">Mai multe opţ.</string>
+    <string name="user_dict_settings_add_dialog_less_options">Mai puţine opţiuni</string>
+    <string name="user_dict_settings_add_dialog_more_options">Mai multe opţiuni</string>
     <string name="user_dict_settings_add_dialog_title">Adăugaţi în dicţionar</string>
     <string name="user_dict_settings_add_locale_option_name">Limbă:</string>
     <string name="user_dict_settings_add_menu_title">Adăugaţi</string>
@@ -2465,7 +2465,7 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="user_nickname">Pseudonim</string>
     <string name="user_owner">Proprietar</string>
     <string name="user_picture_title">ID fotografie</string>
-    <string name="user_profile_confirm_remove_message">Spațiul și datele acestui profil vor dispărea de pe telefon. Nu puteți anula această acțiune.</string>
+    <string name="user_profile_confirm_remove_message">Spațiul și datele acestui profil vor dispărea de pe telefon. Nu puteți anula această acțiune!</string>
     <string name="user_profile_confirm_remove_title">Eliminați profilul?</string>
     <string name="user_remove_user_menu">Ştergeţi %1$s de pe gadget</string>
     <string name="user_rename">REDENUMIȚI</string>
@@ -2489,7 +2489,7 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="version_text">Versiune %1$s</string>
     <string name="vibrate_category_title">Vibrare</string>
     <string name="vibrate_in_normal_title">Vibrare în profilul normal</string>
-    <string name="vibrate_in_silent_title">Vibrează în profilul silenţios</string>
+    <string name="vibrate_in_silent_title">Vibrează în profilul Silenţios</string>
     <string name="vibrate_input_devices">Utilizaţi mecanismul de vibrare</string>
     <string name="vibrate_input_devices_summary">Redirecţionaţi mecanismul de vibrare pentru controlerul de joc când este conectat.</string>
     <string name="vibrate_when_ringing_title">Vibrează când sună</string>
@@ -2543,7 +2543,7 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="volume_restore_alert">Setările de volum actuale vor fi șterse</string>
     <string name="volume_ring_description">Volum ton de apel şi notificări</string>
     <string name="volume_ring_mute">Dezactivaţi sunetul pentru tonul de apel şi notificări</string>
-    <string name="volume_system_description">Volum sistem, pentru obturator cameră foto, blocare ecran şi alte notificări de sistem</string>
+    <string name="volume_system_description">Volum sistem, obturator cameră foto, blocare ecran şi alte notificări de sistem</string>
     <string name="volume_voice_description">Volum voce</string>
     <string name="vpn_cancel">Anulaţi</string>
     <string name="vpn_configure">Configurare</string>
@@ -2558,7 +2558,7 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="vpn_ipsec_server_cert">Certificat de server IPSec</string>
     <string name="vpn_ipsec_user_cert">Certificat de utilizator IPSec</string>
     <string name="vpn_l2tp_secret">Secret L2TP</string>
-    <string name="vpn_lockdown_config_error">Activarea permanentă a reţelei VPN necesită o adresă IP, atât pentru server, cât şi pentru DNS.</string>
+    <string name="vpn_lockdown_config_error">Activarea permanentă a reţelei VPN necesită o adresă IP, atât pentru server cât şi pentru DNS.</string>
     <string name="vpn_lockdown_none">Niciuna</string>
     <string name="vpn_lockdown_summary">Selectaţi un profil VPN pentru a rămâne conectat întotdeauna la reţea. Traficul de reţea va fi permis numai atunci când sunteţi conectat la această reţea VPN.</string>
     <string name="vpn_menu_delete">Ştergeţi profilul</string>
@@ -2593,7 +2593,7 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="wallpaper_settings_title">Imagine de fundal</string>
     <string name="welcome">Bun venit</string>
     <string name="wfd_available_devices">Dispozitive disponibile</string>
-    <string name="wfd_disconnect_diag_msg">Dacă întrerupeţi sesiunea Ecran wireless, conexiunea cu %1$s se va termina.</string>
+    <string name="wfd_disconnect_diag_msg">Dacă întrerupeţi sesiunea Ecran wireless, conexiunea cu %1$s se va încheia.</string>
     <string name="wfd_disconnect_diag_title">Întrerupeţi sesiunea?</string>
     <string name="wfd_disconnect_multiple_diag_message">Dacă întrerupeţi sesiunea Ecran wireless, conexiunea cu %1$s şi %2$s alte dispozitive se va încheia.</string>
     <string name="wfd_enable_wifi_diag_title">Puteți utiliza Ecran wireless doar atunci când este activat Wi-Fi. Activaţi acum?</string>
@@ -2676,9 +2676,9 @@ Adăugaţi un cuvânt atingând butonul Adăugaţi (+)."</string>
     <string name="wifi_empty_list_wifi_off">Pentru a vizualiza rețelele disponibile, activați Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Se caută reţele Wi-Fi…</string>
     <string name="wifi_enable">Activaţi Wi-Fi</string>
-    <string name="wifi_enable_watchdog_service_summary">Utilizaţi reţeaua Wi-Fi doar atunci când conexiunea de internet este puternică</string>
+    <string name="wifi_enable_watchdog_service_summary">Utilizaţi reţeaua Wi-Fi doar atunci când conexiunea la internet este puternică</string>
     <string name="wifi_error">Eroare</string>
-    <string name="wifi_fail_to_scan">Nu se poate scana pentru reţele</string>
+    <string name="wifi_fail_to_scan">Nu se pot scana reţelele</string>
     <string name="wifi_failed_connect_message">Nu s-a putut stabili conexiunea la reţea</string>
     <string name="wifi_failed_forget_message">Nu s-a putut elimina reţeaua</string>
     <string name="wifi_failed_save_message">Nu s-a putut salva reţeaua</string>
@@ -2779,16 +2779,16 @@ Permiteți acest lucru pentru toate aplicațiile care solicită scanarea?"</stri
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_setting_category">Reţele disponibile</string>
-    <string name="wifi_setting_frequency_band_error">A apărut o probl. la setarea benzii de frecvenţă.</string>
+    <string name="wifi_setting_frequency_band_error">A apărut o problemă la setarea benzii de frecvenţă.</string>
     <string name="wifi_setting_frequency_band_summary">Indicaţi intervalul de frecvenţă al operaţiunii</string>
     <string name="wifi_setting_frequency_band_title">Bandă de frecvenţă Wi-Fi</string>
     <string name="wifi_setting_sleep_policy_error">A apărut o problemă la modificarea setării</string>
-    <string name="wifi_setting_sleep_policy_title">Menţineţi Wi-Fi activat în modul inactiv</string>
+    <string name="wifi_setting_sleep_policy_title">Menţineţi Wi-Fi activat în modul Inactiv</string>
     <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Setări Wi-Fi</string>
     <string name="wifi_settings_summary">Configuraţi şi gestionaţi punctele de acces wireless</string>
     <string name="wifi_settings_title">Wi-Fi</string>
-    <string name="wifi_setup_add_network">Adăugaţi reţea</string>
+    <string name="wifi_setup_add_network">Adăugaţi o reţea</string>
     <string name="wifi_setup_back">Înapoi</string>
     <string name="wifi_setup_cancel">Anulaţi</string>
     <string name="wifi_setup_connect">Conect.</string>
@@ -2812,20 +2812,20 @@ Atingeţi "<b>Înapoi</b> pentru a vă conecta la o altă reţea Wi-Fi."</string
     <string name="wifi_setup_status_proceed_to_next">Accesaţi pasul următor</string>
     <string name="wifi_setup_status_scanning">Se scanează reţelele…</string>
     <string name="wifi_setup_status_select_network">Atingeţi o reţea pentru a vă conecta la aceasta</string>
-    <string name="wifi_setup_status_unsecured_network">Conectaţi-vă la o reţea nesecuriz.</string>
+    <string name="wifi_setup_status_unsecured_network">Conectaţi-vă la o reţea nesecurizată</string>
     <string name="wifi_setup_title">Configurare Wi-Fi</string>
     <string name="wifi_setup_title_add_network">Adăugaţi o reţea</string>
     <string name="wifi_setup_title_connected_network">Conectat la reţeaua Wi-Fi %s</string>
     <string name="wifi_setup_title_connecting_network">Se efectuează conectarea la reţeaua Wi-Fi %s…</string>
     <string name="wifi_setup_title_editing_network">Conectaţi-vă la reţeaua Wi-Fi %s</string>
     <string name="wifi_setup_wizard_title">Selectaţi o reţea Wi-Fi</string>
-    <string name="wifi_setup_wps">Config. automată (WPS)</string>
+    <string name="wifi_setup_wps">Configurare automată (WPS)</string>
     <string name="wifi_share">Partajare Wi-Fi</string>
     <string name="wifi_share_action_turn_off">Opriţi partajarea reţelelor</string>
     <string name="wifi_share_action_turn_on">Partajaţi Wi-Fi</string>
     <string name="wifi_share_action_turn_on_summary">Pentru partajare, conectaţi-vă la contul dvs. Mi</string>
     <string name="wifi_share_add">Partajează reţelele mele Wi-Fi publice</string>
-    <string name="wifi_share_add_summary">"Atunci când partajaţi reţelele publice ale dvs.,
+    <string name="wifi_share_add_summary">"Atunci când partajaţi reţelele dvs. publice,
 puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_share_connect">Conectaţi-vă</string>
     <string name="wifi_share_connected_summary">"Sunteţi conectat la o reţea Wi-Fi publică care a fost partajată de un alt utilizator"</string>
@@ -2910,11 +2910,11 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="wifi_wapi_user_cert">Certificat de utilizator</string>
     <string name="wifi_wps_available_first_item">WPS disponibil</string>
     <string name="wifi_wps_available_second_item">" (WPS disponibil)"</string>
-    <string name="wifi_wps_complete">WPS finalizată. Se conectează la reţea…</string>
+    <string name="wifi_wps_complete">Configurare WPS finalizată. Se conectează la reţea…</string>
     <string name="wifi_wps_connected">Conectat la reţeaua Wi-Fi %s</string>
     <string name="wifi_wps_failed_auth">Autentificare eşuată. Încercaţi din nou.</string>
     <string name="wifi_wps_failed_generic">WPS eşuată. Încercaţi din nou peste câteva minute.</string>
-    <string name="wifi_wps_failed_overlap">A fost detectată altă sesiune WPS. Încercaţi din nou peste câteva minute.</string>
+    <string name="wifi_wps_failed_overlap">A fost detectată o altă sesiune WPS. Încercaţi din nou peste câteva minute.</string>
     <string name="wifi_wps_failed_tkip">Setarea de securitate pentru routerul wireless (TKIP) nu este acceptată</string>
     <string name="wifi_wps_failed_wep">Setarea de securitate pentru routerul wireless (WEP) nu este acceptată</string>
     <string name="wifi_wps_in_progress">WPS este deja în desfăşurare. Finalizarea poate dura până la două minute.</string>
@@ -3020,7 +3020,7 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="music_dirac_mode_headset">Căști Mi</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-    <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și GPS</string>
+    <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și a GPS-ului</string>
     <string name="power_hide_mode_title">Gestionare utilizare acumulator de către aplicații</string>
     <string name="wifi_eap_sim_simcard">Selectaţi cartela SIM</string>
     <string name="screen_color_and_optimize">Culori şi contrast</string>
@@ -3039,9 +3039,9 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="dndm_vip_call_setting_detal">Se acceptă întotdeauna apeluri de la excepții</string>
     <string name="dndm_wristband">Mi Band</string>
     <string name="dndm_wristband_detailed">Se activează Nu deranjați, dacă Mi Band detectează că dormiţi cu o oră înainte de ora de începere programată</string>
-    <string name="dndm_wristband_detailed2">Se dezactivează Nu deranjați, dacă Mi Band detectează că v-aţi trezit cu o oră înainte de sfârșitul orei programate</string>
+    <string name="dndm_wristband_detailed2">Se dezactivează Nu deranjați, dacă Mi Band detectează că v-aţi trezit cu o oră înainte de sfârșitul perioadei programate</string>
     <string name="every_day">În fiecare zi</string>
-    <string name="font_size_exhuge">Deosebit de imens</string>
+    <string name="font_size_exhuge">Imens</string>
     <string name="legal_workday">Zile lucrătoare legale</string>
     <string name="legal_workday_invalidate">Lu-Vi (informaţiile despre sărbători au expirat)</string>
     <string name="legal_workday_invalidate_message">Apăsați pentru a actualiza informaţiile despre sărbătorile legale.</string>
@@ -3056,5 +3056,5 @@ Configurarea telefonului poate presupune o activitate semnificativă în reţea.
     <string name="theme_settings_title">Teme</string>
     <string name="advanced_text_layout">Activați aspectele de text avansate</string>
     <string name="experience_optimization_category">Optimizare</string>
-    <string name="pref_edge_handgrip">Controlale de margini</string>
+    <string name="pref_edge_handgrip">Controale de margini</string>
 </resources>

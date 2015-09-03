@@ -11,7 +11,7 @@
     <string name="caller_info_name_delimiter">" sau "</string>
     <string name="copy">Copiere</string>
     <string name="cut">Decupare</string>
-    <string name="fc_dialog_body">Trimiteţi un raport de probleme către Mi pentru analiză? Acest raport poate să conțină informații de identificare personală. Raportul dvs. va fi folosit pentru a ajuta la rezolvarea aceastei probleme și nu va fi niciodată partajat în orice context comercial.</string>
+    <string name="fc_dialog_body">Trimiteţi un raport de probleme către Mi pentru analiză? Acest raport poate să conțină informații de identificare personală. Raportul dvs. va fi folosit pentru a ajuta la rezolvarea aceastei probleme și nu va fi niciodată partajat în scop comercial.</string>
     <string name="fc_dialog_jump_to_preview">Vizualizare sumar</string>
     <string name="first_back_long_press_message">Apăsarea lungă a tastei Înapoi va opri aplicaţia curentă şi serviciile ei din fundal.\n\nPentru a activa această funcţie accesaţi Setări > Sistem > Butoane</string>
     <string name="fm_record_smaple_prefix_miui">Înregistrare FM</string>
@@ -20,7 +20,7 @@
     <string name="global_actions_airplane_mode">Modul Avion</string>
     <string name="global_actions_reboot">Repornire</string>
     <string name="global_actions_shutdown">Închidere</string>
-    <string name="global_actions_silent_mode">Modul silenţios</string>
+    <string name="global_actions_silent_mode">Modul Silenţios</string>
     <string name="handy_mode_enter_dlg_msg">Intraţi în modul Operare cu o mână?</string>
     <string name="handy_mode_enter_dlg_title">Intrare în modul Operare cu o mână</string>
     <string name="handy_mode_summary">Pentru a închide, apăsați pe zona întunecată</string>
@@ -48,9 +48,9 @@
     <string name="reboot_confirm_title">Telefonul dvs. va reporni.</string>
     <string name="reboot_progress">Repornire…</string>
     <string name="replace">Înlocuire</string>
-    <string name="screen_button_disabled_message">Butoanele de navigare sunt dezactivate. Pentru a le reactiva, atingeți butonul Acasă și Alimentare simultan.</string>
+    <string name="screen_button_disabled_message">Butoanele de navigare sunt dezactivate. Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_enabled_message">Butoanele de navigare au fost activate.</string>
-    <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butonul Domiciliu și Alimentare simultan.</string>
+    <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
     <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum▲ simultan.</string>
     <string name="screen_on_proximity_sensor_summary">Nu acoperiți zona portocalie a ecranului</string>
@@ -68,7 +68,7 @@
     <string name="status_bar_toggle_ac">Acces</string>
     <string name="status_bar_toggle_auto_brightness">Automat</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-    <string name="status_bar_toggle_data">Date</string>
+    <string name="status_bar_toggle_data">Date mobile</string>
     <string name="status_bar_toggle_flight_mode">Avion</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Blocare</string>

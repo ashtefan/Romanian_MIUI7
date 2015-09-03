@@ -20,7 +20,7 @@
      <string name="auto_update_sum">Se descarcă automat actualizările când este conectat la Wi-Fi</string>
      <string name="autosetmode">Setări</string>
      <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
-     <string name="boot_recovery">Reporniţi în Recuperare</string>
+     <string name="boot_recovery">Reporniţi în modul Recuperare</string>
      <string name="button_text_check">Verificați pentru actualizări</string>
      <string name="button_text_later_reboot">Mai târziu</string>
      <string name="button_text_reboot">Reporniți acum</string>
@@ -37,7 +37,7 @@
      <string name="comment_publish">Trimiteţi</string>
      <string name="comment_sending">Trimitere…</string>
      <string name="comment_upload_failed">Trimiterea comentariului a eşuat</string>
-     <string name="comment_upload_hint">Vă mulţumim pentru feddback-ul dvs.</string>
+     <string name="comment_upload_hint">Vă mulţumim pentru feddback-ul dvs!</string>
      <string name="comment_upload_not_logined">Conectaţi-vă la contul dvs. Mi mai întâi</string>
      <string name="comment_upload_success">Trimis</string>
      <string name="daily_build">Zilnic</string>
@@ -57,7 +57,7 @@
      <string name="expect">Așteptări</string>
      <string name="experimental_build">Experimental</string>
      <string name="finish">Finalizaţi</string>
-     <string name="fourgrid_hint_text">Vă mulțumim pentru utilizarea MIUI. Spuneţi-ne ce credeţi și ajutaţi-ne să facem MIUI mai bun.</string>
+     <string name="fourgrid_hint_text">Vă mulțumim pentru utilizarea MIUI. Spuneţi-ne părerea dvs. și ajutaţi-ne să facem MIUI mai bun.</string>
      <string name="fourgrid_no_notificaiont">Nu afișaţi în bara de stare</string>
      <string name="fourgrid_notificaiont">Afișaţi în bara de stare</string>
      <string name="get_auto">Utilizaţi rețeaua mobilă sau Wi-Fi</string>
@@ -72,12 +72,12 @@
      <string name="later">Reporniţi mai târziu</string>
      <string name="loading">Solicitare…</string>
      <string name="log_share">Partajaţi</string>
-     <string name="menu_title_current_version_log">Ce mai e nou</string>
+     <string name="menu_title_current_version_log">Ce este nou</string>
      <string name="menu_title_download_current_rom">Descărcați actualizarea</string>
      <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>
-     <string name="menu_title_recovery">Reporniţi în Recuperare</string>
+     <string name="menu_title_recovery">Reporniţi în modul Recuperare</string>
      <string name="miui_summary_has_new_version">Actualizare disponibilă</string>
-     <string name="miui_summary_no_new_version">Nu sunt actualizări disponibile</string>
+     <string name="miui_summary_no_new_version">Nu există actualizări disponibile</string>
      <string name="miui_summary_now_version">Nu se poate conecta la rețea</string>
      <string name="monthly_build">Lunar</string>
      <string name="my_best_update">Cea mai bună actualizare</string>
@@ -137,7 +137,7 @@
      <string name="sina_share_success">Trimis</string>
      <string name="sina_token_expired_warning">Cont Weibo expirat, reconectaţi-vă</string>
      <string name="sina_token_invalid_warning">Cont Weibo nevalid, reconectaţi-vă</string>
-     <string name="space_not_enough_msg">Dispozitivul dvs. este prea plin pentru a descărca această actualizare. Curățați stocarea dispozitivului și încercați din nou.</string>
+     <string name="space_not_enough_msg">Nu există spaţiu pe dispozitivul dvs. pentru a descărca această actualizare. Curățați stocarea dispozitivului și încercați din nou.</string>
      <string name="space_not_enough_title">Nu este suficient spațiu de stocare</string>
      <string name="stable_build">Stabil</string>
      <string name="submit">Trimiteţi</string>

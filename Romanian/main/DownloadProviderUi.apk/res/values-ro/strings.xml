@@ -17,7 +17,7 @@
     <string name="apk_filter">Apk</string>
     <string name="app_downloads">%s descărcări</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">Exporer fişiere</string>
+    <string name="app_name">Explorer fişiere</string>
     <string name="auth_activity_title">Cont Xunlei</string>
     <string name="auth_fail">Nu s-a putut obţine autorizarea</string>
     <string name="bind_xunlei_account">Legaţi contul xunlei ></string>
@@ -30,7 +30,7 @@
     <string name="confirm">OK</string>
     <string name="confirm_delete_downloads_message">%d descărcări vor fi şterse.</string>
     <string name="confirm_delete_the_download_item_message">Ştergeţi aceste descărcări?</string>
-    <string name="create_task">Creaaţi o sarcină</string>
+    <string name="create_task">Creaţi o sarcină</string>
     <string name="delete_download">Ştergeţi</string>
     <string name="delete_downloads_records">Ştergeţi descărcările</string>
     <string name="delete_the_downloaded_file">Fişierele descărcate vor fi şterse.</string>
@@ -107,7 +107,7 @@
     <string name="get_order_fail_msg">Nu s-a putut crea comanda</string>
     <string name="high_speed_channel">Accelerator Xunlei (achitat):</string>
     <string name="immediately_a_renewal">Reînnoiţi acum</string>
-    <string name="input_valid_address">Introduceţi o cale a fişierului</string>
+    <string name="input_valid_address">Introduceţi calea fişierului</string>
     <string name="install">Instalaţi</string>
     <string name="installing">Instalare…</string>
     <string name="invalid_address">Calea fișierului introdusă este greşită</string>
@@ -185,7 +185,7 @@
     <string name="show_more">Mai multe (%s)</string>
     <string name="start_analysis">Verificaţi</string>
     <string name="start_download">Descărcaţi</string>
-    <string name="start_xunlei_speedup_info">Conectaţi-vă pentru a accelera descărcările dvs.</string>
+    <string name="start_xunlei_speedup_info">Conectaţi-vă pentru a accelera viteza de descărcare</string>
     <string name="starting_analysis">Obţinere informaţii…</string>
     <string name="storage_internal">Stocare internă</string>
     <string name="storage_sd_card">Card SD</string>

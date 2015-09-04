@@ -206,7 +206,7 @@
     <string name="resource_menu_refresh">Reîmprospătaţi</string>
     <string name="resource_mute">Niciunul</string>
     <string name="resource_my">Locale</string>
-    <string name="resource_network_diagnostics">&lt;u&gt;Diagnosticare rețea&lt;/u&gt;</string>
+    <string name="resource_network_diagnostics"><u>Diagnosticare rețea</u></string>
     <string name="resource_no_match_app">Nicio aplicație găsită pentru a gestiona această acțiune.</string>
     <string name="resource_no_network_text">Nu se poate conecta la rețea.</string>
     <string name="resource_no_result">Nu s-a găsit nimic</string>

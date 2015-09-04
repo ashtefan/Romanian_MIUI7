@@ -1254,8 +1254,8 @@ indisponibil"</string>
     <string name="livetalk_avaiable_minute">%1$s minute rămase</string>
     <string name="livetalk_charge_now">Supliniţi</string>
     <string name="livetalk_complete">Finalizat</string>
-    <string name="livetalk_complete_domestic_phone">Faceţi un apel național utilizând un pachet de suplinire.</string>
-    <string name="livetalk_complete_international_phone">Faceţi un apel internațional utilizând un pachet de suplinire.</string>
+    <string name="livetalk_complete_domestic_phone">Efectuaţi un apel național utilizând un pachet de suplinire.</string>
+    <string name="livetalk_complete_international_phone">Efectuaţi un apel internațional utilizând un pachet de suplinire.</string>
     <string name="livetalk_complete_introduction">Pachetul de suplinire a fost adăugat la contul dvs. Mi și va fi utilizat pentru viitorul apel.</string>
     <string name="livetalk_complete_name">Comutaţi la un pachet de suplinire</string>
     <string name="livetalk_complete_title">Apelaţi pentru a finaliza suplinirea</string>

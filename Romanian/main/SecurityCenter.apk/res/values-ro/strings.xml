@@ -32,7 +32,7 @@
     <string name="activity_title_virus_settings">Setări</string>
     <string name="antivirus_choose_engine">Se utilizează definiţiile din %s</string>
     <string name="antivirus_choose_engine_dialog_title">Selectaţi definiţiile</string>
-    <string name="antivirus_choose_engine_disable_toast">Nu se pot schimba definițiile în timp ce scanarea este curs</string>
+    <string name="antivirus_choose_engine_disable_toast">Nu se pot schimba definițiile în timp ce scanarea este în curs</string>
     <string name="antivirus_choose_engine_settings">Setări definiţii viruşi</string>
     <string name="antivirus_choose_engine_title">Definiţii</string>
     <string name="antivirus_more_engine_dialog_summary">Utilizând mai multe seturi de definiții, scanarea poate dura mai mult timp.</string>

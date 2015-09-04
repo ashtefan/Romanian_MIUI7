@@ -1324,7 +1324,7 @@ indisponibil"</string>
     <string name="send_order_failed">Nu s-a putut trimite comanda</string>
     <string name="setting_activate_domestic_title">Suplinire (apeluri naţionale)</string>
     <string name="setting_activate_international_title">Suplinire (apeluri internaţionale)</string>
-    <string name="setting_duration_other_prompt">"Pentru tarifele la apelurile internaționale verificaţi "</string>
+    <string name="setting_duration_other_prompt">"Pentru tarifele apelurilor internaționale verificaţi "</string>
     <string name="setting_duration_title">Timpul rămas</string>
     <string name="sim1_activated">Cartela SIM 1</string>
     <string name="sim1_no_activated">Cartela SIM 1 a fost verificată</string>

@@ -739,7 +739,7 @@ Dacă doriţi să adăugaţi contacte în agendă, atingeţi "<b><font fgcolor="
     <string name="pull_to_refresh_pull_label">Trageți pentru a actualiza…</string>
     <string name="pull_to_refresh_refreshing_label">Încărcare…</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a actualiza…</string>
-    <string name="qr_card_card">Codul meu QR</string>
+    <string name="qr_card_card">Cod QR</string>
     <string name="qrcode_card_title">Cod QR</string>
     <string name="quickcontact_missing_app">Nu s-a găsit o aplicaţie care să gestioneze această acţiune</string>
     <string name="quit_dialog_confirm_message">Nu aţi îmbinat niciun contact</string>
@@ -1000,7 +1000,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="contact_detail_miprofile_accept">Schimb cartele de contact</string>
     <string name="contact_detail_miprofile_accept_fail_toast">Nu s-au putut schimba cartelele de contact</string>
     <string name="contact_detail_miprofile_accept_success_toast">Cartele de contact schimbate</string>
-    <string name="contact_detail_miprofile_binded_label">Adăugat</string>
+    <string name="contact_detail_miprofile_binded_label">Verificat</string>
     <string name="contact_detail_miprofile_exchange_closed">"Niciun număr de telefon asociat cu acest cont Mi
 Cartelele de contact sunt dezactivate"</string>
     <string name="contact_detail_miprofile_privacy_settings">Necesită permisiune pentru a vizualiza</string>

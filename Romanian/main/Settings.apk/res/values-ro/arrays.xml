@@ -237,6 +237,7 @@
         <item>L</item>
         <item>XL</item>
         <item>XXL</item>
+        <item>XXXL</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4,5 inchi</item>

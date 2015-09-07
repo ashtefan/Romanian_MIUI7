@@ -19,12 +19,17 @@
     <string name="camera_error_title">Eroare Cameră foto</string>
     <string name="camera_label">Cameră</string>
     <string name="camera_settings_label">Cameră</string>
+    <string name="camera_snap_mode_title">Mod instantaneu</string>
+    <string name="camera_snap_mode_title_detail">Apăsați pentru a vizualiza detaliile</string>
     <string name="cannot_connect_camera_once">Nu se poate conecta la camera foto</string>
     <string name="cannot_connect_camera_twice">Încă nu se poate conecta la camera foto. Încercați să reporniți telefonul.</string>
     <string name="cannot_move_warning_message">Fotografiere, țineți dispozitivul nemişcat</string>
     <string name="confirm_location_alert">Înregistrare locaţie în fotografii</string>
     <string name="confirm_location_message">Înregistraţi locaţia în fotografiile captate?</string>
     <string name="confirm_location_title">Înregistraţi locaţia în fotografii?</string>
+    <string name="confirm_recording_fail_calling_alert">Nu se poate înregistra în timpul apelului.</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">O altă aplicație poate utiliza deja microfonul dispozitivului pentru a înregistra.</string>
+    <string name="confirm_recording_fail_title">Nu se poate înregistra</string>
     <string name="confirm_restore_message">Restabiliţi setările prestabilite ale camerei?</string>
     <string name="confirm_restore_title">Restabiliţi setările prestabilite</string>
     <string name="dialog_ok">OK</string>
@@ -142,6 +147,7 @@
     <string name="pref_camera_focusmode_entry_manual">Manual</string>
     <string name="pref_camera_focusmode_entry_normal">Standard</string>
     <string name="pref_camera_focusmode_title">Mod focus</string>
+    <string name="pref_camera_gradienter_title">Gradient</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="pref_camera_hdr_entry_auto">Automat</string>
     <string name="pref_camera_hdr_entry_live">Live</string>
@@ -178,6 +184,9 @@
     <string name="pref_camera_multilevel_entry_middle">Mediu (prestabilit)</string>
     <string name="pref_camera_multilevel_entry_normal">Normal</string>
     <string name="pref_camera_panoramamode_title">Panoramă</string>
+    <string name="pref_camera_peak_entry_off">Dezactivată</string>
+    <string name="pref_camera_peak_entry_on">Activată</string>
+    <string name="pref_camera_peak_title">Focusare maximă</string>
     <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
     <string name="pref_camera_picture_format_entry_raw">RAW</string>
     <string name="pref_camera_picturesize_entry_1024x768">0.8M(1024x768)</string>
@@ -233,6 +242,8 @@
     <string name="pref_camera_skinToneEnhancement_entry_auto">Îmbunătăţire automată</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Dezactivată</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Activată</string>
+    <string name="pref_camera_snap_enable_summary">Atunci când ecranul este oprit, apăsați și țineți apăsat butonul Volum ▼ pentru a intra în modul instantaneu. Apăsați-l din nou pentru a face o fotografie.</string>
+    <string name="pref_camera_snap_enable_title">Mod instantaneu</string>
     <string name="pref_camera_sound_title">Sunete cameră</string>
     <string name="pref_camera_touchafaec_entry_off">Dezactivată</string>
     <string name="pref_camera_touchafaec_entry_on">Activată</string>
@@ -313,6 +324,7 @@
     <string name="simple_mode_button_text_delay_capture">Dezactivaţi temporizatorul</string>
     <string name="simple_mode_button_text_face_beauty">Dezactivaţi înfrumusețarea</string>
     <string name="simple_mode_button_text_fast_video">Dezactivaţi mişcarea lentă</string>
+    <string name="simple_mode_button_text_gradienter">Dezactivare Gradient</string>
     <string name="simple_mode_button_text_hand_night">Dezactivaţi modul nocturn</string>
     <string name="simple_mode_button_text_hdr">Dezactivaţi modul HDR</string>
     <string name="simple_mode_button_text_manual">Dezactivaţi modul manual</string>
@@ -336,16 +348,4 @@
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="wait">O secundă…</string>
-    <string name="pref_camera_peak_title">Focusare maximă</string>
-    <string name="pref_camera_peak_entry_off">Dezactivată</string>
-    <string name="pref_camera_peak_entry_on">Activată</string>
-    <string name="pref_camera_gradienter_title">Gradient</string>
-    <string name="simple_mode_button_text_gradienter">Dezactivare Gradient</string>
-    <string name="confirm_recording_fail_calling_alert">Nu se poate înregistra în timpul apelului.</string>
-    <string name="confirm_recording_fail_recorder_busy_alert">O altă aplicație poate utiliza deja microfonul dispozitivului pentru a înregistra.</string>
-    <string name="confirm_recording_fail_title">Nu se poate înregistra</string>
-    <string name="camera_snap_mode_title">Mod instantaneu</string>
-    <string name="camera_snap_mode_title_detail">Apăsați pentru a vizualiza detaliile</string>
-    <string name="pref_camera_snap_enable_summary">Atunci când ecranul este oprit, apăsați și țineți apăsat butonul Volum ▼ pentru a intra în modul instantaneu. Apăsați-l din nou pentru a face o fotografie.</string>
-    <string name="pref_camera_snap_enable_title">Mod instantaneu</string>
 </resources>

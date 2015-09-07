@@ -96,7 +96,7 @@
     <string name="call_recording_error_sd_unmounted">Înregistrare oprită: cardul SD a fost eliminat</string>
     <string name="call_recording_error_start_failed">Recorder-ul este utilizat de către altă aplicație</string>
     <string name="call_recording_error_unknown">A apărut o eroare necunoscută</string>
-    <string name="call_settings">Setări apel</string>
+    <string name="call_settings">Telefon</string>
     <string name="call_title_redialing_with_times">Reapelat de %d ori</string>
     <string name="caller_manage_header">Teleconferinţă %s</string>
     <string name="caller_manage_manage_done_text">Înapoi la apel</string>

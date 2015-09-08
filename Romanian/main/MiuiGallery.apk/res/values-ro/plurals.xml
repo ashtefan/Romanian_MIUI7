@@ -128,4 +128,28 @@
         <item quantity="other">%1$d zile</item>
         <item quantity="one">%1$d zi</item>
     </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d imagini de încărcat</item>
+        <item quantity="one">O imagine de încărcat</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videoclipuri de încărcat</item>
+        <item quantity="one">Un videoclip de încărcat</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d videoclipuri şi imagini de încărcat</item>
+        <item quantity="one">Un videoclip şi o imagine de încărcat</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Se încarcă %1$d imagini…</item>
+        <item quantity="one">Se încarcă o imagine…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Se încarcă %1$d videoclipuri…</item>
+        <item quantity="one">Se încarcă un videoclip…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Se încarcă %1$d videoclipuri şi imagini…</item>
+        <item quantity="one">Se încarcă un videoclip şi o imagine…</item>
+    </plurals>
 </resources>

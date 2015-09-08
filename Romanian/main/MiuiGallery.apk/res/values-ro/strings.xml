@@ -66,15 +66,16 @@
     <string name="apply">Aplicaţi</string>
     <string name="appwidget_empty_text">Nicio fotografie</string>
     <string name="appwidget_title">Galerie foto</string>
+    <string name="associate_face_album">Selectaţi un album</string>
     <string name="auto">Automat</string>
     <string name="auto_create_recent_album">Creare automată albume favorite</string>
     <string name="auto_create_recent_album_confirm">Galeria va șterge datele albumelor favorite. Favoritele marcate manual nu vor fi afectate.</string>
     <string name="auto_create_recent_album_over_ten_times">Un album va fi marcat ca Favorit în mod automat după ce va fi deschis de mai mult de 10 ori</string>
+    <string name="auto_update_face">Se adaugă fotografii în mod automat</string>
+    <string name="auto_update_face_summary">Se potrivesc și se adaugă în mod automat fotografii la albumul copilului</string>
+    <string name="auto_update_off">Dezactivat</string>
+    <string name="auto_update_on">Activat</string>
     <string name="auto_upload_album_comfirm_to_share">Acest album va fi sincronizat în mod automat.</string>
-    <string name="auto_upload_face">Adăugare fotografii în mod automat</string>
-    <string name="auto_upload_face_summary">Se potrivesc în mod automat și se adaugă fotografiile în albumul copilului</string>
-    <string name="auto_upload_face_summary_with_people_name_when_off">Adăugaţi fotografiile \"%1$s\" în acest album în mod automat</string>
-    <string name="auto_upload_face_summary_with_people_name_when_on">Adăugaţi fotografiile \"%1$s\" în acest album în mod automat</string>
     <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
     <string name="auto_upload_guide_title">Sincronizare fotografii cu Mi Cloud</string>
     <string name="auto_upload_title">Sincronizare automată</string>
@@ -446,6 +447,8 @@
     <string name="mtxx">MTXX</string>
     <string name="multiface_crop_help">Atingeţi o faţă pentru a începe</string>
     <string name="must_pick_file">Selectaţi o imagine</string>
+    <string name="name_wrong">Nu este %s</string>
+    <string name="need_to_turn_on_sync">Apăsaţi pentru a activa Mi Cloud</string>
     <string name="negative">Negativ</string>
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
     <string name="network_connected_rescan">Nu se poate conecta la reţea</string>
@@ -675,6 +678,7 @@
     <string name="sync_album_summary">Sincronizare cu Mi Cloud</string>
     <string name="sync_history_power_on">Sincronizaţi istoricul imaginilor doar atunci când telefonul se încarcă</string>
     <string name="sync_in_progress_message">Sincronizare…</string>
+    <string name="sync_ok">sincronizat</string>
     <string name="sync_only_in_wifi">Sincronizaţi doar prin Wi-Fi</string>
     <string name="sync_only_in_wifi_alert">Dezactivarea acestei opțiuni poate crește utilizarea datelor mobile.</string>
     <string name="sync_only_in_wifi_summary">Nu se utilizează niciodată datele mobile pentru a sincroniza fotografiile</string>

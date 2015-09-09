@@ -5,7 +5,25 @@
     <string name="adding_upload_tasks">Adăugare sarcini…</string>
     <string name="already_signin_description">Sunteţi conectat deja</string>
     <string name="app_name">Explorer fişiere</string>
+    <string name="app_name_bluetooth">Bluetooth</string>
+    <string name="app_name_camera">Cameră</string>
+    <string name="app_name_downloadedrom">Pachete</string>
+    <string name="app_name_downloads">Descărcări</string>
+    <string name="app_name_market">Magazin aplicaţii</string>
+    <string name="app_name_midrop">Mi Drop</string>
+    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miuimusic">Muzică</string>
+    <string name="app_name_miuiringtone">Tonuri de apel</string>
+    <string name="app_name_miuiwallpaper">Imagini de fundal</string>
+    <string name="app_name_screenshot">Capturi de ecran</string>
     <string name="background">Ascundeţi</string>
+    <string name="backup_cancel">Nu, mulţumesc</string>
+    <string name="backup_confirm">Creare copie de rezervă</string>
+    <string name="backup_success_cancel">OK</string>
+    <string name="backup_success_confirm">Vizualizaţi</string>
+    <string name="backup_success_message">Rezervat în %1$s</string>
+    <string name="backup_success_title">Rezervat</string>
+    <string name="backup_title">Copii de rezervă WeChat video</string>
     <string name="big5_summary">Codare prestabilită în Chineză Tradiţională Windows</string>
     <string name="bind_account">Sincronizare cont existent</string>
     <string name="bind_account_summary">Sincronizaţi contul KuaiPan existent cu contul dvs. Mi</string>
@@ -43,6 +61,7 @@
     <string name="confirm">Confirmaţi</string>
     <string name="confirm_know">OK</string>
     <string name="connect_network_setting_des">Aminteşte-mi la accesarea reţelei</string>
+    <string name="connection_error">Nu s-a putu conecta</string>
     <string name="copy_failed">Copiere eşuată</string>
     <string name="copy_file_to_kuaipan">Copiaţi fişierul în Kuaipan</string>
     <string name="create_kuaipan_shortcut_pref">Adăugaţi comandă rapidă pe ecranul de pornire</string>
@@ -115,6 +134,9 @@
     <string name="gbk_summary">Codare prestabilită în Chineză Simplificată Windows</string>
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">GO</string>
+    <string name="group_title_extra_backup">Copii de rezervă</string>
+    <string name="group_title_extra_expire">Expiră în curând</string>
+    <string name="group_title_extra_new">Nou</string>
     <string name="instruction">Introduceți următoarea adresă într-un client FTP:</string>
     <string name="instruction_pre">Atingeţi pentru a porni serverul FTP</string>
     <string name="kilobyteShort">KO</string>
@@ -189,6 +211,7 @@
     <string name="no_wifi_hint">Nicio conexiune</string>
     <string name="notif_server_starting">Pornire server FTP…</string>
     <string name="notif_title">Serverul FTP rulează</string>
+    <string name="notification_content_hint">Apăsaţi pentru a vizualiza</string>
     <string name="online_not_support">Nu se poate vizualiza acest fișier on-line în acest moment.</string>
     <string name="open_changed_file_message">"Fișierul pe care încercați să-l deschideți a fost modificat. Vă rugăm să:
 1. Descărcați din nou fișierul pentru a-l actualiza.
@@ -277,6 +300,7 @@
     <string name="tab_local">Local</string>
     <string name="tab_path">DOSARE</string>
     <string name="terabyteShort">TO</string>
+    <string name="title_expire_video">Expiră în curând</string>
     <string name="toast_file_not_can_read">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
     <string name="tools">INSTRUMENTE</string>
     <string name="trans_task">Transfer în reţea</string>
@@ -350,7 +374,7 @@
     <string name="tab_more">Mai multe</string>
     <string name="tab_source">APLICAŢII</string>
     <string name="title_more_source">Mai multe aplicaţii</string>
-    <string name="title_recent">RECENT</string>
+    <string name="title_recent">Recent</string>
     <string name="wechat_video">Video la %s</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="month_day_format">dd MMMM</string>

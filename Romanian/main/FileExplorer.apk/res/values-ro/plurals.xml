@@ -128,4 +128,27 @@
         <item quantity="few">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
         <item quantity="many">Au fost recepţionate %1$d fişiere ale aplicaţiei %2$s</item>
     </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
+        <item quantity="zero">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
+        <item quantity="one">A fost recepţionat %1$d fişier al aplicaţiei WeChat</item>
+        <item quantity="two">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
+        <item quantity="few">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
+        <item quantity="many">Au fost recepţionate %1$d fişiere ale aplicaţiei WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
+        <item quantity="zero">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
+        <item quantity="one">%1$d fişier al aplicaţiei WeChat Video va expira</item>
+        <item quantity="two">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
+        <item quantity="few">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
+        <item quantity="many">%1$d fişiere ale aplicaţiei WeChat Video vor expira</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
+        <item quantity="zero">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
+        <item quantity="one">%1$d fişier video temporar al aplicaţiei WeChat va fi eliminat. Creaţi o copie de rezervă?</item>
+        <item quantity="two">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
+        <item quantity="few">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
+        <item quantity="many">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
 </resources>

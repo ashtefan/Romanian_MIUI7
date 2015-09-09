@@ -1093,4 +1093,5 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="in_call_show_guide_intro">"Înregistraţi un videoclip al profilului
 care va fi redat pe dispozitivele altor utilizatori MIUI atunci când îi apelați"</string>
     <string name="in_call_show_guide_title">Videoclip profil</string>
+    <string name="success_message_import_from_account">Import finalizat</string>
 </resources>

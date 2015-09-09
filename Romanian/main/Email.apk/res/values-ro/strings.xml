@@ -780,9 +780,10 @@ Atingeţi "<b>Sincronizaţi acum</b>, pentru a sincroniza acum mesajele de e-mai
     <string name="contextmenu_add">Adăugaţi la Contacte</string>
     <string name="contextmenu_create">Creaţi un contact nou</string>
     <string name="contextmenu_edit">Editaţi contactul</string>
-    <string name="get_database_exception">Bază de date anormală, eliminaţi datele în informaţiile aplicaţiei E-mail</string>
+    <string name="get_database_exception">Eliminaţi datele acestei aplicaţii în Setări > Aplicaţii de sistem şi încercaţi din nou.</string>
     <string name="share_choose">Selectaţi</string>
     <string name="account_setup_failed_too_many_partnerships">Conectare eşuată, numărul maxim de conexiuni pe server a fost atins.</string>
     <string name="outbox_alert_description_email_size_error">Dimesiunea maximă a aplicaţiei E-mail a fost astinsă.</string>
     <string name="outbox_alert_description_fail_authentication">Nume de utilizator sau parolă greşite.</string>
+    <string name="attachment_list_search_hint">Căutare ataşamente</string>
 </resources>

@@ -237,8 +237,8 @@
     <string name="menu_item_app_permissions_control">Gestionare permisiuni</string>
     <string name="menu_item_control_app_permissions">Se solicită acceptul înainte de a permite aplicațiilor să citească contactele dvs., să vizualizeze istoricul apelurilor, să schimbe setările de sistem sau să acceseze camera și alte resurse ale dispozitivului</string>
     <string name="menu_item_force_stop">Oprire forţată</string>
-    <string name="menu_item_notification_antispam_text_avail">Spam</string>
-    <string name="menu_item_notification_antispam_text_normal">Spam</string>
+    <string name="menu_item_notification_antispam_text_avail">Listă blocări</string>
+    <string name="menu_item_notification_antispam_text_normal">Listă blocări</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_garbage_text_error">Eroare</string>
     <string name="menu_item_notification_power_text">Energie</string>
@@ -260,7 +260,7 @@
     <string name="menu_text_networkassistants_danger">Peste: %s</string>
     <string name="menu_text_networkassistants_remain">Rămas: %s</string>
     <string name="menu_text_power_manager">Utilizare acumulator</string>
-    <string name="menu_text_power_percent">Disponibil: %s</string>
+    <string name="menu_text_power_percent">%s</string>
     <string name="month_report_activity_label">Raport lunar</string>
     <string name="month_report_click_reconnect_network">Încercaţi din nou</string>
     <string name="month_report_disconnect_tip">Nu se poate conecta la reţea</string>

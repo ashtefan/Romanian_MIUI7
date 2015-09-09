@@ -61,7 +61,7 @@
     <string name="confirm">Confirmaţi</string>
     <string name="confirm_know">OK</string>
     <string name="connect_network_setting_des">Aminteşte-mi la accesarea reţelei</string>
-    <string name="connection_error">Nu s-a putu conecta</string>
+    <string name="connection_error">Nu s-a putut conecta</string>
     <string name="copy_failed">Copiere eşuată</string>
     <string name="copy_file_to_kuaipan">Copiaţi fişierul în Kuaipan</string>
     <string name="create_kuaipan_shortcut_pref">Adăugaţi comandă rapidă pe ecranul de pornire</string>

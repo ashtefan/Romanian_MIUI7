@@ -151,4 +151,5 @@
         <item quantity="two">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
         <item quantity="few">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
         <item quantity="many">%1$d fişiere video temporare ale aplicaţiei WeChat vor fi eliminate. Creaţi o copie de rezervă?</item>
+    </plurals>
 </resources>

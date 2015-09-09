@@ -299,7 +299,7 @@
     <string name="permission_send_sms_descx">Aplicaţiile pot trimite mesaje SMS şi MMS</string>
     <string name="permission_with_SMS_and_MMS">Permisiuni legate de SMS şi MMS</string>
     <string name="permission_with_call_and_contact">Permisiuni legate de apelurile telefonice, informaţiile de contact și istoricul apelurilor.</string>
-    <string name="power_20s_enter_mode">Peste %1$d s acumulator se comută la: %2$s</string>
+    <string name="power_20s_enter_mode">Peste %1$d s se comută la: %2$s</string>
     <string name="power_20s_shutdown">Dispozitivul se va închide peste 20 de secunde</string>
     <string name="power_apply_toast">Comutat la: %s</string>
     <string name="power_bluetooth">Bluetooth</string>

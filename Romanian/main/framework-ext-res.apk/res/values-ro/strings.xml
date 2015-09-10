@@ -46,8 +46,8 @@
     <string name="permdesc_manageLocationPolicy">Permite aplicației să gestioneze politicile de localizare și să definească norme specifice aplicaţiilor.</string>
     <string name="permlab_manageLocationPolicy">Gestionare politică de locație</string>
     <string name="reboot_confirm_title">Telefonul dvs. va reporni.</string>
-    <string name="reboot_info_auto_boot">Telefonul dvs. va porni la %s ca urmare a programării pornirii automate</string>
-    <string name="reboot_info_shutdown_alarm">Telefonul dvs. va porni şi va suna alarma la %s</string>
+    <string name="reboot_info_auto_boot">Telefonul dvs. va porni la %s conform setărilor de pornire automată</string>
+    <string name="reboot_info_shutdown_alarm">Telefonul dvs. va porni iar alarma va suna la %s</string>
     <string name="reboot_progress">Repornire…</string>
     <string name="replace">Înlocuire</string>
     <string name="screen_button_disabled_message">Butoanele de navigare sunt dezactivate. Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>

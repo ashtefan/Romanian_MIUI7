@@ -707,8 +707,8 @@ Vă recomandăm să utilizaţi „Selectare automată”, dar puteţi şi să se
     <string name="notification_voicemail_title_count">Mesaj vocal nou (%d)</string>
     <string name="number">Număr</string>
     <string name="ok">OK</string>
-    <string name="oldPin2Label">Codul PIN2 vechi</string>
-    <string name="oldPinLabel">Codul PIN vechi</string>
+    <string name="old_pin2_label">Codul PIN2</string>
+    <string name="old_pin_label">Codul PIN</string>
     <string name="old_password_label">Parolă veche (4 cifre)</string>
     <string name="onHold">În aşteptare</string>
     <string name="one_retry_left">1 reîncercare rămasă</string>
@@ -1297,7 +1297,7 @@ indisponibil"</string>
     <string name="not_supported_number_content">Pachetul de suplinire nu acceptă numere de servicii. Încercați să utilizaţi cartela SIM obişnuită pentru a apela. Operatorul dvs. vă va taxa pentru acest apel.</string>
     <string name="order_by_name">Alfabetic</string>
     <string name="order_by_recent">Frecvent utilizate</string>
-    <string name="order_id">"Identitate comandă: "</string>
+    <string name="order_id">Identitate comandă: %1$s</string>
     <string name="order_price">¥ %1$s</string>
     <string name="order_status_fail">Stare comandă: eşuată</string>
     <string name="order_status_successful">Stare comandă: finalizată</string>
@@ -1341,7 +1341,7 @@ indisponibil"</string>
     <string name="title_user_config">Activaţi cartela SIM</string>
     <string name="unable_dial_livetalk">Nu se poate finaliza apelul</string>
     <string name="use_history">Activitate</string>
-    <string name="use_history_duration_hour">%1$ h</string>
+    <string name="use_history_duration_hour">%1$ oră</string>
     <string name="use_history_duration_min">%1$s min</string>
     <string name="use_history_endtime">Finalizat: %1$s</string>
     <string name="use_history_starttime">Început: %1$s</string>

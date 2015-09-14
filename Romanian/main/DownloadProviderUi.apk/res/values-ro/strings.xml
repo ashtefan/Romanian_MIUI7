@@ -158,6 +158,8 @@
     <string name="privacy_tip_content">Utilizați acceleratorul Xunlei pentru a accelera descărcările? URL-ul de descărcare va fi încărcat pe serverele Xunlei. Contul Mi va fi, de asemenea, încărcat pentru a verifica dacă aveți abonamente active la acest serviciu.</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">Utilizați acceleratorul Xunlei?</string>
+    <string name="quit_btn">Ieşire</string>
+    <string name="rebind_btn">Adăugaţi din nou</string>
     <string name="recommend_downloading">Se descarcă…</string>
     <string name="recommend_failed">Eşuat</string>
     <string name="recommend_install">Instalaţi</string>
@@ -197,6 +199,8 @@
     <string name="third_web_filesize">Dimensiune</string>
     <string name="third_web_savepath">Locaţie</string>
     <string name="third_web_title">Salvaţi</string>
+    <string name="title_tips">Atenţie</string>
+    <string name="title_unbind_xunlei">Eliminaţi contul Xunlei</string>
     <string name="toast_xunlei_engine_open">Acceleratorul descărcărilor Xunlei este activat</string>
     <string name="turn_off_xunlei_message">Este posibil să scadă viteza de descărcare</string>
     <string name="turn_off_xunlei_tips">Acceleratorul descărcărilor Xunlei este dezactivat</string>
@@ -209,6 +213,8 @@
     <string name="vip_expire_show_info">Calitatea de membru Xunlei a expirat.</string>
     <string name="vip_expire_today_show_info">Calitatea de membru Xunlei a expirat.</string>
     <string name="vip_show_info">5 milioane de membri.\nSe accelerează descărcările pe toate dispozitivele.</string>
+    <string name="xiaomi_account_not_exist_message">Acest cont Mi nu există</string>
+    <string name="xunlei_account_has_unbind_message">Contul Xunlei a fost eliminat</string>
     <string name="xunlei_brand">Suport oferit de Xunlei</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">Activaţi</string>

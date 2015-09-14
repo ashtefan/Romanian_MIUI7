@@ -147,7 +147,7 @@
     <string name="notification_otg_trackball_out">Trackball deconnectat</string>
     <string name="notification_otg_unknow_in">Dispozitiv OTG conectat</string>
     <string name="notification_otg_unknow_out">Dispozitiv OTG deconectat</string>
-    <string name="notification_template_text">" are o notificare. Atingeți pentru a vizualiza."</string>
+    <string name="notification_template_text">Notificare nouă. Atingeți pentru a vizualiza.</string>
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">În apel</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>

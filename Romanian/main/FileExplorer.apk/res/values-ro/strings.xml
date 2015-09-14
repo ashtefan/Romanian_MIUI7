@@ -60,6 +60,7 @@
     <string name="compress_title">Creaţi o arhivă</string>
     <string name="confirm">Confirmaţi</string>
     <string name="confirm_know">OK</string>
+    <string name="confirm_clean">Curăţare</string>
     <string name="connect_network_setting_des">Aminteşte-mi la accesarea reţelei</string>
     <string name="connection_error">Nu s-a putut conecta</string>
     <string name="copy_failed">Copiere eşuată</string>
@@ -72,8 +73,13 @@
     <string name="data_capacity">Date %1$s</string>
     <string name="decompress_cancel">Anulaţi</string>
     <string name="decompress_confirm">Dezarhivaţi</string>
+    <string name="decompress_destination_error">Extragere eşuată: nu se pot extrage fişierele aici.</string>
+    <string name="decompress_encrypted_rar_not_supported">Fișierul criptat rar nu este acceptat.</string>
     <string name="decompress_fail">Dezarhivarea a eşuat: arhivă deteriorată sau un fișier cu același nume există deja.</string>
+    <string name="decompress_input_password">Introduceţi parola…</string>
+    <string name="decompress_password_error">Parolă greşită. Încercaţi din nou…</string>
     <string name="decompress_success">Dezarhivare finalizată</string>
+    <string name="decompress_title">Dezarhivaţi</string>
     <string name="decompress_to">Dezarhivaţi în…</string>
     <string name="decompress_to_here">Dezarhivaţi aici</string>
     <string name="delete_dialog_button">Ştergere</string>
@@ -289,6 +295,7 @@
     <string name="stay_awake_summary">Ecranul va fi activ permanent atunci când utilizaţi FTP</string>
     <string name="stay_awake_title">Ecranul activ permanent</string>
     <string name="stop_server">Opriţi serverul</string>
+    <string name="storage_info_detail">Disponibil: %1$s Total: %1$s</string>
     <string name="storage_internal">Stocare internă</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
@@ -301,6 +308,7 @@
     <string name="tab_path">DOSARE</string>
     <string name="terabyteShort">TO</string>
     <string name="title_expire_video">Expiră în curând</string>
+    <string name="title_select_volume">Selectaţi volumul</string>
     <string name="toast_file_not_can_read">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
     <string name="tools">INSTRUMENTE</string>
     <string name="trans_task">Transfer în reţea</string>
@@ -365,7 +373,6 @@
     <string name="can_not_send_with_too_many">Nu se pot trimite aşa multe elemente</string>
     <string name="kuaipan_delete_guide_des">Ștergeți ghidul?</string>
     <string name="archive_send_to">Trimitere…</string>
-    <string name="decompress_destination_error">Extragere eşuată: nu se pot extrage fişierele aici.</string>
     <string name="expand_all">Toate</string>
     <string name="group_title">%2$s din %1$s</string>
     <string name="sdcard">Card SD</string>

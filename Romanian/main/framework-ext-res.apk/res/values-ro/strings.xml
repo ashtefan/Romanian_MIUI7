@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="all_call_livetalk_enable">Utilizați pachete de suplinire pentru apeluri naționale și internaționale</string>
-    <string name="all_call_livetalk_remain_mins">Minute rămase: (%1$s naţionale) | %2$s (%3$s)</string>
+    <string name="all_call_livetalk_remain_mins">Minute rămase: (%1$s naţionale) | (%2$s %3$s)</string>
     <string name="alwaysUsePrompt">Se memorează această alegere</string>
     <string name="auto_start_warning_allow">Permiteţi</string>
     <string name="auto_start_warning_deny">Refuzaţi</string>
@@ -80,7 +80,7 @@
     <string name="status_bar_toggle_privacy_mode">Vizitator</string>
     <string name="status_bar_toggle_quiet_mode">Nu deranjaţi</string>
     <string name="status_bar_toggle_rotate">Rotire</string>
-    <string name="status_bar_toggle_screen_button">Dezactivare</string>
+    <string name="status_bar_toggle_screen_button">Butoane</string>
     <string name="status_bar_toggle_screenshot">Captură ecran</string>
     <string name="status_bar_toggle_sync">Sincronizare</string>
     <string name="status_bar_toggle_torch">Lanternă</string>

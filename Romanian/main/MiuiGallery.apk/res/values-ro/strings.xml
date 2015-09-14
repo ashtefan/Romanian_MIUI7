@@ -448,7 +448,9 @@
     <string name="multiface_crop_help">Atingeţi o faţă pentru a începe</string>
     <string name="must_pick_file">Selectaţi o imagine</string>
     <string name="name_wrong">Nu este %s</string>
-    <string name="need_to_turn_on_sync">Activaţi sincronizarea cu Mi Cloud acum.</string>
+    <string name="need_to_turn_on_network">Conectaţi-vă la internet</string>
+    <string name="need_to_turn_on_sync">"Activaţi sincronizarea cu Mi Cloud "</string>
+    <string name="need_to_turn_on_wlan">Conectaţi-vă la WiFi</string>
     <string name="negative">Negativ</string>
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
     <string name="network_connected_rescan">Nu se poate conecta la reţea</string>
@@ -471,6 +473,7 @@
     <string name="not_now">Nu acum</string>
     <string name="not_remind_any_more">Nu se afişează din nou</string>
     <string name="not_show_hidden_albums">Nu se afişează albumele ascunse</string>
+    <string name="number_of_uploading_finish">Toate fişierele au fost încărcate în Mi Cloud</string>
     <string name="old">Vintage</string>
     <string name="only_show_camera_in_first_page">Doar fotografii cameră</string>
     <string name="only_show_camera_in_first_page_summary">Se afişează numai fotografiile camerei din Mi Cloud</string>
@@ -676,9 +679,9 @@
     <string name="sync_album_in_proecess">Sincronizare album…</string>
     <string name="sync_album_set_error">Nu s-au putut sincroniza aceste albume. Verificaţi conexiunea de date şi încercați din nou.</string>
     <string name="sync_album_summary">Sincronizare cu Mi Cloud</string>
+    <string name="sync_cloud_space_full">Spaţiu insuficient în Cloud</string>
     <string name="sync_history_power_on">Sincronizaţi istoricul imaginilor doar atunci când telefonul se încarcă</string>
     <string name="sync_in_progress_message">Sincronizare…</string>
-    <string name="sync_ok">Sincronizat</string>
     <string name="sync_only_in_wifi">Sincronizaţi doar prin Wi-Fi</string>
     <string name="sync_only_in_wifi_alert">Dezactivarea acestei opțiuni poate crește utilizarea datelor mobile.</string>
     <string name="sync_only_in_wifi_summary">Nu se utilizează niciodată datele mobile pentru a sincroniza fotografiile</string>

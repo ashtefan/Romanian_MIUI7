@@ -323,6 +323,7 @@
     <string name="email_mobile">Trimiteţi un e-mail la un telefon mobil</string>
     <string name="email_other">Trimiteţi un e-mail</string>
     <string name="email_work">Trimiteţi un e-mail la adresa de e-mail de serviciu</string>
+    <string name="emergency_number_label">Număr de urgenţă</string>
     <string name="emptyGroup">Niciun contact în acest grup</string>
     <string name="empty_divider_title"></string>
     <string name="enter_contact_name">Introduceţi numele contactului</string>
@@ -956,8 +957,8 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="websiteLabelsGroup">Site web</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ştergeţi datele</string>
-    <string name="yellowPageNavigationIconLabel">Pagini aurii</string>
-    <string name="yellowPageNavigationLabel">Pagini aurii</string>
+    <string name="yellowPageNavigationIconLabel">Registru</string>
+    <string name="yellowPageNavigationLabel">Registru</string>
     <string name="yellowpage_navigation_clear_search_history">Goliţi istoricul</string>
     <string name="yellowpage_navigation_more_items">Mai multe</string>
     <string name="yellowpage_navigation_more_items_title">Mai multe servicii</string>
@@ -1064,7 +1065,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="miprofile_request_agenda_yesterday">%1$s vrea să facă schimb de cartele de contact</string>
     <string name="miprofile_request_agree">Acceptaţi</string>
     <string name="miprofile_request_agree_exchange_profile">Cartele de contact schimbate</string>
-    <string name="miprofile_request_agreed">%1$s a fost de acord să schimbe cartelele</string>
+    <string name="miprofile_request_agreed">%1$s a fost de acord să schimbe cartela de contact cu mine</string>
     <string name="miprofile_request_alertdialog_message">Cartela dvs. va fi trimisă în mod automat după ce această persoană acceptă.</string>
     <string name="miprofile_request_alertdialog_title">Schimbare cartele de contact</string>
     <string name="miprofile_request_clear_alertdialog_message">Ştergeţi istoricul schimbului cartelelor de contact?</string>
@@ -1094,4 +1095,5 @@ Cartelele de contact sunt dezactivate"</string>
 care va fi redat pe dispozitivele altor utilizatori MIUI atunci când îi apelați"</string>
     <string name="in_call_show_guide_title">Videoclip profil</string>
     <string name="success_message_import_from_account">Import finalizat</string>
+    <string name="in_call_show_preview_reshoot">Reîncercaţi</string>
 </resources>

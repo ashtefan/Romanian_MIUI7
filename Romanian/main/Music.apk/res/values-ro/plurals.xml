@@ -2,7 +2,7 @@
 <resources>
      <plurals name="NTrackstoDownload">
         <item quantity="other">%d melodii vor fi descărcate</item>
-        <item quantity="one">1 melodie va fi descărcată</item>
+        <item quantity="one">O melodie va fi descărcată</item>
      </plurals>
      <plurals name="Nexpired_remind">
         <item quantity="other">%d zile rămase</item>
@@ -12,18 +12,38 @@
         <item quantity="other">%d noi</item>
         <item quantity="one">1 nouă</item>
      </plurals>
+     <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Ştergeţi %d liste de redare?</item>
+        <item quantity="one">Ştergeţi %d listă de redare?</item>
+    </plurals>
      <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d melodii adăugate în lista de redare</item>
-        <item quantity="one">O melodie adăugată în lista de redare</item>
+        <item quantity="other">%d melodii au fost adăugate în lista de redare</item>
+        <item quantity="one">O melodie a fost adăugată în lista de redare</item>
      </plurals>
      <plurals name="Ntracks_count">
         <item quantity="other">%d melodii</item>
         <item quantity="one">%d melodie</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d melodii eliminate din lista de redare</item>
-        <item quantity="one">1 melodie eliminată din lista de redare</item>
+        <item quantity="other">%d melodii au fost eliminate din lista de redare</item>
+        <item quantity="one">O melodie a fost eliminată din lista de redare</item>
      </plurals>
+     â<plurals name="Nartists_count">
+        <item quantity="other">%d artişti</item>
+        <item quantity="one">%d artist</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d formaţii</item>
+        <item quantity="one">%d formaţie</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Ştergeţi %d melodii?</item>
+        <item quantity="one">Ştergeţi %d melodie?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Eliminaţi %d melodii?</item>
+        <item quantity="one">Eliminaţi %d melodie?</item>
+    </plurals>
      <plurals name="Ntracks_search_result">
         <item quantity="other">%d melodii găsite</item>
         <item quantity="one">%d melodie găsită</item>
@@ -34,18 +54,30 @@
      </plurals>
      <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d melodii</item>
-        <item quantity="one">1 melodie</item>
+        <item quantity="one">o melodie</item>
      </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Redarea se va opri peste %d minute</item>
+        <item quantity="one">Redarea se va opri peste %d minut</item>
+    </plurals>
      <plurals name="folder_songs_count">
         <item quantity="other">%d melodii</item>
-        <item quantity="one">1 melodie</item>
+        <item quantity="one">o melodie</item>
      </plurals>
      <plurals name="send_songs_toast">
         <item quantity="other">%d melodii vor fi trimise</item>
-        <item quantity="one">1 melodie va fi trimisă</item>
+        <item quantity="one">o melodie va fi trimisă</item>
      </plurals>
      <plurals name="Nnew_local_audios">
         <item quantity="other">%d melodii adăugate</item>
         <item quantity="one">%d melodie adăugată</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Melodii au fost adăugate la favorite.</item>
+        <item quantity="one">Melodie a fost adăugată la favorite.</item>
     </plurals>
 </resources>

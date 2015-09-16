@@ -24,7 +24,6 @@
     <string name="analog_gadget">Ceas analogic</string>
     <string name="app_label">Ceas</string>
     <string name="auto_silence_never">Niciodată</string>
-    <string name="auto_silence_summary">Dezactivarea alarmelor va avea loc după %d minute</string>
     <string name="auto_silence_title">Dezactivare automată a sunetului</string>
     <string name="battery_charging_level">%d %%</string>
     <string name="cancel">Anulaţi</string>

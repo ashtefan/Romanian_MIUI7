@@ -24,4 +24,12 @@
         <item quantity="other">Amânaţi pentru %d minute</item>
         <item quantity="one">Amânaţi pentru %d minut</item>
     </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Amânare pentru %d minute.</item>
+        <item quantity="one">Amânare pentru %d minut.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Dezactivarea alarmelor va avea loc după %d minute</item>
+        <item quantity="one">Dezactivarea alarmei va avea loc după %d minut</item>
+    </plurals>
 </resources>

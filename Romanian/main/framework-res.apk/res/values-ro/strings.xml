@@ -356,7 +356,9 @@
     <string name="permlab_readInputState">înregistrare a ceea ce tastaţi şi a operaţiunilor efectuate</string>
     <string name="permdesc_readInputState">Permite aplicaţiei să monitorizeze tastele pe care le apăsaţi când interacţionaţi cu o altă aplicaţie (cum ar fi introducerea unei parole). Nu ar trebui să fie niciodată necesară pentru aplicaţiile obişnuite.</string>
     <string name="permlab_bindInputMethod">conectare la o metodă de intrare</string>
+    <string name="permlab_bindJobService">se execută lucrul programat al aplicaţiei în fundal</string>
     <string name="permdesc_bindInputMethod">Permite proprietarului să se conecteze la interfaţa de nivel superior a unei metode de introducere. Nu ar trebui să fie niciodată necesară pentru aplicaţiile obişnuite.</string>
+    <string name="permdesc_bindJobService">Această permisiune permite sistemului Android să ruleze aplicația în fundal la solicitare.</string>
     <string name="permlab_bindAccessibilityService">conectare la un serviciu de accesibilitate</string>
     <string name="permdesc_bindAccessibilityService">Permite proprietarului să se conecteze la interfaţa de nivel superior a unui serviciu de accesibilitate. Nu ar trebui să fie niciodată necesară pentru aplicaţiile obişnuite.</string>
     <string name="permlab_bindPrintService">conectarea la un serviciu de printare</string>
@@ -766,10 +768,10 @@
     <string name="lockscreen_sim_puk_locked_instructions">Consultaţi Ghidul de utilizare sau contactaţi Serviciul de relaţii cu clienţii.</string>
     <string name="lockscreen_sim_locked_message">Cartela SIM este blocată.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Se deblochează cartela SIM...</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. 
+    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori.
 
 Încercaţi din nou peste %d secunde."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori. 
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori.
 
 Încercaţi din nou peste %d secunde."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Aţi introdus incorect codul PIN de %d ori.
@@ -1335,10 +1337,10 @@ Accesaţi "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Aţi introdus incorect codul PIN de %d ori.
 
 Încercaţi din nou peste %d secunde."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori. 
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Aţi introdus incorect parola de %d ori.
 
 Încercaţi din nou peste %d secunde."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. 
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori.
 
 Încercaţi din nou peste %d secunde."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator se vor pierde!</string>

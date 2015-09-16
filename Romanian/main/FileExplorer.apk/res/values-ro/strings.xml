@@ -55,7 +55,7 @@
     <string name="clean_trash_box">Goliți coșul de reciclare</string>
     <string name="cleaning">Curăţare…</string>
     <string name="close">Închideţi</string>
-    <string name="compress_fail">Crearea arhivei a eşuat: un fișier cu același nume există deja</string>
+    <string name="compress_fail">Comprimarea a eşuat. Un fișier cu același nume există deja</string>
     <string name="compress_message">Nume arhivă…</string>
     <string name="compress_title">Creaţi o arhivă</string>
     <string name="confirm">Confirmaţi</string>
@@ -73,11 +73,11 @@
     <string name="data_capacity">Date %1$s</string>
     <string name="decompress_cancel">Anulaţi</string>
     <string name="decompress_confirm">Dezarhivaţi</string>
-    <string name="decompress_destination_error">Extragere eşuată: nu se pot extrage fişierele aici.</string>
-    <string name="decompress_encrypted_rar_not_supported">Fișierul criptat rar nu este acceptat.</string>
-    <string name="decompress_fail">Dezarhivarea a eşuat: arhivă deteriorată sau un fișier cu același nume există deja.</string>
-    <string name="decompress_input_password">Introduceţi parola…</string>
-    <string name="decompress_password_error">Parolă greşită. Încercaţi din nou…</string>
+    <string name="decompress_destination_error">Nu se pot extrage fişierele în această locaţie.</string>
+    <string name="decompress_encrypted_rar_not_supported">Fișierele rar criptate nu sunt acceptate.</string>
+    <string name="decompress_fail">Dezarhivarea a eşuat. Arhivă deteriorată sau un fișier cu același nume există deja.</string>
+    <string name="decompress_input_password">Introduceţi parola</string>
+    <string name="decompress_password_error">Parolă greşită</string>
     <string name="decompress_success">Dezarhivare finalizată</string>
     <string name="decompress_title">Dezarhivaţi</string>
     <string name="decompress_to">Dezarhivaţi în…</string>
@@ -131,7 +131,7 @@
     <string name="ftp_account_req_notice">4~16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
     <string name="ftp_anonymous_login">Autentificare anonimă</string>
     <string name="ftp_invalid_username_or_password">Nume de utilizator sau parolă greşite</string>
-    <string name="ftp_open_port_error">Eroare deschidere port: verificați conexiunea la rețea sau resetaţi numărul portului.</string>
+    <string name="ftp_open_port_error">Nu s-a putut deschide portul. Verificați conexiunea la rețea sau resetaţi numărul portului.</string>
     <string name="ftp_password_hint">Parolă</string>
     <string name="ftp_port_number">Număr port</string>
     <string name="ftp_transfer_secure">Securitate</string>
@@ -150,7 +150,7 @@
     <string name="kuaipan_over_space">Spaţiu insuficient</string>
     <string name="kuaipan_prompt">Notă</string>
     <string name="kuaipan_prompt_message">"
- Din păcate, serverul nostru este deconectat pentru lucrări de întreținere în acest moment. Încercaţi din nou mai târziu
+ Serverul nostru este deconectat pentru lucrări de întreținere în acest moment. Încercaţi din nou mai târziu
 "</string>
     <string name="kuaipan_tech_support">Conectaţi-vă la kuaipan.cn</string>
     <string name="load_err">Eroare încărcare</string>
@@ -282,7 +282,7 @@
     <string name="share_box">Partajate</string>
     <string name="share_box_receive">Recepţionate</string>
     <string name="share_box_send">Trimise</string>
-    <string name="share_link_failed">Eroare la generarea link-ului</string>
+    <string name="share_link_failed">Nu s-a putut genera link-ul</string>
     <string name="show_message">Trebuie să descărcaţi acest fișier înainte de a-l putea deschide</string>
     <string name="sign_description">Conectare…</string>
     <string name="signin_error">Conectarea la server a eşuat. Verificați conexiunea la rețea.</string>

@@ -90,7 +90,7 @@
     <string name="baby_album_sharers_page_title">Distribuiţi familiilor</string>
     <string name="baby_birthday">Zi de naştere</string>
     <string name="baby_lock_wallpaper">Fundal blocare ecran</string>
-    <string name="baby_lock_wallpaper_at_least_one_selected">Selectaţi un album</string>
+    <string name="baby_lock_wallpaper_cancelled">Comutat la blocarea ecranului prestabilită</string>
     <string name="baby_lock_wallpaper_save_settings_msg">Aplicaţi setările actuale?</string>
     <string name="baby_lock_wallpaper_title">Utilizați fotografiile copiilor ca fundal al blocării ecranului</string>
     <string name="baby_name_cannot_empty">Introduceţi numele</string>
@@ -121,6 +121,7 @@
     <string name="camera_setas_wallpaper">Imagine de fundal</string>
     <string name="camera_view_none_message">Fotografiile şi videoclipurile captate cu aplicaţia Cameră se vor afişa aici.</string>
     <string name="cancel">Anulaţi</string>
+    <string name="cancel_baby_lock_wallpaper_confirm_msg">Anulaţi afişarea imaginilor copilului ca fundal şi comutaţi la blocarea ecranului prestabilită?</string>
     <string name="cancel_hint">Operaţiune anulată</string>
     <string name="cannot_delete_sharer_photo">Imposibil de şters %s elemente adăugate de alţi membri.</string>
     <string name="cannot_remove_creator">Nu se poate elimina creatorul</string>
@@ -324,6 +325,7 @@
     <string name="group_by_time">După oră</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="height">Înălţime</string>
+    <string name="hidden_album_display_name">Album ascuns</string>
     <string name="highlight">Luminozitate</string>
     <string name="highlight_abbr">L</string>
     <string name="home_my_captured_items">" fotografii"</string>
@@ -620,6 +622,10 @@
     <string name="send_public_url">Trimiteţi URL album</string>
     <string name="sepia">Sepia</string>
     <string name="set_as_baby_lock_wallpaper">Setaţi ca imagine de fundal a blocării ecranului</string>
+    <string name="set_baby_icon_picker_default_title">Setaţi pictograma copilului</string>
+    <string name="set_bg_file_exist_message">Conflict între numele fotografiilor</string>
+    <string name="set_bg_picker_default_title">Setaţi miniatura de copertă</string>
+    <string name="set_bg_unknow_reasons">Eroare necunsocută</string>
     <string name="set_hidden_album">Ascundeţi albumul</string>
     <string name="set_label_all_albums">Toate albumele</string>
     <string name="set_label_local_albums">Off-line</string>

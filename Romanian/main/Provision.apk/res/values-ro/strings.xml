@@ -49,5 +49,5 @@ Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialita
     <string name="user_agreement">Condiții de utilizare</string>
     <string name="welcome">Bine aţi venit</string>
     <string name="sim_card_detecting_title">Verificaţi cartela SIM</string>
-    <string name="skip_underline">&lt;u&gt;Omiteţi acest pas&lt;/u&gt;</string>
+    <string name="skip_underline"><u>Omiteţi acest pas</u></string>
 </resources>

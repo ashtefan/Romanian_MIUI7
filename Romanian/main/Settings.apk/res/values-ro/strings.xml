@@ -323,7 +323,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">O aplicaţie încearcă să facă telefonul detectabil pt. alte dispozitive Bluetooth. Puteţi modifica aceasta mai târziu în setările Bluetooth.</string>
     <string name="bluetooth_ask_lasting_discovery">O aplicaţie încearcă să facă telefonul detectabil pt. alte dispozitive Bluetooth. Puteţi modifica aceasta mai târziu în setările Bluetooth.</string>
     <string name="bluetooth_auto_connect">Conectare automată</string>
-    <string name="bluetooth_confirm_passkey_msg">Pentru asocierea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>asiguraţi-vă că se afişează această cheie de acces:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_confirm_passkey_msg">Pentru asocierea cu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;asiguraţi-vă că se afişează această cheie de acces:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
     <string name="bluetooth_connect_specific_profiles_title">Conectaţi-vă la…</string>
     <string name="bluetooth_connected">Conectat</string>
     <string name="bluetooth_connected_no_a2dp">Conectat (fără conţinut media)</string>
@@ -353,7 +353,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="bluetooth_device_name">Nume dispozitiv</string>
     <string name="bluetooth_device_searchable">Detectare activată</string>
     <string name="bluetooth_devices">Dispozitive Bluetooth</string>
-    <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>de pe:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;de pe:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
     <string name="bluetooth_disable_profile_title">Dezactivaţi profilul?</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s va fi deconectat de la media audio.</string>
     <string name="bluetooth_disconnect_all_profiles">Astfel se va încheia conexiunea cu:&lt;br>&lt;b>%1$s&lt;/b></string>
@@ -364,7 +364,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="bluetooth_disconnect_title">Deconectaţi?</string>
     <string name="bluetooth_disconnected">Deconectat</string>
     <string name="bluetooth_disconnecting">În curs de deconectare…</string>
-    <string name="bluetooth_display_passkey_pin_msg">Pentru împerecherea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Introduceţi pe acesta:&lt;br>&lt;b>%2$s&lt;/b>, apoi apăsaţi tasta Return sau Enter.</string>
+    <string name="bluetooth_display_passkey_pin_msg">Pentru împerecherea cu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Introduceţi pe acesta:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, apoi apăsaţi tasta Return sau Enter.</string>
     <string name="bluetooth_dock_settings">Setări de andocare</string>
     <string name="bluetooth_dock_settings_a2dp">Pentru muzică şi fişiere media</string>
     <string name="bluetooth_dock_settings_headset">Ca difuzor</string>
@@ -373,16 +373,16 @@ Activați ferestrele plutitoare?"</string>
     <string name="bluetooth_empty_list_bluetooth_off">Pentru a vedea dispozitivele, activaţi Bluetooth.</string>
     <string name="bluetooth_enable">Activaţi Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">Codul PIN conţine litere sau simboluri</string>
-    <string name="bluetooth_enter_passkey_msg">Pentru împerecherea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Introduceţi cheia de acces necesară a dispozitivului:</string>
+    <string name="bluetooth_enter_passkey_msg">Pentru împerecherea cu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Introduceţi cheia de acces necesară a dispozitivului:</string>
     <string name="bluetooth_enter_passkey_other_device">Ar putea fi necesar, de asemenea, să introduceţi această parolă pe celălalt dispozitiv.</string>
-    <string name="bluetooth_enter_pin_msg">Pentru împerecherea cu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Introduceţi codul PIN necesar al dispozitivului:</string>
+    <string name="bluetooth_enter_pin_msg">Pentru împerecherea cu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Introduceţi codul PIN necesar al dispozitivului:</string>
     <string name="bluetooth_enter_pin_other_device">Ar putea fi necesar, de asemenea, să introduceţi acest cod PIN şi pe celălalt dispozitiv.</string>
     <string name="bluetooth_error_title" />
     <string name="bluetooth_headset_profile_summary_connected">Conectat la componenta audio a telefonului</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizaţi pentru componenta audio a telefonului</string>
     <string name="bluetooth_hid_profile_summary_connected">Conectat la dispozitivul de intrare</string>
     <string name="bluetooth_hid_profile_summary_use_for">Utilizaţi pentru introducere date</string>
-    <string name="bluetooth_incoming_pairing_msg">Notificare de la:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Asociaţi cu acest dispozitiv?</string>
+    <string name="bluetooth_incoming_pairing_msg">Notificare de la:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Asociaţi cu acest dispozitiv?</string>
     <string name="bluetooth_is_discoverable">Vizibil pt. dispoz. Bluetooth din aprop. (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Vizibil pt. toate disp. Bluetooth din apropiere</string>
     <string name="bluetooth_lock_voice_dialing">Blocaţi apelarea vocală</string>
@@ -2204,7 +2204,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="strict_mode_summary">Ilum. intermit. la operaţiuni lungi pe firul princ.</string>
     <string name="sum_carrier_select">Selectaţi un operator de reţea</string>
     <string name="summary_font_size">%1$s</string>
-    <string name="supl_not_set">&lt;Nu este setat></string>
+    <string name="supl_not_set">&lt;Nu este setat&gt;</string>
     <string name="supplicant_state_label">Stare supplicant:</string>
     <string name="symbols_not_allowed_for_password">Parola nu poate conține simboluri</string>
     <string name="sync_active">Sincronizare activă</string>

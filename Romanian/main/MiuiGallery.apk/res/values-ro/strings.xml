@@ -76,7 +76,7 @@
     <string name="auto_update_off">Dezactivat</string>
     <string name="auto_update_on">Activat</string>
     <string name="auto_upload_album_comfirm_to_share">Acest album va fi sincronizat în mod automat.</string>
-    <string name="auto_upload_guide_msssage">" "<Data> Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. </Data>" "</string>
+    <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Sincronizare automată a fotografiilor din alte aplicații cu Mi Cloud. Puteți activa sau dezactiva această caracteristică oricând în &lt;font color=#323232>&lt;b>Setări Galerie > Sincronizare cu Mi Cloud > Sincronizare automată&lt;/b>&lt;/font>. &lt;/Data&gt;" "</string>
     <string name="auto_upload_guide_title">Sincronizare fotografii cu Mi Cloud</string>
     <string name="auto_upload_title">Sincronizare automată</string>
     <string name="autofix">Reparare automată</string>

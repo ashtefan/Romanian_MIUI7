@@ -15,7 +15,7 @@
     <string name="search_go">Căutaţi</string>
     <string name="selectAll">Selectaţi-le pe toate</string>
     <string name="unknownName">(Necunoscut)</string>
-    <string name="untitled">&lt;Fără titlu></string>
+    <string name="untitled">&lt;Fără titlu&gt;</string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Nu puteţi reda acest videoclip</string>
     <string name="VideoView_error_title">Problemă video</string>

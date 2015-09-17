@@ -253,7 +253,7 @@
     <string name="deactivate_all">Revocare totală</string>
     <string name="default_area_code_setting">Prefix prestabilit</string>
     <string name="default_areacode">Prefix prestabilit</string>
-    <string name="default_preference_summary">&lt;Nesetat></string>
+    <string name="default_preference_summary">&lt;Nesetat&gt;</string>
     <string name="delete">Ştergeţi</string>
     <string name="deleteAllSimEntries">Ştergeţi toate contactele de pe SIM</string>
     <string name="deleteSimContacts">Ştergere…</string>
@@ -300,7 +300,7 @@
     <string name="disable_fdn_ok">Activaţi FDN</string>
     <string name="disable_pin_ok">Codul PIN al cartelei SIM este dezactivat.</string>
     <string name="disable_sim_pin">Dezactivaţi codul PIN al cartelei SIM</string>
-    <string name="display_name_summary">&lt;Identic cu numele de utilizator></string>
+    <string name="display_name_summary">&lt;Identic cu numele de utilizator&gt;</string>
     <string name="display_name_title">Numele afişat</string>
     <string name="do_not_ask">Nu se întreabă din nou</string>
     <string name="dm_lock">DM blocat</string>
@@ -728,7 +728,7 @@ Vă recomandăm să utilizaţi „Selectare automată”, dar puteţi şi să se
     <string name="onscreenSwapCallsText">Schimbaţi</string>
     <string name="onscreenVideoCallText">Apel video</string>
     <string name="open_miui">Deschideţi</string>
-    <string name="optional_summary">&lt;Opţional></string>
+    <string name="optional_summary">&lt;Opţional&gt;</string>
     <string name="ota_activate">Activaţi</string>
     <string name="ota_call_end">Înapoi</string>
     <string name="ota_failure">Programarea nu a reuşit</string>
@@ -1118,7 +1118,7 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="voicemail_notification_ringtone_title">Sunet</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibraţii</string>
     <string name="voicemail_notification_vibrate_when_title">Vibraţii</string>
-    <string name="voicemail_number_not_set">&lt;Nesetat></string>
+    <string name="voicemail_number_not_set">&lt;Nesetat&gt;</string>
     <string name="voicemail_provider">Servicii</string>
     <string name="voicemail_provider_summary">Alegeţi serviciul de mesagerie vocală</string>
     <string name="voicemail_settings">Configurare mesagerie vocală</string>

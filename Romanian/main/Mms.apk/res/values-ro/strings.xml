@@ -178,7 +178,7 @@
     <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alte tipuri de conţinut</string>
     <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
     <string name="guild_msim_switcher">Atingeți pentru a comuta cartelele SIM</string>
-    <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s></string>
+    <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s&gt;</string>
     <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
     <string name="hint_search_sms">%d mesaje</string>
     <string name="hms_add_image_progress_message">În lucru…</string>

@@ -100,7 +100,7 @@
     <string name="hints_garbage_cleanup_result_safe">Totul arată bine</string>
     <string name="hints_garbage_handle_item_content">%1$d elemente, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Gol</string>
-	<string name="hints_install_apps_else">Utilizat %s</string>
+    <string name="hints_install_apps_else">Utilizat %s</string>
     <string name="hints_install_apps_interval">Utilizată cu %d zile în urmă</string>
     <string name="hints_install_apps_new">Nu a fost deschisă</string>
     <string name="hints_install_apps_risk">risc detectat</string>

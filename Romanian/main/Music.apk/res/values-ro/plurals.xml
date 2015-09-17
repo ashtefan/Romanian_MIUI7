@@ -28,7 +28,7 @@
         <item quantity="other">%d melodii au fost eliminate din lista de redare</item>
         <item quantity="one">O melodie a fost eliminată din lista de redare</item>
      </plurals>
-     â<plurals name="Nartists_count">
+     <plurals name="Nartists_count">
         <item quantity="other">%d artişti</item>
         <item quantity="one">%d artist</item>
     </plurals>

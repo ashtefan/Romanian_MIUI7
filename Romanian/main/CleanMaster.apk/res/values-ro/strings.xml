@@ -52,7 +52,7 @@
     <string name="clean_content_two">2 elemente</string>
     <string name="clean_content_zero">Nimic</string>
     <string name="confirm_auto_cleaner">OK</string>
-    <string name="deepclean_app_content">Dezinstalarea aplicațiilor care nu au fost utilizate timp de 7 zile</string>
+    <string name="deepclean_app_content">Dezinstalarea aplicațiilor care nu au fost utilizate timp de 30 de zile</string>
     <string name="deepclean_cache_content">Curăţare date generate de aplicații</string>
     <string name="deepclean_cache_header_left">Fişiere de date: %d</string>
     <string name="deepclean_large_content">Ștergeţi fișierele mai mari de 10 MO</string>
@@ -100,6 +100,7 @@
     <string name="hints_garbage_cleanup_result_safe">Totul arată bine</string>
     <string name="hints_garbage_handle_item_content">%1$d elemente, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Gol</string>
+	<string name="hints_install_apps_else">Utilizat %s</string>
     <string name="hints_install_apps_interval">Utilizată cu %d zile în urmă</string>
     <string name="hints_install_apps_new">Nu a fost deschisă</string>
     <string name="hints_install_apps_risk">risc detectat</string>
@@ -160,7 +161,7 @@
     <string name="pref_summary_garbage_cleanup_check_time">Programarea unei rutine de curăţare</string>
     <string name="pref_summary_garbage_process_mode">Setaţi notificări pentru curăţarea în curs</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Se încarcă și se compară denumirile fișierelor necunoscute cu definițiile on-line</string>
-    <string name="pref_summary_open_optimizer_memory_scan">Verificare automată și curățare memorie</string>
+    <string name="pref_summary_open_optimizer_memory_scan">Se selectează în mod automat aplicaţiile ce vor fi curăţate</string>
     <string name="pref_title_auto_clean_and_alert">Curăţare automată</string>
     <string name="pref_title_auto_clean_content_choose">Selectaţi elementele pentru curățare</string>
     <string name="pref_title_auto_update_cleanup_db">Actualizare automată</string>

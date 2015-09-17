@@ -52,7 +52,7 @@
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_size">Dimensiune</string>
     <string name="miui_device_name">Android</string>
-    <string name="name_model">%2$s ale %1$s</string>
+    <string name="name_model">%2$s al lui %1$s</string>
     <string name="open_wifi">>Porniți Wi-Fi acum</string>
     <string name="open_wifi_description">Conectaţi-vă la o rețea Wi-Fi pentru a restabili aplicațiile</string>
     <string name="open_wifi_setting">Setări Wi-Fi</string>

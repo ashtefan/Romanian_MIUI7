@@ -93,7 +93,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="virus_scan_install"><u>Instalaţi oricum</u></string>
     <string name="virus_scan_is_risk">Această aplicație reprezintă un risc pentru securitatea dispozitivului.</string>
     <string name="virus_scan_is_virus">Această aplicație conține un virus.</string>
-    <string name="dlg_appstore_notice">Obțineţi această aplicație de la &lt;u&gt;&lt;font color=#91c727&gt;Magazin aplicaţii&lt;/font&gt;&lt;/u&gt;</string>
+    <string name="dlg_appstore_notice">"Obțineţi această aplicație de la &lt;u&gt;&lt;font color=#91c727&gt;Magazin aplicaţii&lt;/font&gt;&lt;/u&gt;"</string>
     <string name="lift_ban_once">Permiteți o dată</string>
     <string name="activity_package_delete_confirm_title">Avertizare importantă</string>
     <string name="button_text_cancel">Anulaţi</string>

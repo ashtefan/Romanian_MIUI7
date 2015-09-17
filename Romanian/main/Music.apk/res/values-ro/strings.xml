@@ -47,7 +47,7 @@
     <string name="cancel">Anulaţi</string>
     <string name="channel_list_fragment_title">Radio</string>
     <string name="chinese_female">Cântăreţe din China</string>
-    <string name="chinese_group">Combinații de chinezi</string>
+    <string name="chinese_group">Combinații din China</string>
     <string name="chinese_male">Cântăreţi din China</string>
     <string name="choose_download_quality">Selectaţi calitatea descărcării</string>
     <string name="choose_stream_quality">Selectaţi calitate flux</string>
@@ -173,7 +173,7 @@
     <string name="fragment_title_channel">FM</string>
     <string name="fragment_title_personal">PERSONAL</string>
     <string name="fragment_title_recommend">RECOMANDATE</string>
-    <string name="group_artist">Formaţii</string>
+    <string name="group_artist">Trupe</string>
     <string name="handle_later">Nu acum</string>
     <string name="headset_settings">Căști și efecte audio</string>
     <string name="high_quality">Calitate superioară</string>

@@ -187,7 +187,7 @@
     <string name="cancel_action">Anulaţi</string>
     <string name="cant_move_or_change_labels">Imposibil de mutat deoarece selecția conține mai multe conturi.</string>
     <string name="cc">CC</string>
-    <string name="cc_attribution">CC: %1$s</string>
+    <string name="cc_attribution">CC: %1$s\n</string>
     <string name="cc_bcc">CC/BCC</string>
     <string name="cc_heading">"CC: "</string>
     <string name="change_folders_selection_dialog_title">Modificaţi dosarele</string>
@@ -329,15 +329,11 @@
     <string name="folder_sent_name_en3">Sent Items</string>
     <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
     <string name="folder_shortcut_widget_label">Dosar e-mail</string>
-    <string name="folder_trash_name_en0">Trash</string>
-    <string name="folder_trash_name_en1">Deleted Messages</string>
-    <string name="folder_trash_name_en2">Deleted Message</string>
-    <string name="folder_trash_name_en3">[Gmail]/Bin</string>
     <string name="formatted_email_address">%1$s</string>
     <string name="formatted_subject">%1$s%2$s</string>
     <string name="forward">Redirecţionaţi</string>
     <string name="forward_attachment">Redirecţionaţi</string>
-    <string name="forward_attribution">---------- Mesaj redirecţionat ----------De la: %1$s Dată: %2$s Subiect: %3$s Către: %4$s </string>
+    <string name="forward_attribution">---------- Mesaj redirecţionat ----------\nDe la: %1$s \nData: %2$s \nSubiect: %3$s \nCătre: %4$s </string>
     <string name="forward_attribution_no_headers">---------- Mesaj redirecţionat ----------</string>
     <string name="forward_download_failed_ticker">Nu se pot redirecţiona unul sau mai multe ataşamente</string>
     <string name="forward_download_failed_title">Ataşamentul nu a fost trimis</string>

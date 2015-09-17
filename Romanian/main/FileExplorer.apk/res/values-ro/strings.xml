@@ -127,7 +127,7 @@
     <string name="finished">Finalizat</string>
     <string name="folder_exist">Dosar existent</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
-    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Atingeţi&lt;/a>pentru a merge la Coşul de reciclare</string>
+    <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Atingeţi&lt;/a&gt;pentru a merge la Coşul de reciclare</string>
     <string name="ftp_account_req_notice">4~16 caractere, litere şi cifre, diferenţiere între minuscule şi majuscule</string>
     <string name="ftp_anonymous_login">Autentificare anonimă</string>
     <string name="ftp_invalid_username_or_password">Nume de utilizator sau parolă greşite</string>
@@ -149,9 +149,7 @@
     <string name="kuaipan_label">KuaiPan</string>
     <string name="kuaipan_over_space">Spaţiu insuficient</string>
     <string name="kuaipan_prompt">Notă</string>
-    <string name="kuaipan_prompt_message">"
- Serverul nostru este deconectat pentru lucrări de întreținere în acest moment. Încercaţi din nou mai târziu
-"</string>
+    <string name="kuaipan_prompt_message">\n Serverul nostru este deconectat pentru lucrări de întreținere în acest moment. Încercaţi din nou mai târziu\n</string>
     <string name="kuaipan_tech_support">Conectaţi-vă la kuaipan.cn</string>
     <string name="load_err">Eroare încărcare</string>
     <string name="loading">Încărcare…</string>

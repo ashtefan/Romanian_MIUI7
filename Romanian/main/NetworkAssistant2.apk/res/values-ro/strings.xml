@@ -235,7 +235,7 @@
     <string name="pref_version">Versiune %s</string>
     <string name="pref_warning_values">Nivelul de avertizare</string>
     <string name="pref_whitelist_setting">Gestionare excepţii</string>
-    <string name="privacy_declare_dialog_message">Prin utilizarea acestui serviciu, sunteţi de acord cu &lt;a href=%s&gt; Condițiile de utilizare&lt;/a&gt; Opera."</string>
+    <string name="privacy_declare_dialog_message">Prin utilizarea acestui serviciu, sunteţi de acord cu <a href=%s> Condițiile de utilizare</a> Opera.</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>
     <string name="privacy_prompt_tc_sms_report_message">Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor.</string>
     <string name="privacy_prompt_traffic_adjust_message">Această caracteristică necesită criptarea şi trimiterea IMEI-ului, numărului de telefon şi a informaţiilor operatorului pe serverele Mi, cu scopul de a obține statistici de utilizare a datelor de la operatorul dvs.</string>

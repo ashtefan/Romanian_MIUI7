@@ -55,7 +55,7 @@
     <string name="Generic_UserApp">Aplicaţii descărcate (%d)</string>
     <string name="Generic_Version">Versiune: %1$s</string>
     <string name="HIPS_Action_Accept">Permiteţi</string>
-    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Acceptare&lt;/font></string>
+    <string name="HIPS_Action_Accept_Colored">Acceptare</string>
     <string name="HIPS_Action_Accept_Once">Permiteţi o dată</string>
     <string name="HIPS_Action_Prompt">Solicitare</string>
     <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Solicitare&lt;/font></string>

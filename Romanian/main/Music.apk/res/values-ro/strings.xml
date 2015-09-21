@@ -330,7 +330,7 @@
     <string name="remove">Eliminaţi</string>
     <string name="renew">Reînnoiţi:</string>
     <string name="renew_1">Reînnoiţi</string>
-    <string name="renew_period">"Expiră: "</string>
+    <string name="renew_period">"Expiră la: "</string>
     <string name="retry">Reîncercaţi</string>
     <string name="ringtone_not_support">Acest format nu este acceptat</string>
     <string name="search_album">Căutare albume</string>

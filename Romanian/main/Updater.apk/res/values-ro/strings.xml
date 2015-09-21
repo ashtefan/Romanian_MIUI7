@@ -216,6 +216,6 @@ Nu se poate trimite feedback-ul"</string>
     <string name="notification_auto_reboot_seccess_title">Dispozitiv actualizat automat</string>
     <string name="update_success_reboot_immediately">Actualizare descărcată</string>
     <string name="updater_wait_for_unzip">Despachetare actualizare…</string>
-    <string name="recovery_power_not_enough_msg">Conectați încărcătorul pentru a actualiza, dacă au rămas mai puțin de 30% din acumulator</string>
+    <string name="recovery_power_not_enough_msg">Dacă aveţi disponibil mai puţin de 30% din acumulator trebuie să conectaţi încărcătorul pentru a putea actualiza</string>
     <string name="recovery_power_not_enough_title">Acumulator descărcat</string>
 </resources>

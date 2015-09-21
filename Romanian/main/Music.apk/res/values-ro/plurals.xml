@@ -77,7 +77,7 @@
         <item quantity="one">%d element selectat</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Melodii au fost adăugate la favorite.</item>
-        <item quantity="one">Melodie a fost adăugată la favorite.</item>
+        <item quantity="other">melodii au fost adăugate la favorite.</item>
+        <item quantity="one">melodie a fost adăugată la favorite.</item>
     </plurals>
 </resources>

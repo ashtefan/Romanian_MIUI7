@@ -52,11 +52,11 @@
     <string name="share_button">Distribuiţi</string>
     <string name="share_menu_title">Distribuire</string>
     <string name="share_subject">Distribuiţi</string>
-    <string name="share_title">Distribuire vreme</string>
+    <string name="share_title">Distribuire stare vreme</string>
     <string name="share_weather_desc">\#Meteo MIUI#Astăzi %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">Nu s-a putut capta ecranul</string>
+    <string name="share_weather_save_pic_fail">Nu s-a putut efectua captura de ecran</string>
     <string name="view_aqi_detail_title">Detalii AQI</string>
     <string name="view_aqi_main_no_data">N/A</string>
     <string name="view_aqi_pm25_format">PM2.5: %1$s</string>

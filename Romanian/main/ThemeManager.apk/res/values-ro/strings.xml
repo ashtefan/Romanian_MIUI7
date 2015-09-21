@@ -74,9 +74,9 @@
     <string name="gift_use_fail_dlg_title">Ceva a mers prost</string>
     <string name="gift_used">Trimis</string>
     <string name="live_wallpaper">Imagini de fundal live</string>
-    <string name="loading">Încărcare…</string>
+    <string name="loading">Doar o secundă…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
-    <string name="loading_resource_detail_info">Încărcare…</string>
+    <string name="loading_resource_detail_info">Doar o secundă…</string>
     <string name="lockscreen_magazine_subscribe">%1$s fani</string>
     <string name="lockscreen_magazine_summary">Obţineţi imagini de fundal livrate direct pe ecranul de blocare în fiecare zi.</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s imagini de fundal</string>
@@ -130,7 +130,7 @@
     <string name="resource_comment_footer">Comentariile goale nu sunt afișate</string>
     <string name="resource_comment_good_comments">Pozitive</string>
     <string name="resource_comment_invalid">Atingeţi steluţele pentru a evalua tema</string>
-    <string name="resource_comment_loading_list">Încărcare…</string>
+    <string name="resource_comment_loading_list">Doar o secundă…</string>
     <string name="resource_comment_name_default">Utilizator %1$s</string>
     <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_no_comment">Niciun comentariu</string>

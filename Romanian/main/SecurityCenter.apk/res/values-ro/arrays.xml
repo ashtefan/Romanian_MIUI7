@@ -14,9 +14,10 @@
         <item>Personalizat</item>
      </string-array>
      <string-array name="auto_memory_clean">
-        <item>Într-un minut</item>
-        <item>În 5 minute</item>
-        <item>În 10 minute</item>
+        <item>După un minut</item>
+        <item>După 5 minute</item>
+        <item>După 10 minute</item>
+        <item>După 30 de minute</item>
         <item>Niciodată</item>
      </string-array>
      <string-array name="power_dialog_auto_clean_memory_items">

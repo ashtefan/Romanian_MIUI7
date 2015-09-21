@@ -207,6 +207,8 @@
     <string name="collapse_recipient_details">Restrângeţi detaliile destinatarului</string>
     <string name="colon">:</string>
     <string name="compose">Compuneţi</string>
+    <string name="compose_attachment_number_limit">Numărul de atașări nu poate depăși 10!</string>
+    <string name="compose_picturesexceedlimits">Numărul de imagini incluse nu poate depăși 5!</string>
     <string name="compose_send">Trimiteţi</string>
     <string name="compose_sent">E-mail trimis</string>
     <string name="confirm">OK</string>
@@ -219,6 +221,8 @@
     <string name="confirm_send_message_with_no_body">Nu există niciun text în corpul mesajului.</string>
     <string name="confirm_send_message_with_no_subject">Acest mesaj nu are un subiect.</string>
     <string name="confirm_send_title">Trimiteţi mesajul?</string>
+    <string name="contact_in_filter_call_phone_str">apelaţi: %s</string>
+    <string name="contact_in_filter_title">Vine de la el(ea).</string>
     <string name="contact_info_string">Afişaţi informațiile de contact pentru %1$s</string>
     <string name="contact_info_string_default">Afişaţi informațiile de contact</string>
     <string name="contact_list_add_btn">Adăugaţi</string>
@@ -382,7 +386,7 @@
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">Acest e-mail este prea mare pentru a fi încărcat, se afișează doar o parte din el. Pentru a-l vizualiza în întregime deschideţi-l pe un PC mai târziu.</string>
     <string name="mail_header_network_not_available">Nu aveți o conexiune la rețea.</string>
-    <string name="mailbox_list_account_selector_combined_view">Afişare combinată</string>
+    <string name="mailbox_list_account_selector_combined_view">Cont combinat</string>
     <string name="mailbox_name_display_drafts">Mesaje nefinalizate</string>
     <string name="mailbox_name_display_inbox">Mesaje primite</string>
     <string name="mailbox_name_display_junk">Mesaje nedorite</string>

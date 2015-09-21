@@ -64,7 +64,7 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="accessibility_toggle_speak_password_preference_title">Rostiţi parolele</string>
     <string name="account_add">Adăugaţi</string>
     <string name="account_autostar_label">Autostart</string>
-    <string name="account_list">Toate</string>
+    <string name="account_list">Alte conturi</string>
     <string name="account_settings">Conturi</string>
     <string name="account_sync_settings_title">Sincronizare</string>
     <string name="activate_miui_screensaver">Screensaver</string>

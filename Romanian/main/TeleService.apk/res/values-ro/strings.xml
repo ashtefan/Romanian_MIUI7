@@ -137,7 +137,7 @@
     <string name="call_recording_notification_toggle_title">Notificare înregistrare apel</string>
     <string name="call_recording_setting">Înregistrare apel</string>
     <string name="call_remove_exception_numbers_confirm">%d numere vor fi șterse.</string>
-    <string name="call_settings">Setările apelurilor</string>
+    <string name="call_settings">Telefon</string>
     <string name="call_settings_category">Apeluri</string>
     <string name="call_waiting_summary">În timpul unui apel, se notifică despre alte apeluri primite</string>
     <string name="call_waiting_title">Apel în aşteptare</string>
@@ -1030,7 +1030,7 @@ Cartela SIM va fi ştearsă după o altă încercare greşită."</string>
     <string name="t9_indexing_rebuilding_message">Doar o secundă…</string>
     <string name="technology_news_disable">Știri din tehnologie dezactivate</string>
     <string name="technology_news_enable">Știri din tehnologie activate</string>
-    <string name="telephony_setting">Setările apelurilor</string>
+    <string name="telephony_setting">Telefon</string>
     <string name="telocation_auto_country_code">Adăugaţi codul ţării</string>
     <string name="telocation_auto_country_code_summary">Se adaugă în mod automat codul ţării înainte de a apela contactele</string>
     <string name="telocation_call_assistant">Asistent apelare</string>

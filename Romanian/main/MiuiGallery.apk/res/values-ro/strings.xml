@@ -380,7 +380,7 @@
     <string name="invite_sharer_title">Invitaţi %1$s %2$s</string>
     <string name="invite_tip">Distribuiţi fotografiile copilului dvs.</string>
     <string name="invited_tip">Invitat</string>
-    <string name="is">Este</string>
+    <string name="is">Da</string>
     <string name="iso">ISO</string>
     <string name="item_not_sync_for_origin_image">Imposibil de descărcat imaginile care nu au fost sincronizate cu Mi Cloud.</string>
     <string name="item_not_sync_for_origin_video">Imposibil de descărcat videoclipurile care nu au fost sincronizate cu Mi Cloud.</string>
@@ -471,7 +471,7 @@
     <string name="no_thumbnail">Nicio miniatură</string>
     <string name="none_picture">Nicio imagine</string>
     <string name="not_auto_create_recent_album">Anulaţi creare favorite</string>
-    <string name="not_is">Nu este</string>
+    <string name="not_is">Nu</string>
     <string name="not_now">Nu acum</string>
     <string name="not_remind_any_more">Nu se afişează din nou</string>
     <string name="not_show_hidden_albums">Nu se afişează albumele ascunse</string>
@@ -613,7 +613,7 @@
     <string name="select_auto_upload_albums">Selectaţi albumele pentru sincronizare</string>
     <string name="select_image">Selectaţi o fotografie</string>
     <string name="select_item">Mod editare</string>
-    <string name="select_item_face">"Fotografiile pot fi '%s'"</string>
+    <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_too_much_to_send_tips">Nu puteţi trimite aşa multe elemente (maxim %d elemente).</string>
     <string name="select_video">Selectaţi un videoclip</string>
     <string name="send">Trimiteţi</string>

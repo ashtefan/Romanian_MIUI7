@@ -27,7 +27,7 @@
     <string name="all_tracks">Toate melodiile</string>
     <string name="all_tracks_short">Toate melodiile</string>
     <string name="artist">Artişti</string>
-    <string name="artist_is_empty">Numele artistului nu poate fi gol.</string>
+    <string name="artist_is_empty">Numele artistului nu poate fi necompletat.</string>
     <string name="artist_name">Artist</string>
     <string name="artist_search_title">Artist</string>
     <string name="artist_view">Artist</string>
@@ -183,7 +183,7 @@
     <string name="home_tab_online">Descoperiţi</string>
     <string name="i_know">OK</string>
     <string name="i_know_it">OK</string>
-    <string name="impunity_declaration_content1">"Atingând De acord, sunteti de acord cu termenii prevăzuţi în "</string>
+    <string name="impunity_declaration_content1">"Atingând "De acord", acceptaţi termenii prevăzuţi în "</string>
     <string name="impunity_declaration_content2">Acordul utilizatorului</string>
     <string name="impunity_declaration_content3">" şi "</string>
     <string name="impunity_declaration_content4">Politica de confidențialitate</string>
@@ -196,8 +196,8 @@
     <string name="impunity_declaration_title">Condiţii de utilizare</string>
     <string name="in_searching_please_wait">Căutare…</string>
     <string name="is_loading_data">Încă se încarcă melodiile. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="is_scanning">Scanare, aşteptaţi.</string>
-    <string name="is_scanning_support_online">Scanare, aşteptaţi sau selectaţi muzică on-line.</string>
+    <string name="is_scanning">Scanare, aşteptaţi...</string>
+    <string name="is_scanning_support_online">Scanare. Aşteptaţi sau selectaţi muzică on-line.</string>
     <string name="japan_korea_female">Artiste (Japonia/Coreea)</string>
     <string name="japan_korea_group">Trupe (Japonia/Coreea)</string>
     <string name="japan_korea_male">Artişti (Japonia/Coreea)</string>
@@ -205,7 +205,7 @@
     <string name="like">Îmi place!</string>
     <string name="list_detail_title">Detalii</string>
     <string name="list_item_play_FM_radio">Atingeți pentru a porni radio FM</string>
-    <string name="list_item_play_all_tracks">Redaţi tot</string>
+    <string name="list_item_play_all_tracks">Redaţi toate melodiile</string>
     <string name="listview_index_of_total">%1$d/%2$d</string>
     <string name="loading_hint">Doar o secundă…</string>
     <string name="local_music">Muzică locală</string>
@@ -225,10 +225,10 @@
     <string name="metered_allow">Streaming</string>
     <string name="metered_disallow">Anulaţi</string>
     <string name="metered_play_toast">Utilizare conexiune de date mobile pentru a transmite</string>
-    <string name="miuishare_account_activate_confirmation">Activarea este necesară</string>
+    <string name="miuishare_account_activate_confirmation">Este necesară activarea</string>
     <string name="miuishare_account_activate_ok">Activaţi</string>
     <string name="miuishare_account_login_cancel">Anulaţi</string>
-    <string name="miuishare_account_login_confirmation">Conectarea este necesară</string>
+    <string name="miuishare_account_login_confirmation">Este necesară conectarea</string>
     <string name="miuishare_account_login_ok">Conectare</string>
     <string name="miuishare_account_need_activate">Distribuirea Weibo necesită ca contul dvs. Weibo să fie legat de contul Xiaomi, care nu este activat în prezent. Activați contul?</string>
     <string name="miuishare_account_need_login">Distribuirea Weibo necesită ca contul dvs. Weibo să fie legat de contul Xiaomi, care nu este conectat în prezent. Vă conectaţi pentru a partaja?</string>
@@ -270,7 +270,7 @@
     <string name="nav_local_favorite">Favorite</string>
     <string name="nav_local_song">Descărcate</string>
     <string name="nav_online_artist">Artişti</string>
-    <string name="nav_online_billboard">Charts</string>
+    <string name="nav_online_billboard">Topuri muzicale</string>
     <string name="nav_online_fm">Radio</string>
     <string name="nav_online_playlist">Liste de redare</string>
     <string name="network_failure">Verificaţi conexiunea şi încercaţi din nou.</string>
@@ -301,7 +301,7 @@
     <string name="online_music_enabled_title">Streaming-ul gratuit este aici</string>
     <string name="online_playlist_is_empty">Listă de redare goală</string>
     <string name="only_online_can_select_quality">Puteţi selecta calitatea doar pentru melodiile on-line</string>
-    <string name="order_pending">Aşteptarea confirmării</string>
+    <string name="order_pending">Aşteptarea confirmării...</string>
     <string name="order_process_fail">Nu s-a putut autoriza contul dvs. Așteptați câteva minute și încercați din nou.</string>
     <string name="page_local_setting">Setări</string>
     <string name="pay">Achitaţi:</string>
@@ -375,7 +375,7 @@
     <string name="sleep_mode_canceled">Temporizator oprit</string>
     <string name="sleep_mode_summary">Se opreşte redarea după un anumit timp</string>
     <string name="sleep_mode_title">Temporizator</string>
-    <string name="song_is_empty">Numele melodiei nu poate fi gol.</string>
+    <string name="song_is_empty">Numele melodiei nu poate fi necompletat.</string>
     <string name="song_name">Melodie</string>
     <string name="song_not_find">Această melodie nu este disponibilă.</string>
     <string name="song_unit">elemente</string>
@@ -389,7 +389,7 @@
     <string name="streamloadingtext">Conectare la %s</string>
     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
     <string name="support_online_only">Doar streaming</string>
-    <string name="sync_only_in_wifi">Se sincronizează doar prin WiFi</string>
+    <string name="sync_only_in_wifi">Se sincronizează doar prin Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Sincronizaţi muzica între toate dispozitivele cu Mi Cloud. Utilizarea conexiunii de date mobile pentru a sincroniza muzica va creşte utilizarea datelor. Dacă depăşiţi limita de date din planul dvs, operatorul ar putea percepe taxe suplimentare.</string>
     <string name="tab_album">Albume</string>
     <string name="tab_album_list">Albume</string>
@@ -405,7 +405,7 @@
     <string name="tab_track_list">Melodii</string>
     <string name="take_effect_afater_restart">Trebuie să reporniţi aplicaţia Muzică pentru ca această setare să intre în vigoare.</string>
     <string name="title_online_artist">Artiști de Top</string>
-    <string name="title_online_billboard">Charts</string>
+    <string name="title_online_billboard">Topuri muzicale</string>
     <string name="title_online_fm">Radio</string>
     <string name="title_online_recommend">Liste de redare recomandate</string>
     <string name="title_online_release">Nou</string>
@@ -438,9 +438,9 @@
     <string name="upgrade_services">Actualizări</string>
     <string name="upgrade_suggest">Am întrerupt serviciul nostru actual de streaming din cauza unor probleme de drepturi de autor. Actualizaţi la cea mai nouă versiune a aplicației Muzică pentru a asculta muzică de înaltă calitate.</string>
     <string name="upgrade_to">Actualizaţi la</string>
-    <string name="upgrade_waringing">Veţi avea posibilitatea de a asculta doar muzică stocată off-line.</string>
+    <string name="upgrade_waringing">Veţi avea posibilitatea să ascultaţi doar muzică stocată off-line.</string>
     <string name="valid_period">"Valid : "</string>
-    <string name="vip_expiration_message">După expirarea statutului de membru, veţi putea asculta muzică la doar 128Kbps. Din cauza constrângerilor legale, unele melodii nu sunt disponibile pentru a fi descărcate.</string>
+    <string name="vip_expiration_message">După expirarea statutului de membru, veţi putea asculta muzică la doar 128Kbps. Din cauza constrângerilor legale, unele melodii nu sunt disponibile pentru descărcare.</string>
     <string name="vip_expiration_title">Statutul de membru expiră în curând</string>
     <string name="vip_recommend_title">Obţineţi muzică la o calitate superioară</string>
     <string name="vip_required">Statutul de VIP este necesar</string>
